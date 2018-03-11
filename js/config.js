@@ -105,7 +105,9 @@
 ["flash_format","Simple flash drive formatting","July 17,2016",""],
 ["same_snafu_3yrs_later","Same snafu 3yrs later","July 17,2016",""],
 ["dwm_bar_reborn","dwm-bar reborn","July 24,2016",""],
-["kernel_misc","A few kernel tips","July 28,2016",""]
+["kernel_misc","A few kernel tips","July 28,2016",""],
+["merge_refusal","Git: Merge unrelated histories","March 11,2018",""],
+["benchmark_terminal","Benchmark the terminal","March 11,2018",""]
 
     ];
 
