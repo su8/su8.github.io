@@ -1,0 +1,3268 @@
+at-spi2-atk-2.14.1: Fri Aug 28 17:47:49 2015: 15 seconds
+at-spi2-atk-2.14.1: Fri Aug 28 19:45:15 2015: 17 seconds
+at-spi2-atk-2.14.1: Fri Aug 28 21:33:58 2015: 17 seconds
+at-spi2-atk-2.14.1: Sat Aug 29 00:33:40 2015: 18 seconds
+at-spi2-atk-2.18.1: Thu Mar  3 23:36:30 2016: 19 seconds
+at-spi2-atk-2.18.1: Sun Mar 13 05:37:59 2016: 22 seconds
+at-spi2-core-2.14.1: Fri Aug 28 17:47:29 2015: 20 seconds
+at-spi2-core-2.14.1: Fri Aug 28 19:45:35 2015: 23 seconds
+at-spi2-core-2.14.1: Fri Aug 28 21:33:34 2015: 24 seconds
+at-spi2-core-2.14.1: Sat Aug 29 00:33:17 2015: 23 seconds
+at-spi2-core-2.14.1: Sun Sep  6 18:24:52 2015: 23 seconds
+at-spi2-core-2.18.3: Thu Mar  3 23:29:46 2016: 20 seconds
+at-spi2-core-2.18.3: Sun Mar 13 05:30:42 2016: 25 seconds
+chromium-50.0.2661.75: Fri Apr 15 18:25:43 2016: 4 hours, 28 minutes, 56 seconds
+eselect-1.4.4: Fri Aug 28 17:52:18 2015: 6 seconds
+eselect-1.4.4: Fri Aug 28 19:46:00 2015: 6 seconds
+eselect-1.4.4: Fri Aug 28 20:53:29 2015: 8 seconds
+eselect-1.4.4: Fri Aug 28 23:54:12 2015: 8 seconds
+eselect-1.4.5: Sun Mar  6 02:03:44 2016: 22 seconds
+eselect-1.4.5: Sun Mar 13 04:55:47 2016: 10 seconds
+haskell-updater-1.2.9: Sat Aug 29 04:10:21 2015: 13 seconds
+haskell-updater-1.2.9: Thu Mar  3 22:53:40 2016: 16 seconds
+haskell-updater-1.2.9: Sun Mar 13 11:14:52 2016: 18 seconds
+perl-cleaner-2.19: Fri Aug 28 20:32:09 2015: 8 seconds
+perl-cleaner-2.19: Fri Aug 28 23:31:52 2015: 10 seconds
+perl-cleaner-2.19: Sun Mar 13 01:17:55 2016: 7 seconds
+python-updater-0.11: Fri Aug 28 20:31:13 2015: 4 seconds
+python-updater-0.11: Fri Aug 28 23:30:57 2015: 5 seconds
+python-updater-0.11: Sun Mar 13 01:17:15 2016: 7 seconds
+sudo-1.8.12: Fri Aug 28 19:05:47 2015: 42 seconds
+sudo-1.8.12: Fri Aug 28 22:43:40 2015: 1 minute, 28 seconds
+sudo-1.8.12: Sat Aug 29 01:45:55 2015: 1 minute, 26 seconds
+sudo-1.8.15-r1: Fri Mar  4 00:37:36 2016: 54 seconds
+sudo-1.8.15-r1: Sun Mar 13 05:51:40 2016: 1 minute, 16 seconds
+syslog-ng-3.6.4: Fri Aug 28 18:56:40 2015: 1 minute, 40 seconds
+syslog-ng-3.6.4: Fri Aug 28 22:24:58 2015: 1 minute, 26 seconds
+syslog-ng-3.6.4: Sat Aug 29 01:26:36 2015: 1 minute, 26 seconds
+syslog-ng-3.7.2: Thu Mar  3 23:10:39 2016: 1 minute, 36 seconds
+syslog-ng-3.7.2: Sun Mar 13 04:30:45 2016: 1 minute, 49 seconds
+bzip2-1.0.6-r6: Fri Aug 28 20:15:20 2015: 3 minutes, 27 seconds
+bzip2-1.0.6-r6: Fri Aug 28 23:14:48 2015: 3 minutes, 13 seconds
+bzip2-1.0.6-r6: Sun Sep  6 06:51:29 2015: 12 seconds
+bzip2-1.0.6-r6: Sun Sep  6 07:03:18 2015: 9 seconds
+bzip2-1.0.6-r6: Sun Mar  6 13:11:41 2016: 10 seconds
+bzip2-1.0.6-r6: Mon Mar  7 00:09:38 2016: 13 seconds
+bzip2-1.0.6-r6: Mon Mar  7 01:46:50 2016: 11 seconds
+bzip2-1.0.6-r6: Mon Mar  7 12:39:00 2016: 13 seconds
+bzip2-1.0.6-r6: Mon Mar  7 16:25:07 2016: 17 seconds
+bzip2-1.0.6-r6: Mon Mar  7 17:52:38 2016: 18 seconds
+bzip2-1.0.6-r6: Mon Mar  7 21:24:30 2016: 15 seconds
+bzip2-1.0.6-r6: Sun Mar 13 00:58:03 2016: 14 seconds
+cpio-2.11-r3: Fri Aug 28 18:55:32 2015: 1 minute, 10 seconds
+cpio-2.11-r3: Fri Aug 28 21:43:49 2015: 1 minute, 12 seconds
+cpio-2.11-r3: Sat Aug 29 00:44:20 2015: 1 minute, 21 seconds
+cpio-2.12-r1: Thu Mar  3 18:46:49 2016: 52 seconds
+cpio-2.12-r1: Sun Mar 13 01:03:28 2016: 1 minute, 3 seconds
+gzip-1.6: Fri Aug 28 20:15:52 2015: 3 minutes, 27 seconds
+gzip-1.6: Fri Aug 28 23:15:20 2015: 3 minutes, 20 seconds
+gzip-1.6: Sun Mar  6 13:11:56 2016: 32 seconds
+gzip-1.6: Sun Mar 13 00:59:49 2016: 31 seconds
+libarchive-3.1.2-r1: Fri Aug 28 17:20:38 2015: 34 seconds
+libarchive-3.1.2-r1: Fri Aug 28 21:48:09 2015: 37 seconds
+libarchive-3.1.2-r1: Sat Aug 29 00:49:34 2015: 38 seconds
+libarchive-3.1.2-r1: Thu Mar  3 21:29:09 2016: 44 seconds
+libarchive-3.1.2-r1: Sun Mar 13 05:16:03 2016: 1 minute, 0 seconds
+libarchive-3.1.2-r3: Wed Mar 30 21:42:17 2016: 59 seconds
+rpm2targz-9.0.0.5g: Fri Aug 28 20:33:33 2015: 14 seconds
+rpm2targz-9.0.0.5g: Fri Aug 28 23:33:21 2015: 20 seconds
+rpm2targz-9.0.0.5g: Sun Mar 13 01:10:46 2016: 7 seconds
+tar-1.27.1-r2: Fri Aug 28 21:15:12 2015: 1 minute, 11 seconds
+tar-1.27.1-r2: Sat Aug 29 00:14:17 2015: 1 minute, 11 seconds
+tar-1.27.1-r2: Thu Mar  3 19:00:38 2016: 1 minute, 4 seconds
+tar-1.27.1-r2: Sun Mar  6 13:25:10 2016: 1 minute, 15 seconds
+tar-1.27.1-r2: Sun Mar 13 03:31:01 2016: 1 minute, 15 seconds
+unzip-6.0-r3: Fri Aug 28 20:19:49 2015: 13 seconds
+unzip-6.0-r3: Fri Aug 28 23:19:13 2015: 11 seconds
+unzip-6.0-r3: Sun Mar 13 01:09:58 2016: 11 seconds
+unzip-6.0_p20: Thu Apr  7 01:19:38 2016: 13 seconds
+xz-utils-5.0.8: Fri Aug 28 20:15:11 2015: 3 minutes, 45 seconds
+xz-utils-5.0.8: Fri Aug 28 23:14:40 2015: 3 minutes, 30 seconds
+xz-utils-5.2.2: Thu Mar  3 18:45:19 2016: 39 seconds
+xz-utils-5.2.2: Sun Mar  6 13:11:12 2016: 29 seconds
+xz-utils-5.2.2: Sun Mar 13 00:55:14 2016: 29 seconds
+zip-3.0-r3: Fri Aug 28 16:57:45 2015: 11 seconds
+zip-3.0-r3: Fri Aug 28 20:20:19 2015: 16 seconds
+zip-3.0-r3: Fri Aug 28 23:19:42 2015: 18 seconds
+zip-3.0-r3: Sat Mar  5 11:17:15 2016: 11 seconds
+zip-3.0-r3: Sun Mar 13 01:11:52 2016: 13 seconds
+xfburn-0.5.4: Sun Aug 30 04:39:23 2015: 25 seconds
+xfburn-0.5.4: Sun Mar 13 10:13:34 2016: 21 seconds
+gcr-3.14.0: Fri Aug 28 22:38:58 2015: 1 minute, 37 seconds
+gcr-3.14.0: Sat Aug 29 01:46:26 2015: 2 minutes, 10 seconds
+gcr-3.14.0: Sun Sep  6 05:52:02 2015: 1 minute, 15 seconds
+gcr-3.14.0: Sun Sep  6 18:36:35 2015: 1 minute, 2 seconds
+gcr-3.18.0: Fri Mar  4 00:44:39 2016: 51 seconds
+gcr-3.18.0: Sun Mar 13 09:53:37 2016: 49 seconds
+gentoo-keys-201501052117: Sun Aug 30 23:57:40 2015: 4 seconds
+gentoo-keys-201511260245: Thu Mar  3 18:47:50 2016: 5 seconds
+gentoo-keys-201511260245: Sun Mar 13 01:06:17 2016: 6 seconds
+gnupg-2.0.26-r3: Fri Aug 28 22:03:20 2015: 1 minute, 0 seconds
+gnupg-2.0.26-r3: Sat Aug 29 01:02:11 2015: 1 minute, 4 seconds
+gnupg-2.0.28: Sun Sep  6 05:51:14 2015: 48 seconds
+gnupg-2.0.28: Sun Mar 13 06:22:56 2016: 50 seconds
+libsecret-0.18.2: Fri Aug 28 22:20:38 2015: 25 seconds
+libsecret-0.18.2: Sat Aug 29 01:22:49 2015: 26 seconds
+libsecret-0.18.2: Sun Sep  6 05:54:06 2015: 21 seconds
+libsecret-0.18.2: Sun Sep  6 18:37:37 2015: 18 seconds
+libsecret-0.18.4: Fri Mar  4 00:43:52 2016: 24 seconds
+libsecret-0.18.4: Sun Mar 13 05:55:55 2016: 22 seconds
+mhash-0.9.9.9-r1: Thu May  5 15:50:49 2016: 25 seconds
+p11-kit-0.20.7: Fri Aug 28 21:56:50 2015: 1 minute, 6 seconds
+p11-kit-0.20.7: Sat Aug 29 00:58:18 2015: 55 seconds
+p11-kit-0.20.7: Sun Mar 13 04:06:49 2016: 36 seconds
+pinentry-0.9.0: Fri Aug 28 22:02:28 2015: 35 seconds
+pinentry-0.9.0: Sat Aug 29 00:58:41 2015: 45 seconds
+pinentry-0.9.5: Sun Sep  6 05:43:10 2015: 21 seconds
+pinentry-0.9.5: Fri Mar  4 00:44:16 2016: 23 seconds
+pinentry-0.9.5: Sun Mar 13 06:15:53 2016: 31 seconds
+myspell-en-20081002: Sat Aug 29 16:34:44 2015: 17 seconds
+myspell-en-20081002: Sun Mar 13 01:12:05 2016: 12 seconds
+gvim-7.4.769: Fri Aug 28 22:26:13 2015: 1 minute, 35 seconds
+gvim-7.4.769: Sat Aug 29 01:27:57 2015: 1 minute, 36 seconds
+gvim-7.4.769: Sun Mar 13 06:06:35 2016: 1 minute, 5 seconds
+gvim-7.4.769: Wed Apr 27 21:40:18 2016: 1 minute, 9 seconds
+nano-2.3.6: Fri Aug 28 22:21:49 2015: 25 seconds
+nano-2.3.6: Sat Aug 29 01:23:42 2015: 24 seconds
+nano-2.4.3: Thu Mar  3 20:56:05 2016: 17 seconds
+nano-2.4.3: Sun Mar 13 03:21:36 2016: 17 seconds
+vim-7.4.769: Fri Aug 28 17:51:01 2015: 45 seconds
+vim-7.4.769: Fri Aug 28 21:29:05 2015: 49 seconds
+vim-7.4.769: Sat Aug 29 00:28:32 2015: 49 seconds
+vim-7.4.769: Sat Aug 29 04:44:24 2015: 2 minutes, 51 seconds
+vim-7.4.769: Tue Sep  1 01:34:34 2015: 49 seconds
+vim-7.4.769: Tue Sep  1 11:18:28 2015: 50 seconds
+vim-7.4.769: Tue Sep  1 11:21:10 2015: 48 seconds
+vim-7.4.769: Tue Sep  1 11:24:12 2015: 49 seconds
+vim-7.4.769: Tue Sep  1 11:25:31 2015: 7 seconds
+vim-7.4.769: Fri Mar  4 23:11:19 2016: 1 minute, 43 seconds
+vim-7.4.769: Fri Mar  4 23:21:30 2016: 58 seconds
+vim-7.4.769: Sat Mar  5 02:58:17 2016: 1 minute, 0 seconds
+vim-7.4.769: Sat Mar  5 10:58:26 2016: 57 seconds
+vim-7.4.769: Sat Mar  5 11:01:01 2016: 57 seconds
+vim-7.4.769: Sat Mar  5 11:03:19 2016: 57 seconds
+vim-7.4.769: Sat Mar  5 16:57:45 2016: 57 seconds
+vim-7.4.769: Wed Mar  9 19:43:55 2016: 58 seconds
+vim-7.4.769: Wed Mar  9 20:01:59 2016: 55 seconds
+vim-7.4.769: Wed Mar  9 20:20:38 2016: 57 seconds
+vim-7.4.769: Sun Mar 13 05:23:35 2016: 1 minute, 18 seconds
+vim-7.4.769: Mon Mar 28 22:00:22 2016: 59 seconds
+vim-7.4.769: Wed Apr 27 21:33:51 2016: 58 seconds
+vim-7.4.769: Wed Apr 27 21:57:49 2016: 1 minute, 2 seconds
+vim-core-7.4.769: Fri Aug 28 17:04:47 2015: 20 seconds
+vim-core-7.4.769: Fri Aug 28 20:40:56 2015: 31 seconds
+vim-core-7.4.769: Fri Aug 28 23:41:05 2015: 32 seconds
+vim-core-7.4.769: Sun Mar 13 01:27:32 2016: 37 seconds
+eselect-cdparanoia-0.1: Fri Aug 28 20:33:24 2015: 13 seconds
+eselect-cdparanoia-0.1: Fri Aug 28 23:33:09 2015: 18 seconds
+eselect-cdparanoia-0.1: Sun Mar 13 01:15:54 2016: 6 seconds
+eselect-ctags-1.18: Fri Aug 28 17:14:30 2015: 3 seconds
+eselect-ctags-1.18: Fri Aug 28 20:33:40 2015: 11 seconds
+eselect-ctags-1.18: Fri Aug 28 23:33:30 2015: 16 seconds
+eselect-ctags-1.18: Sun Mar 13 01:25:22 2016: 7 seconds
+eselect-fontconfig-1.1: Fri Aug 28 17:11:53 2015: 3 seconds
+eselect-fontconfig-1.1: Fri Aug 28 20:32:17 2015: 4 seconds
+eselect-fontconfig-1.1: Fri Aug 28 23:32:02 2015: 4 seconds
+eselect-fontconfig-1.1: Sun Mar 13 01:18:09 2016: 6 seconds
+eselect-lib-bin-symlink-0.1.1: Fri Aug 28 20:33:09 2015: 11 seconds
+eselect-lib-bin-symlink-0.1.1: Fri Aug 28 23:32:55 2015: 11 seconds
+eselect-lib-bin-symlink-0.1.1: Sun Mar 13 01:15:31 2016: 9 seconds
+eselect-mesa-0.0.10: Fri Aug 28 17:13:04 2015: 3 seconds
+eselect-mesa-0.0.10: Fri Aug 28 20:32:21 2015: 5 seconds
+eselect-mesa-0.0.10: Fri Aug 28 23:32:06 2015: 4 seconds
+eselect-mesa-0.0.10: Sun Mar 13 01:18:02 2016: 7 seconds
+eselect-notify-send-0.1: Fri Aug 28 20:33:27 2015: 13 seconds
+eselect-notify-send-0.1: Fri Aug 28 23:33:14 2015: 16 seconds
+eselect-notify-send-0.1: Sun Mar 13 01:15:47 2016: 7 seconds
+eselect-opengl-1.2.7: Fri Aug 28 17:12:53 2015: 3 seconds
+eselect-opengl-1.2.7: Fri Aug 28 20:31:02 2015: 6 seconds
+eselect-opengl-1.2.7: Fri Aug 28 23:30:47 2015: 6 seconds
+eselect-opengl-1.3.1-r4: Thu Mar  3 20:47:58 2016: 7 seconds
+eselect-opengl-1.3.1-r4: Sun Mar 13 01:16:00 2016: 7 seconds
+eselect-pinentry-0.4: Fri Aug 28 20:33:27 2015: 15 seconds
+eselect-pinentry-0.4: Fri Aug 28 23:33:17 2015: 17 seconds
+eselect-pinentry-0.6: Sun Sep  6 05:40:10 2015: 5 seconds
+eselect-pinentry-0.6: Sun Mar 13 01:15:40 2016: 7 seconds
+eselect-python-20111108: Fri Aug 28 20:31:17 2015: 7 seconds
+eselect-python-20111108: Fri Aug 28 23:31:02 2015: 7 seconds
+eselect-python-20111108: Sun Mar 13 01:16:56 2016: 11 seconds
+eselect-qtgraphicssystem-1.1.1: Fri Aug 28 17:14:28 2015: 2 seconds
+eselect-qtgraphicssystem-1.1.1: Fri Aug 28 20:53:37 2015: 4 seconds
+eselect-qtgraphicssystem-1.1.1: Fri Aug 28 23:54:20 2015: 5 seconds
+eselect-qtgraphicssystem-1.1.1: Sun Mar 13 01:17:49 2016: 6 seconds
+eselect-vi-1.1.7-r1: Fri Aug 28 17:13:10 2015: 3 seconds
+eselect-vi-1.1.7-r1: Fri Aug 28 20:31:24 2015: 5 seconds
+eselect-vi-1.1.7-r1: Fri Aug 28 23:31:09 2015: 5 seconds
+eselect-vi-1.1.7-r1: Sun Mar 13 01:17:07 2016: 8 seconds
+eselect-xvmc-0.4: Fri Aug 28 17:13:07 2015: 3 seconds
+eselect-xvmc-0.4: Fri Aug 28 20:32:26 2015: 5 seconds
+eselect-xvmc-0.4: Fri Aug 28 23:32:10 2015: 5 seconds
+eselect-xvmc-0.4: Sun Mar 13 01:18:15 2016: 7 seconds
+c_rehash-1.7-r1: Thu Mar  3 18:57:41 2016: 4 seconds
+c_rehash-1.7-r1: Sun Mar 13 01:00:55 2016: 7 seconds
+ca-certificates-20140927.3.17.2: Fri Aug 28 20:30:38 2015: 13 seconds
+ca-certificates-20140927.3.17.2: Fri Aug 28 23:30:21 2015: 13 seconds
+ca-certificates-20151214.3.21: Thu Mar  3 21:07:07 2016: 16 seconds
+ca-certificates-20151214.3.21: Sun Mar 13 02:47:59 2016: 18 seconds
+editor-wrapper-4: Fri Aug 28 20:15:53 2015: 3 minutes, 12 seconds
+editor-wrapper-4: Fri Aug 28 23:15:24 2015: 2 minutes, 59 seconds
+editor-wrapper-4: Sun Mar 13 01:00:28 2016: 6 seconds
+empty-0.6.19b: Fri Aug 28 20:33:30 2015: 14 seconds
+empty-0.6.19b: Fri Aug 28 23:33:17 2015: 20 seconds
+empty-0.6.19b: Sun Mar 13 01:24:44 2016: 7 seconds
+mime-types-9: Fri Aug 28 20:15:56 2015: 3 minutes, 12 seconds
+mime-types-9: Fri Aug 28 23:15:27 2015: 2 minutes, 59 seconds
+mime-types-9: Sun Mar 13 01:00:20 2016: 8 seconds
+pax-utils-1.0.3: Fri Aug 28 17:19:41 2015: 6 seconds
+pax-utils-1.0.3: Fri Aug 28 20:23:42 2015: 7 seconds
+pax-utils-1.0.3: Fri Aug 28 23:23:14 2015: 7 seconds
+pax-utils-1.0.3: Sun Mar 13 02:51:31 2016: 9 seconds
+screenfetch-2.7.7: Sat Aug 29 05:23:26 2015: 4 seconds
+screenfetch-2.7.7: Sun Mar 13 04:20:03 2016: 7 seconds
+libreoffice-l10n-5.0.5.2: Thu May  5 15:50:42 2016: 7 seconds
+eix-0.30.4: Fri Aug 28 22:26:19 2015: 2 minutes, 28 seconds
+eix-0.30.4: Sat Aug 29 01:28:21 2015: 2 minutes, 24 seconds
+eix-0.30.11: Thu Mar  3 19:03:12 2016: 1 minute, 34 seconds
+eix-0.30.11: Sun Mar 13 03:28:26 2016: 1 minute, 42 seconds
+gentoolkit-0.3.0.9-r2: Fri Aug 28 18:56:30 2015: 10 seconds
+gentoolkit-0.3.0.9-r2: Fri Aug 28 22:27:35 2015: 31 seconds
+gentoolkit-0.3.0.9-r2: Sat Aug 29 01:28:35 2015: 26 seconds
+gentoolkit-0.3.0.9-r2: Fri Mar 11 17:09:51 2016: 31 seconds
+gentoolkit-0.3.0.9-r2: Sun Mar 13 04:56:34 2016: 14 seconds
+portage-utils-0.56: Fri Aug 28 21:34:40 2015: 9 seconds
+portage-utils-0.56: Sat Aug 29 00:34:23 2015: 9 seconds
+portage-utils-0.56: Sun Mar 13 01:47:58 2016: 13 seconds
+portage-utils-0.62: Sun Apr  3 06:41:00 2016: 16 seconds
+bash-4.3_p39: Fri Aug 28 21:22:43 2015: 43 seconds
+bash-4.3_p39: Sat Aug 29 00:21:50 2015: 44 seconds
+bash-4.3_p42-r1: Thu Mar  3 19:08:42 2016: 47 seconds
+bash-4.3_p42-r1: Sun Mar  6 13:15:45 2016: 54 seconds
+bash-4.3_p42-r1: Sun Mar 13 03:59:25 2016: 56 seconds
+push-1.6: Fri Aug 28 20:16:59 2015: 14 seconds
+push-1.6: Fri Aug 28 23:16:22 2015: 16 seconds
+push-1.6: Sun Mar 13 01:05:14 2016: 7 seconds
+zsh-5.0.5: Fri Aug 28 22:27:35 2015: 3 minutes, 25 seconds
+zsh-5.0.5: Sat Aug 29 01:28:53 2015: 3 minutes, 50 seconds
+zsh-5.0.5: Sat Aug 29 05:14:19 2015: 1 minute, 35 seconds
+zsh-5.2: Thu Mar  3 21:24:17 2016: 1 minute, 58 seconds
+zsh-5.2: Sun Mar 13 05:45:57 2016: 2 minutes, 27 seconds
+build-docbook-catalog-1.19.1: Fri Aug 28 20:33:00 2015: 7 seconds
+build-docbook-catalog-1.19.1: Fri Aug 28 23:32:48 2015: 7 seconds
+build-docbook-catalog-1.19.1: Sun Mar 13 01:23:37 2016: 7 seconds
+djvu-3.5.25.3: Fri Aug 28 21:56:28 2015: 1 minute, 22 seconds
+djvu-3.5.25.3: Sat Aug 29 00:58:18 2015: 1 minute, 28 seconds
+djvu-3.5.25.3: Sun Mar 13 06:08:11 2016: 59 seconds
+docbook-xml-dtd-4.4-r2: Fri Aug 28 17:14:21 2015: 3 seconds
+docbook-xml-dtd-4.2-r2: Fri Aug 28 17:14:24 2015: 3 seconds
+docbook-xml-dtd-4.3-r1: Fri Aug 28 20:33:07 2015: 5 seconds
+docbook-xml-dtd-4.5-r1: Fri Aug 28 22:27:59 2015: 16 seconds
+docbook-xml-dtd-4.5-r1: Sat Aug 29 01:29:20 2015: 25 seconds
+docbook-xml-dtd-4.2-r2: Wed Sep  2 11:12:37 2015: 4 seconds
+docbook-xml-dtd-4.5-r1: Wed Sep  2 11:14:30 2015: 4 seconds
+docbook-xml-dtd-4.1.2-r6: Thu Sep  3 12:26:46 2015: 17 seconds
+docbook-xml-dtd-4.4-r2: Thu Sep  3 12:27:03 2015: 4 seconds
+docbook-xml-dtd-4.3-r1: Thu Sep  3 12:27:07 2015: 6 seconds
+docbook-xml-dtd-4.1.2-r6: Sun Mar 13 01:23:44 2016: 8 seconds
+docbook-xml-dtd-4.2-r2: Sun Mar 13 01:23:52 2016: 7 seconds
+docbook-xml-dtd-4.3-r1: Sun Mar 13 01:23:59 2016: 8 seconds
+docbook-xml-dtd-4.4-r2: Sun Mar 13 01:24:07 2016: 7 seconds
+docbook-xml-dtd-4.5-r1: Sun Mar 13 02:59:36 2016: 41 seconds
+docbook-xml-dtd-4.4-r2: Fri Aug 28 17:14:21 2015: 3 seconds
+docbook-xml-dtd-4.2-r2: Fri Aug 28 17:14:24 2015: 3 seconds
+docbook-xml-dtd-4.3-r1: Fri Aug 28 20:33:07 2015: 5 seconds
+docbook-xml-dtd-4.5-r1: Fri Aug 28 22:27:59 2015: 16 seconds
+docbook-xml-dtd-4.5-r1: Sat Aug 29 01:29:20 2015: 25 seconds
+docbook-xml-dtd-4.2-r2: Wed Sep  2 11:12:37 2015: 4 seconds
+docbook-xml-dtd-4.5-r1: Wed Sep  2 11:14:30 2015: 4 seconds
+docbook-xml-dtd-4.1.2-r6: Thu Sep  3 12:26:46 2015: 17 seconds
+docbook-xml-dtd-4.4-r2: Thu Sep  3 12:27:03 2015: 4 seconds
+docbook-xml-dtd-4.3-r1: Thu Sep  3 12:27:07 2015: 6 seconds
+docbook-xml-dtd-4.1.2-r6: Sun Mar 13 01:23:44 2016: 8 seconds
+docbook-xml-dtd-4.2-r2: Sun Mar 13 01:23:52 2016: 7 seconds
+docbook-xml-dtd-4.3-r1: Sun Mar 13 01:23:59 2016: 8 seconds
+docbook-xml-dtd-4.4-r2: Sun Mar 13 01:24:07 2016: 7 seconds
+docbook-xml-dtd-4.5-r1: Sun Mar 13 02:59:36 2016: 41 seconds
+docbook-xml-dtd-4.4-r2: Fri Aug 28 17:14:21 2015: 3 seconds
+docbook-xml-dtd-4.2-r2: Fri Aug 28 17:14:24 2015: 3 seconds
+docbook-xml-dtd-4.3-r1: Fri Aug 28 20:33:07 2015: 5 seconds
+docbook-xml-dtd-4.5-r1: Fri Aug 28 22:27:59 2015: 16 seconds
+docbook-xml-dtd-4.5-r1: Sat Aug 29 01:29:20 2015: 25 seconds
+docbook-xml-dtd-4.2-r2: Wed Sep  2 11:12:37 2015: 4 seconds
+docbook-xml-dtd-4.5-r1: Wed Sep  2 11:14:30 2015: 4 seconds
+docbook-xml-dtd-4.1.2-r6: Thu Sep  3 12:26:46 2015: 17 seconds
+docbook-xml-dtd-4.4-r2: Thu Sep  3 12:27:03 2015: 4 seconds
+docbook-xml-dtd-4.3-r1: Thu Sep  3 12:27:07 2015: 6 seconds
+docbook-xml-dtd-4.1.2-r6: Sun Mar 13 01:23:44 2016: 8 seconds
+docbook-xml-dtd-4.2-r2: Sun Mar 13 01:23:52 2016: 7 seconds
+docbook-xml-dtd-4.3-r1: Sun Mar 13 01:23:59 2016: 8 seconds
+docbook-xml-dtd-4.4-r2: Sun Mar 13 01:24:07 2016: 7 seconds
+docbook-xml-dtd-4.5-r1: Sun Mar 13 02:59:36 2016: 41 seconds
+docbook-xml-dtd-4.4-r2: Fri Aug 28 17:14:21 2015: 3 seconds
+docbook-xml-dtd-4.2-r2: Fri Aug 28 17:14:24 2015: 3 seconds
+docbook-xml-dtd-4.3-r1: Fri Aug 28 20:33:07 2015: 5 seconds
+docbook-xml-dtd-4.5-r1: Fri Aug 28 22:27:59 2015: 16 seconds
+docbook-xml-dtd-4.5-r1: Sat Aug 29 01:29:20 2015: 25 seconds
+docbook-xml-dtd-4.2-r2: Wed Sep  2 11:12:37 2015: 4 seconds
+docbook-xml-dtd-4.5-r1: Wed Sep  2 11:14:30 2015: 4 seconds
+docbook-xml-dtd-4.1.2-r6: Thu Sep  3 12:26:46 2015: 17 seconds
+docbook-xml-dtd-4.4-r2: Thu Sep  3 12:27:03 2015: 4 seconds
+docbook-xml-dtd-4.3-r1: Thu Sep  3 12:27:07 2015: 6 seconds
+docbook-xml-dtd-4.1.2-r6: Sun Mar 13 01:23:44 2016: 8 seconds
+docbook-xml-dtd-4.2-r2: Sun Mar 13 01:23:52 2016: 7 seconds
+docbook-xml-dtd-4.3-r1: Sun Mar 13 01:23:59 2016: 8 seconds
+docbook-xml-dtd-4.4-r2: Sun Mar 13 01:24:07 2016: 7 seconds
+docbook-xml-dtd-4.5-r1: Sun Mar 13 02:59:36 2016: 41 seconds
+docbook-xml-dtd-4.4-r2: Fri Aug 28 17:14:21 2015: 3 seconds
+docbook-xml-dtd-4.2-r2: Fri Aug 28 17:14:24 2015: 3 seconds
+docbook-xml-dtd-4.3-r1: Fri Aug 28 20:33:07 2015: 5 seconds
+docbook-xml-dtd-4.5-r1: Fri Aug 28 22:27:59 2015: 16 seconds
+docbook-xml-dtd-4.5-r1: Sat Aug 29 01:29:20 2015: 25 seconds
+docbook-xml-dtd-4.2-r2: Wed Sep  2 11:12:37 2015: 4 seconds
+docbook-xml-dtd-4.5-r1: Wed Sep  2 11:14:30 2015: 4 seconds
+docbook-xml-dtd-4.1.2-r6: Thu Sep  3 12:26:46 2015: 17 seconds
+docbook-xml-dtd-4.4-r2: Thu Sep  3 12:27:03 2015: 4 seconds
+docbook-xml-dtd-4.3-r1: Thu Sep  3 12:27:07 2015: 6 seconds
+docbook-xml-dtd-4.1.2-r6: Sun Mar 13 01:23:44 2016: 8 seconds
+docbook-xml-dtd-4.2-r2: Sun Mar 13 01:23:52 2016: 7 seconds
+docbook-xml-dtd-4.3-r1: Sun Mar 13 01:23:59 2016: 8 seconds
+docbook-xml-dtd-4.4-r2: Sun Mar 13 01:24:07 2016: 7 seconds
+docbook-xml-dtd-4.5-r1: Sun Mar 13 02:59:36 2016: 41 seconds
+docbook-xsl-stylesheets-1.78.0-r1: Fri Aug 28 20:32:39 2015: 13 seconds
+docbook-xsl-stylesheets-1.78.0-r1: Fri Aug 28 23:32:24 2015: 16 seconds
+docbook-xsl-stylesheets-1.79.0: Thu Mar  3 21:30:42 2016: 40 seconds
+docbook-xsl-stylesheets-1.79.0: Sun Mar 13 01:22:20 2016: 35 seconds
+evince-3.14.2-r1: Fri Aug 28 22:52:22 2015: 3 minutes, 0 seconds
+evince-3.14.2-r1: Sat Aug 29 01:57:51 2015: 2 minutes, 49 seconds
+evince-3.14.2-r1: Sun Sep  6 18:38:48 2015: 55 seconds
+evince-3.18.2: Fri Mar  4 00:47:19 2016: 58 seconds
+evince-3.18.2: Sun Mar 13 10:12:36 2016: 58 seconds
+ghostscript-gpl-9.15-r1: Fri Aug 28 22:44:26 2015: 7 minutes, 17 seconds
+ghostscript-gpl-9.15-r1: Sat Aug 29 01:47:41 2015: 6 minutes, 52 seconds
+ghostscript-gpl-9.15-r1: Fri Mar  4 00:26:54 2016: 6 minutes, 44 seconds
+ghostscript-gpl-9.15-r1: Sun Mar 13 09:54:52 2016: 7 minutes, 23 seconds
+hunspell-1.3.3: Sat Aug 29 16:35:16 2015: 46 seconds
+hunspell-1.3.3: Sun Mar 13 03:27:51 2016: 35 seconds
+hunspell-1.3.3: Mon Mar 28 21:47:57 2016: 36 seconds
+hunspell-1.3.3: Thu Mar 31 06:56:39 2016: 1 minute, 1 second
+iso-codes-3.57: Sat Aug 29 16:34:50 2015: 1 minute, 34 seconds
+iso-codes-3.65: Thu Mar  3 19:03:01 2016: 11 seconds
+iso-codes-3.65: Sun Mar 13 03:25:53 2016: 11 seconds
+iso-codes-3.65: Mon Mar 28 21:47:45 2016: 12 seconds
+iso-codes-3.65: Thu Mar 31 06:56:27 2016: 12 seconds
+libebook-0.1.2: Thu May  5 15:58:18 2016: 38 seconds
+libexttextcat-3.4.4: Thu May  5 15:46:27 2016: 11 seconds
+liblangtag-0.5.6: Thu May  5 15:48:47 2016: 21 seconds
+libmwaw-0.3.6: Thu May  5 15:54:08 2016: 2 minutes, 55 seconds
+libodfgen-0.1.4: Thu May  5 15:57:56 2016: 22 seconds
+libpaper-1.1.24-r2: Fri Aug 28 21:57:47 2015: 23 seconds
+libpaper-1.1.24-r2: Sat Aug 29 00:59:07 2015: 31 seconds
+libpaper-1.1.24-r2: Sun Mar 13 01:40:48 2016: 18 seconds
+libspectre-0.2.7: Fri Aug 28 22:52:02 2015: 16 seconds
+libspectre-0.2.7: Sat Aug 29 01:54:46 2015: 25 seconds
+libspectre-0.2.7: Sun Mar 13 10:09:26 2016: 22 seconds
+libwpd-0.10.0-r1: Thu May  5 15:51:24 2016: 32 seconds
+manpager-1: Thu Mar  3 18:46:34 2016: 6 seconds
+manpager-1: Sun Mar 13 01:02:28 2016: 7 seconds
+mythes-1.2.4: Thu May  5 15:53:05 2016: 12 seconds
+openjade-1.3.2-r6: Fri Aug 28 22:00:24 2015: 2 minutes, 15 seconds
+openjade-1.3.2-r6: Sat Aug 29 01:01:18 2015: 2 minutes, 7 seconds
+openjade-1.3.2-r6: Sun Mar 13 03:40:22 2016: 1 minute, 41 seconds
+opensp-1.5.2-r3: Fri Aug 28 21:57:50 2015: 2 minutes, 14 seconds
+opensp-1.5.2-r3: Sat Aug 29 00:59:20 2015: 1 minute, 52 seconds
+opensp-1.5.2-r3: Sun Mar 13 03:26:49 2016: 1 minute, 2 seconds
+po4a-0.45-r1: Fri Aug 28 22:02:40 2015: 1 minute, 4 seconds
+po4a-0.45-r1: Sat Aug 29 01:03:34 2015: 1 minute, 28 seconds
+po4a-0.45-r1: Sun Mar 13 04:15:06 2016: 1 minute, 0 seconds
+poppler-0.32.0: Fri Aug 28 21:58:07 2015: 1 minute, 49 seconds
+poppler-0.32.0: Sat Aug 29 00:59:35 2015: 1 minute, 28 seconds
+poppler-0.32.0: Sun Sep  6 18:35:40 2015: 55 seconds
+poppler-0.32.0: Sun Mar 13 06:56:54 2016: 1 minute, 1 second
+poppler-0.42.0: Wed Apr 20 23:51:03 2016: 1 minute, 10 seconds
+poppler-data-0.4.7: Fri Aug 28 20:17:04 2015: 12 seconds
+poppler-data-0.4.7: Fri Aug 28 23:16:26 2015: 17 seconds
+poppler-data-0.4.7: Sun Mar 13 01:04:42 2016: 11 seconds
+sgml-common-0.6.3-r5: Fri Aug 28 20:16:42 2015: 10 seconds
+sgml-common-0.6.3-r5: Fri Aug 28 23:16:06 2015: 14 seconds
+sgml-common-0.6.3-r5: Sun Mar 13 01:03:02 2016: 10 seconds
+xmlto-0.0.26: Fri Aug 28 17:46:27 2015: 5 seconds
+xmlto-0.0.26: Fri Aug 28 21:43:49 2015: 8 seconds
+xmlto-0.0.26: Sat Aug 29 00:44:20 2015: 8 seconds
+xmlto-0.0.26: Wed Sep  2 11:12:41 2015: 6 seconds
+xmlto-0.0.26-r1: Thu Mar  3 21:43:09 2016: 9 seconds
+xmlto-0.0.26-r1: Sun Mar 13 05:14:43 2016: 11 seconds
+yelp-tools-3.14.1: Fri Aug 28 22:04:54 2015: 25 seconds
+yelp-tools-3.14.1: Sat Aug 29 01:03:53 2015: 18 seconds
+yelp-tools-3.18.0: Thu Mar  3 23:12:53 2016: 9 seconds
+yelp-tools-3.18.0: Sun Mar 13 04:39:19 2016: 9 seconds
+eselect-syntax-20070506: Fri Aug 28 17:52:08 2015: 5 seconds
+eselect-syntax-20070506: Fri Aug 28 22:21:49 2015: 22 seconds
+eselect-syntax-20070506: Sat Aug 29 01:23:55 2015: 18 seconds
+eselect-syntax-20070506: Sun Mar 13 05:28:17 2016: 12 seconds
+gentoo-syntax-20150823: Fri Aug 28 17:51:46 2015: 5 seconds
+gentoo-syntax-20150823: Fri Aug 28 22:22:22 2015: 13 seconds
+gentoo-syntax-20150823: Sat Aug 29 01:24:14 2015: 21 seconds
+gentoo-syntax-20150823: Sun Mar 13 05:27:43 2016: 12 seconds
+gtk-syntax-20130716: Fri Aug 28 17:52:13 2015: 5 seconds
+gtk-syntax-20130716: Fri Aug 28 21:30:50 2015: 9 seconds
+gtk-syntax-20130716: Sat Aug 29 00:30:28 2015: 10 seconds
+gtk-syntax-20130716: Sun Mar 13 05:27:31 2016: 12 seconds
+info-1.7-r1: Fri Aug 28 22:28:11 2015: 14 seconds
+info-1.7-r1: Sat Aug 29 01:29:38 2015: 21 seconds
+info-1.7-r1: Sun Mar 13 05:35:46 2016: 11 seconds
+pam-syntax-20060424: Fri Aug 28 17:51:51 2015: 5 seconds
+pam-syntax-20060424: Fri Aug 28 21:34:15 2015: 9 seconds
+pam-syntax-20060424: Sat Aug 29 00:33:58 2015: 10 seconds
+pam-syntax-20060424: Sun Mar 13 05:28:29 2016: 11 seconds
+atkmm-2.22.7-r1: Fri Aug 28 21:23:40 2015: 24 seconds
+atkmm-2.22.7-r1: Sat Aug 29 00:22:48 2015: 27 seconds
+atkmm-2.24.2: Thu Mar  3 23:28:10 2016: 24 seconds
+atkmm-2.24.2: Sun Mar 13 04:54:57 2016: 37 seconds
+cairomm-1.10.0-r1: Fri Aug 28 20:52:25 2015: 15 seconds
+cairomm-1.10.0-r1: Fri Aug 28 23:52:48 2015: 15 seconds
+cairomm-1.12.0-r1: Thu Mar  3 23:18:48 2016: 17 seconds
+cairomm-1.12.0-r1: Sun Mar 13 06:01:14 2016: 19 seconds
+clucene-2.3.3.4-r5: Thu May  5 15:49:26 2016: 58 seconds
+glibmm-2.42.0-r1: Fri Aug 28 20:45:07 2015: 1 minute, 20 seconds
+glibmm-2.42.0-r1: Fri Aug 28 23:45:57 2015: 1 minute, 9 seconds
+glibmm-2.46.3: Thu Mar  3 23:13:15 2016: 1 minute, 42 seconds
+glibmm-2.46.3: Sun Mar 13 04:45:04 2016: 3 minutes, 10 seconds
+gtkmm-2.24.4-r1: Fri Aug 28 22:16:57 2015: 3 minutes, 18 seconds
+gtkmm-3.14.0-r1: Fri Aug 28 22:52:22 2015: 3 minutes, 31 seconds
+gtkmm-3.14.0-r1: Sat Aug 29 01:56:02 2015: 3 minutes, 59 seconds
+gtkmm-3.14.0-r1: Sat Aug 29 04:44:24 2015: 2 minutes, 38 seconds
+gtkmm-2.24.4-r3: Fri Mar  4 00:24:29 2016: 2 minutes, 25 seconds
+gtkmm-3.18.0-r1: Fri Mar  4 00:34:02 2016: 3 minutes, 12 seconds
+gtkmm-2.24.4-r3: Sun Mar 13 07:11:54 2016: 3 minutes, 7 seconds
+gtkmm-3.18.0-r1: Sun Mar 13 10:03:11 2016: 3 minutes, 47 seconds
+gtkmm-2.24.4-r1: Fri Aug 28 22:16:57 2015: 3 minutes, 18 seconds
+gtkmm-3.14.0-r1: Fri Aug 28 22:52:22 2015: 3 minutes, 31 seconds
+gtkmm-3.14.0-r1: Sat Aug 29 01:56:02 2015: 3 minutes, 59 seconds
+gtkmm-3.14.0-r1: Sat Aug 29 04:44:24 2015: 2 minutes, 38 seconds
+gtkmm-2.24.4-r3: Fri Mar  4 00:24:29 2016: 2 minutes, 25 seconds
+gtkmm-3.18.0-r1: Fri Mar  4 00:34:02 2016: 3 minutes, 12 seconds
+gtkmm-2.24.4-r3: Sun Mar 13 07:11:54 2016: 3 minutes, 7 seconds
+gtkmm-3.18.0-r1: Sun Mar 13 10:03:11 2016: 3 minutes, 47 seconds
+libcmis-0.5.0-r1: Thu May  5 15:59:15 2016: 2 minutes, 39 seconds
+pangomm-2.36.0: Fri Aug 28 21:56:28 2015: 27 seconds
+pangomm-2.36.0: Sat Aug 29 00:58:18 2015: 30 seconds
+pangomm-2.38.1: Thu Mar  3 23:20:04 2016: 26 seconds
+pangomm-2.38.1: Sun Mar 13 07:08:30 2016: 30 seconds
+sqlite-3.8.10.2: Fri Aug 28 17:11:59 2015: 42 seconds
+sqlite-3.8.10.2: Fri Aug 28 21:24:43 2015: 43 seconds
+sqlite-3.8.10.2: Sat Aug 29 00:24:08 2015: 43 seconds
+sqlite-3.9.2: Thu Mar  3 18:53:28 2016: 53 seconds
+sqlite-3.11.1: Sun Mar  6 21:15:51 2016: 1 minute, 3 seconds
+sqlite-3.11.1: Sun Mar 13 01:46:08 2016: 1 minute, 4 seconds
+sqlite-3.12.0: Fri Apr  8 17:58:37 2016: 59 seconds
+sqlite-3.12.0: Mon Apr 18 15:22:28 2016: 57 seconds
+sqlite-3.12.0: Mon Apr 18 17:27:15 2016: 58 seconds
+sqlite-3.12.0: Mon Apr 18 18:23:11 2016: 58 seconds
+unixODBC-2.3.2-r1: Thu May  5 15:48:01 2016: 46 seconds
+cabal-1.18.1.2: Sat Aug 29 04:10:37 2015: 4 minutes, 14 seconds
+cabal-1.18.1.5: Thu Mar  3 20:42:08 2016: 3 minutes, 11 seconds
+cabal-1.18.1.5: Sun Mar 13 11:11:16 2016: 3 minutes, 36 seconds
+data-default-0.5.3: Sat Aug 29 04:15:37 2015: 9 seconds
+data-default-0.5.3: Thu Mar  3 20:47:39 2016: 12 seconds
+data-default-0.5.3: Sun Mar 13 11:17:43 2016: 12 seconds
+data-default-class-0.0.1: Sat Aug 29 04:14:51 2015: 9 seconds
+data-default-class-0.0.1: Thu Mar  3 20:45:19 2016: 11 seconds
+data-default-class-0.0.1: Sun Mar 13 11:15:10 2016: 12 seconds
+data-default-instances-base-0.0.1: Sat Aug 29 04:15:07 2015: 18 seconds
+data-default-instances-base-0.0.1: Thu Mar  3 20:47:07 2016: 11 seconds
+data-default-instances-base-0.0.1: Sun Mar 13 11:17:06 2016: 13 seconds
+data-default-instances-containers-0.0.1: Sat Aug 29 04:15:18 2015: 14 seconds
+data-default-instances-containers-0.0.1: Thu Mar  3 20:47:18 2016: 10 seconds
+data-default-instances-containers-0.0.1: Sun Mar 13 11:17:19 2016: 12 seconds
+data-default-instances-dlist-0.0.1: Sat Aug 29 04:15:20 2015: 15 seconds
+data-default-instances-dlist-0.0.1: Thu Mar  3 20:46:56 2016: 10 seconds
+data-default-instances-dlist-0.0.1: Sun Mar 13 11:16:53 2016: 13 seconds
+data-default-instances-old-locale-0.0.1: Sat Aug 29 04:15:25 2015: 12 seconds
+data-default-instances-old-locale-0.0.1: Thu Mar  3 20:47:28 2016: 11 seconds
+data-default-instances-old-locale-0.0.1: Sun Mar 13 11:17:31 2016: 12 seconds
+dlist-0.7.1: Sat Aug 29 04:14:58 2015: 15 seconds
+dlist-0.7.1: Thu Mar  3 20:46:31 2016: 11 seconds
+dlist-0.7.1: Sun Mar 13 11:16:26 2016: 13 seconds
+extensible-exceptions-0.1.1.4: Sat Aug 29 04:14:51 2015: 13 seconds
+extensible-exceptions-0.1.1.4: Thu Mar  3 20:45:45 2016: 14 seconds
+extensible-exceptions-0.1.1.4: Sun Mar 13 11:15:39 2016: 12 seconds
+mtl-2.1.2-r1: Sat Aug 29 04:15:28 2015: 16 seconds
+mtl-2.1.3.1: Thu Mar  3 20:46:42 2016: 14 seconds
+mtl-2.1.3.1: Sun Mar 13 11:16:39 2016: 14 seconds
+old-locale-1.0.0.7: Sat Aug 29 04:14:59 2015: 11 seconds
+old-locale-1.0.0.7: Thu Mar  3 20:46:06 2016: 7 seconds
+old-locale-1.0.0.7: Sun Mar 13 11:15:59 2016: 8 seconds
+random-1.0.1.1-r1: Sat Aug 29 04:15:02 2015: 19 seconds
+random-1.0.1.1-r1: Thu Mar  3 20:46:13 2016: 18 seconds
+random-1.0.1.1-r1: Sun Mar 13 11:16:07 2016: 19 seconds
+transformers-0.3.0.0-r1: Sat Aug 29 04:15:07 2015: 21 seconds
+transformers-0.3.0.0-r1: Thu Mar  3 20:45:59 2016: 7 seconds
+transformers-0.3.0.0-r1: Sun Mar 13 11:15:51 2016: 7 seconds
+utf8-string-0.3.8: Sat Aug 29 04:14:51 2015: 17 seconds
+utf8-string-0.3.8: Thu Mar  3 20:45:30 2016: 15 seconds
+utf8-string-0.3.8: Sun Mar 13 11:15:22 2016: 17 seconds
+x11-1.6.1.1: Sat Aug 29 04:15:46 2015: 37 seconds
+x11-1.6.1.1: Thu Mar  3 21:55:48 2016: 48 seconds
+x11-1.6.1.1: Sun Mar 13 11:17:55 2016: 50 seconds
+x11-xft-0.3.1: Sat Aug 29 04:16:24 2015: 9 seconds
+x11-xft-0.3.1: Thu Mar  3 22:53:56 2016: 13 seconds
+x11-xft-0.3.1: Sun Mar 13 11:18:45 2016: 15 seconds
+ghc-7.6.3-r1: Sat Aug 29 03:22:18 2015: 46 minutes, 23 seconds
+ghc-7.6.3-r1: Mon Aug 31 07:32:14 2015: 1 hour, 2 minutes, 10 seconds
+ghc-7.8.4: Thu Mar  3 19:49:35 2016: 52 minutes, 33 seconds
+ghc-7.8.4: Sun Mar 13 10:14:49 2016: 56 minutes, 27 seconds
+lua-5.1.5-r3: Wed Apr 27 21:33:37 2016: 14 seconds
+nasm-2.11.08: Fri Aug 28 16:58:04 2015: 13 seconds
+nasm-2.11.08: Fri Aug 28 20:40:27 2015: 17 seconds
+nasm-2.11.08: Fri Aug 28 23:40:35 2015: 18 seconds
+nasm-2.11.08: Sun Mar 13 02:33:55 2016: 19 seconds
+orc-0.4.23: Sat Aug 29 16:34:02 2015: 52 seconds
+orc-0.4.24: Thu Mar  3 18:57:07 2016: 27 seconds
+orc-0.4.24: Sun Mar 13 03:38:13 2016: 32 seconds
+perl-5.20.2: Fri Aug 28 20:36:08 2015: 2 minutes, 51 seconds
+perl-5.20.2: Fri Aug 28 23:36:03 2015: 2 minutes, 49 seconds
+perl-5.20.2: Sun Mar 13 02:27:45 2016: 3 minutes, 20 seconds
+python-2.7.9-r1: Fri Aug 28 17:14:43 2015: 1 minute, 41 seconds
+python-3.4.1: Fri Aug 28 21:39:57 2015: 2 minutes, 4 seconds
+python-3.4.1: Sat Aug 29 00:39:50 2015: 2 minutes, 6 seconds
+python-2.7.10-r1: Thu Mar  3 20:49:41 2016: 2 minutes, 13 seconds
+python-3.4.3-r1: Thu Mar  3 20:57:17 2016: 2 minutes, 42 seconds
+python-2.7.10-r1: Sun Mar 13 02:40:04 2016: 2 minutes, 22 seconds
+python-3.4.3-r1: Sun Mar 13 02:42:43 2016: 2 minutes, 48 seconds
+python-2.7.9-r1: Fri Aug 28 17:14:43 2015: 1 minute, 41 seconds
+python-3.4.1: Fri Aug 28 21:39:57 2015: 2 minutes, 4 seconds
+python-3.4.1: Sat Aug 29 00:39:50 2015: 2 minutes, 6 seconds
+python-2.7.10-r1: Thu Mar  3 20:49:41 2016: 2 minutes, 13 seconds
+python-3.4.3-r1: Thu Mar  3 20:57:17 2016: 2 minutes, 42 seconds
+python-2.7.10-r1: Sun Mar 13 02:40:04 2016: 2 minutes, 22 seconds
+python-3.4.3-r1: Sun Mar 13 02:42:43 2016: 2 minutes, 48 seconds
+python-exec-2.0.1-r1: Fri Aug 28 20:15:12 2015: 3 minutes, 32 seconds
+python-exec-2.0.1-r1: Fri Aug 28 23:14:44 2015: 3 minutes, 14 seconds
+python-exec-2.0.1-r1: Thu Mar  3 18:45:59 2016: 9 seconds
+python-exec-2.0.2: Sun Mar  6 21:15:29 2016: 22 seconds
+python-exec-2.0.2: Sun Mar 13 00:55:43 2016: 10 seconds
+spidermonkey-17.0.0-r4: Fri Aug 28 17:17:44 2015: 1 minute, 52 seconds
+spidermonkey-24.2.0-r3: Fri Aug 28 22:28:19 2015: 2 minutes, 19 seconds
+spidermonkey-24.2.0-r3: Sat Aug 29 01:29:49 2015: 2 minutes, 38 seconds
+spidermonkey-1.8.5-r4: Sun Sep  6 05:41:05 2015: 1 minute, 34 seconds
+spidermonkey-1.8.5-r4: Sun Mar 13 03:51:16 2016: 1 minute, 22 seconds
+spidermonkey-24.2.0-r3: Sun Mar 13 03:52:48 2016: 1 minute, 53 seconds
+spidermonkey-24.2.0-r3: Mon Apr 18 15:41:35 2016: 1 minute, 40 seconds
+spidermonkey-24.2.0-r3: Mon Apr 18 17:43:05 2016: 1 minute, 41 seconds
+spidermonkey-24.2.0-r3: Mon Apr 18 18:42:23 2016: 1 minute, 41 seconds
+spidermonkey-17.0.0-r4: Fri Aug 28 17:17:44 2015: 1 minute, 52 seconds
+spidermonkey-24.2.0-r3: Fri Aug 28 22:28:19 2015: 2 minutes, 19 seconds
+spidermonkey-24.2.0-r3: Sat Aug 29 01:29:49 2015: 2 minutes, 38 seconds
+spidermonkey-1.8.5-r4: Sun Sep  6 05:41:05 2015: 1 minute, 34 seconds
+spidermonkey-1.8.5-r4: Sun Mar 13 03:51:16 2016: 1 minute, 22 seconds
+spidermonkey-24.2.0-r3: Sun Mar 13 03:52:48 2016: 1 minute, 53 seconds
+spidermonkey-24.2.0-r3: Mon Apr 18 15:41:35 2016: 1 minute, 40 seconds
+spidermonkey-24.2.0-r3: Mon Apr 18 17:43:05 2016: 1 minute, 41 seconds
+spidermonkey-24.2.0-r3: Mon Apr 18 18:42:23 2016: 1 minute, 41 seconds
+swig-3.0.5: Fri Aug 28 20:56:03 2015: 36 seconds
+swig-3.0.5: Fri Aug 28 23:56:49 2015: 37 seconds
+swig-3.0.5: Sun Mar 13 01:52:56 2016: 55 seconds
+yasm-1.2.0-r1: Sat Aug 29 16:34:02 2015: 1 minute, 16 seconds
+yasm-1.2.0-r1: Sun Mar 13 03:23:48 2016: 50 seconds
+atk-2.14.0: Fri Aug 28 17:31:40 2015: 14 seconds
+atk-2.14.0: Fri Aug 28 21:14:18 2015: 17 seconds
+atk-2.14.0: Sat Aug 29 00:13:23 2015: 17 seconds
+atk-2.14.0: Sun Sep  6 18:20:58 2015: 18 seconds
+atk-2.18.0: Thu Mar  3 23:23:14 2016: 17 seconds
+atk-2.18.0: Sun Mar 13 04:34:42 2016: 20 seconds
+boost-1.56.0-r1: Sun Aug 30 04:49:30 2015: 7 minutes, 12 seconds
+boost-1.56.0-r1: Sun Mar 13 02:52:18 2016: 7 minutes, 18 seconds
+boost-1.56.0-r1: Mon Apr 18 15:43:15 2016: 6 minutes, 52 seconds
+boost-1.56.0-r1: Mon Apr 18 17:44:46 2016: 7 minutes, 3 seconds
+boost-1.56.0-r1: Mon Apr 18 18:44:04 2016: 7 minutes, 2 seconds
+cyrus-sasl-2.1.26-r9: Fri Aug 28 19:00:34 2015: 2 minutes, 2 seconds
+cyrus-sasl-2.1.26-r9: Fri Aug 28 21:59:53 2015: 1 minute, 31 seconds
+cyrus-sasl-2.1.26-r9: Sat Aug 29 00:59:36 2015: 2 minutes, 0 seconds
+cyrus-sasl-2.1.26-r9: Sun Mar 13 04:16:17 2016: 1 minute, 15 seconds
+dbus-glib-0.102: Fri Aug 28 17:47:17 2015: 12 seconds
+dbus-glib-0.102: Fri Aug 28 20:53:16 2015: 13 seconds
+dbus-glib-0.102: Fri Aug 28 23:53:59 2015: 13 seconds
+dbus-glib-0.102: Sun Mar 13 05:28:40 2016: 22 seconds
+elfutils-0.158: Fri Aug 28 21:18:29 2015: 33 seconds
+elfutils-0.158: Sat Aug 29 00:17:32 2015: 33 seconds
+elfutils-0.163: Thu Mar  3 19:04:46 2016: 37 seconds
+elfutils-0.163: Sun Mar 13 03:44:07 2016: 46 seconds
+eventlog-0.2.12: Fri Aug 28 18:55:20 2015: 15 seconds
+eventlog-0.2.12: Fri Aug 28 20:17:08 2015: 17 seconds
+eventlog-0.2.12: Fri Aug 28 23:16:33 2015: 21 seconds
+eventlog-0.2.12: Sun Mar 13 01:04:53 2016: 14 seconds
+expat-2.1.0-r5: Fri Aug 28 20:15:21 2015: 3 minutes, 52 seconds
+expat-2.1.0-r5: Fri Aug 28 23:14:53 2015: 3 minutes, 36 seconds
+expat-2.1.0-r5: Sun Sep  6 06:50:36 2015: 53 seconds
+expat-2.1.0-r5: Sun Sep  6 07:03:27 2015: 28 seconds
+expat-2.1.0-r5: Mon Mar  7 00:08:36 2016: 1 minute, 2 seconds
+expat-2.1.0-r5: Mon Mar  7 01:47:01 2016: 34 seconds
+expat-2.1.0-r5: Mon Mar  7 12:38:00 2016: 1 minute, 0 seconds
+expat-2.1.0-r5: Mon Mar  7 16:22:23 2016: 34 seconds
+expat-2.1.0-r5: Mon Mar  7 17:47:41 2016: 1 minute, 0 seconds
+expat-2.1.0-r5: Mon Mar  7 21:21:49 2016: 34 seconds
+expat-2.1.0-r5: Sun Mar 13 00:58:17 2016: 36 seconds
+glib-2.42.2: Fri Aug 28 17:28:41 2015: 1 minute, 42 seconds
+glib-2.42.2: Fri Aug 28 20:42:00 2015: 1 minute, 45 seconds
+glib-2.42.2: Fri Aug 28 23:42:14 2015: 1 minute, 46 seconds
+glib-2.46.2-r2: Thu Mar  3 23:07:58 2016: 2 minutes, 10 seconds
+glib-2.46.2-r2: Sun Mar 13 04:20:10 2016: 2 minutes, 38 seconds
+gmp-5.1.3-r1: Fri Aug 28 20:20:23 2015: 1 minute, 10 seconds
+gmp-5.1.3-r1: Fri Aug 28 23:19:47 2015: 1 minute, 14 seconds
+gmp-6.0.0a: Thu Mar  3 18:49:14 2016: 50 seconds
+gmp-6.0.0a: Sun Mar 13 01:10:53 2016: 59 seconds
+gobject-introspection-common-1.42.0: Fri Aug 28 16:57:21 2015: 37 seconds
+gobject-introspection-common-1.42.0: Fri Aug 28 20:19:36 2015: 1 minute, 40 seconds
+gobject-introspection-common-1.42.0: Fri Aug 28 23:18:59 2015: 1 minute, 44 seconds
+gobject-introspection-common-1.42.0: Sun Sep  6 18:19:06 2015: 5 seconds
+gobject-introspection-common-1.46.0: Thu Mar  3 18:48:57 2016: 7 seconds
+gobject-introspection-common-1.46.0: Sun Mar 13 01:10:09 2016: 9 seconds
+hyphen-2.8.8: Thu May  5 15:47:49 2016: 12 seconds
+icu-55.1: Fri Aug 28 16:58:17 2015: 2 minutes, 49 seconds
+icu-55.1: Fri Aug 28 20:59:24 2015: 1 minute, 27 seconds
+icu-55.1: Sat Aug 29 00:00:03 2015: 1 minute, 25 seconds
+icu-55.1: Sun Sep  6 06:57:10 2015: 3 minutes, 8 seconds
+icu-55.1: Sun Sep  6 07:06:52 2015: 1 minute, 37 seconds
+icu-55.1: Sun Mar 13 01:30:47 2016: 1 minute, 49 seconds
+icu-57.1: Mon Apr 18 15:18:55 2016: 3 minutes, 4 seconds
+icu-55.1: Mon Apr 18 17:24:53 2016: 1 minute, 52 seconds
+icu-57.1: Mon Apr 18 18:20:37 2016: 2 minutes, 6 seconds
+iniparser-3.1-r1: Fri Aug 28 21:34:24 2015: 16 seconds
+iniparser-3.1-r1: Sat Aug 29 00:34:08 2015: 15 seconds
+iniparser-3.1-r1: Sun Mar 13 01:35:37 2016: 19 seconds
+json-glib-1.0.4: Thu May  5 12:57:10 2016: 20 seconds
+libassuan-2.1.1: Fri Aug 28 21:59:55 2015: 32 seconds
+libassuan-2.1.1: Sat Aug 29 01:01:00 2015: 25 seconds
+libassuan-2.2.1: Sun Sep  6 05:42:55 2015: 15 seconds
+libassuan-2.2.1: Sun Mar 13 03:30:44 2016: 17 seconds
+libatasmart-0.19-r1: Fri Aug 28 20:28:38 2015: 14 seconds
+libatasmart-0.19-r1: Fri Aug 28 23:28:18 2015: 16 seconds
+libatasmart-0.19-r1: Sun Mar 13 01:21:28 2016: 16 seconds
+libatomic_ops-7.4.2: Thu May  5 15:49:08 2016: 18 seconds
+libburn-1.3.8: Sun Aug 30 04:38:27 2015: 30 seconds
+libburn-1.3.8: Sun Mar 13 01:21:02 2016: 26 seconds
+libcdio-0.92: Fri Aug 28 22:01:21 2015: 48 seconds
+libcdio-0.92: Sat Aug 29 01:01:00 2015: 48 seconds
+libcdio-0.92: Sun Mar 13 03:39:48 2016: 34 seconds
+libcdio-paranoia-0.90_p1-r1: Fri Aug 28 22:02:20 2015: 35 seconds
+libcdio-paranoia-0.90_p1-r1: Sat Aug 29 01:01:48 2015: 38 seconds
+libcdio-paranoia-0.90_p1-r1: Sun Mar 13 03:50:06 2016: 33 seconds
+libcroco-0.6.8-r1: Fri Aug 28 17:30:29 2015: 14 seconds
+libcroco-0.6.8-r1: Fri Aug 28 21:06:39 2015: 2 minutes, 36 seconds
+libcroco-0.6.8-r1: Sat Aug 29 00:06:36 2015: 2 minutes, 15 seconds
+libcroco-0.6.11: Thu Mar  3 23:12:31 2016: 22 seconds
+libcroco-0.6.11: Sun Mar 13 04:35:40 2016: 22 seconds
+libebml-1.3.0: Sun Aug 30 04:30:10 2015: 10 seconds
+libebml-1.3.3: Thu Mar  3 18:55:11 2016: 20 seconds
+libebml-1.3.3: Sun Mar 13 01:39:52 2016: 24 seconds
+libevdev-1.3: Fri Aug 28 22:02:06 2015: 19 seconds
+libevdev-1.3: Sat Aug 29 01:01:31 2015: 23 seconds
+libevdev-1.4.4: Thu Mar  3 21:24:00 2016: 17 seconds
+libevdev-1.4.4: Sun Mar 13 02:49:49 2016: 17 seconds
+libevent-2.0.22: Sat Aug 29 16:34:15 2015: 32 seconds
+libevent-2.0.22: Sun Mar 13 02:46:24 2016: 26 seconds
+libffi-3.0.13-r1: Fri Aug 28 20:15:57 2015: 3 minutes, 13 seconds
+libffi-3.0.13-r1: Fri Aug 28 23:15:29 2015: 3 minutes, 4 seconds
+libffi-3.0.13-r1: Sun Sep  6 06:56:11 2015: 19 seconds
+libffi-3.0.13-r1: Sun Sep  6 07:06:09 2015: 12 seconds
+libffi-3.0.13-r1: Mon Mar  7 00:13:50 2016: 21 seconds
+libffi-3.0.13-r1: Mon Mar  7 01:49:46 2016: 16 seconds
+libffi-3.0.13-r1: Mon Mar  7 12:43:01 2016: 22 seconds
+libffi-3.0.13-r1: Mon Mar  7 16:25:24 2016: 15 seconds
+libffi-3.0.13-r1: Mon Mar  7 17:52:56 2016: 22 seconds
+libffi-3.0.13-r1: Mon Mar  7 21:24:45 2016: 15 seconds
+libffi-3.0.13-r1: Sun Mar 13 01:00:39 2016: 16 seconds
+libgcrypt-1.5.4-r1: Fri Aug 28 21:38:05 2015: 32 seconds
+libgcrypt-1.5.4-r1: Sat Aug 29 00:37:56 2015: 32 seconds
+libgcrypt-1.6.3-r4: Sun Sep  6 05:43:41 2015: 43 seconds
+libgcrypt-1.6.5: Thu Mar  3 18:55:31 2016: 40 seconds
+libgcrypt-1.6.5: Sun Mar 13 03:58:34 2016: 51 seconds
+libgpg-error-1.13: Fri Aug 28 21:19:35 2015: 16 seconds
+libgpg-error-1.13: Sat Aug 29 00:18:38 2015: 15 seconds
+libgpg-error-1.19: Sun Sep  6 05:42:39 2015: 16 seconds
+libgpg-error-1.19: Sun Mar 13 03:17:33 2016: 18 seconds
+libgudev-230: Thu Mar  3 23:22:21 2016: 12 seconds
+libgudev-230: Sun Mar 13 04:39:55 2016: 15 seconds
+libgusb-0.2.5: Fri Aug 28 17:32:06 2015: 10 seconds
+libgusb-0.2.5: Fri Aug 28 21:39:12 2015: 12 seconds
+libgusb-0.2.5: Sat Aug 29 00:39:03 2015: 13 seconds
+libgusb-0.2.5: Sun Sep  6 18:20:11 2015: 12 seconds
+libgusb-0.2.8: Thu Mar  3 23:18:20 2016: 15 seconds
+libgusb-0.2.8: Sun Mar 13 04:42:46 2016: 17 seconds
+libisofs-1.3.8: Sun Aug 30 04:38:27 2015: 47 seconds
+libisofs-1.3.8: Thu Mar  3 21:04:44 2016: 25 seconds
+libisofs-1.3.8: Sun Mar 13 03:42:54 2016: 26 seconds
+libksba-1.3.3: Fri Aug 28 22:02:20 2015: 25 seconds
+libksba-1.3.3: Sat Aug 29 01:01:42 2015: 25 seconds
+libksba-1.3.3: Sun Mar 13 03:36:27 2016: 20 seconds
+liblinear-196-r1: Sun Aug 30 17:30:07 2015: 8 seconds
+liblinear-210-r1: Thu Mar  3 18:47:41 2016: 9 seconds
+liblinear-210-r1: Sun Mar 13 01:06:09 2016: 8 seconds
+libltdl-2.4.6: Fri Aug 28 20:19:58 2015: 18 seconds
+libltdl-2.4.6: Fri Aug 28 23:19:20 2015: 20 seconds
+libltdl-2.4.6: Sun Mar 13 01:09:26 2016: 14 seconds
+libpcre-8.36: Fri Aug 28 19:55:45 2015: 37 seconds
+libpcre-8.36: Fri Aug 28 20:55:14 2015: 40 seconds
+libpcre-8.36: Fri Aug 28 23:56:00 2015: 41 seconds
+libpcre-8.38: Thu Mar  3 20:52:10 2016: 35 seconds
+libpcre-8.38: Sun Mar 13 01:44:02 2016: 50 seconds
+libpipeline-1.4.0: Fri Aug 28 20:22:56 2015: 38 seconds
+libpipeline-1.4.0: Fri Aug 28 23:22:28 2015: 37 seconds
+libpipeline-1.4.0: Sun Mar 13 01:19:43 2016: 35 seconds
+libpthread-stubs-0.3-r1: Fri Aug 28 17:06:51 2015: 9 seconds
+libpthread-stubs-0.3-r1: Fri Aug 28 21:30:59 2015: 11 seconds
+libpthread-stubs-0.3-r1: Sat Aug 29 00:30:38 2015: 11 seconds
+libpthread-stubs-0.3-r1: Mon Mar  7 00:17:24 2016: 21 seconds
+libpthread-stubs-0.3-r1: Mon Mar  7 01:51:39 2016: 14 seconds
+libpthread-stubs-0.3-r1: Mon Mar  7 12:46:34 2016: 19 seconds
+libpthread-stubs-0.3-r1: Mon Mar  7 16:27:14 2016: 14 seconds
+libpthread-stubs-0.3-r1: Mon Mar  7 17:55:16 2016: 20 seconds
+libpthread-stubs-0.3-r1: Mon Mar  7 21:26:37 2016: 14 seconds
+libpthread-stubs-0.3-r1: Sun Mar 13 01:34:06 2016: 14 seconds
+librevenge-0.0.2: Thu May  5 15:47:02 2016: 31 seconds
+libsigc++-2.4.1: Fri Aug 28 20:44:36 2015: 19 seconds
+libsigc++-2.4.1: Fri Aug 28 23:45:05 2015: 24 seconds
+libsigc++-2.6.2: Thu Mar  3 23:12:15 2016: 16 seconds
+libsigc++-2.6.2: Sun Mar 13 04:36:02 2016: 19 seconds
+libsodium-1.0.2: Fri Aug 28 20:17:20 2015: 52 seconds
+libsodium-1.0.2: Fri Aug 28 23:16:47 2015: 58 seconds
+libsodium-1.0.2: Sun Mar 13 01:07:22 2016: 1 minute, 7 seconds
+libtasn1-4.5: Fri Aug 28 18:58:58 2015: 55 seconds
+libtasn1-4.5: Fri Aug 28 21:42:41 2015: 25 seconds
+libtasn1-4.5: Sat Aug 29 00:42:41 2015: 32 seconds
+libtasn1-4.5: Sun Mar 13 04:00:21 2016: 28 seconds
+libusb-1.0.19: Fri Aug 28 17:12:44 2015: 9 seconds
+libusb-1.0.19: Fri Aug 28 20:29:52 2015: 11 seconds
+libusb-1.0.19: Fri Aug 28 23:29:34 2015: 12 seconds
+libusb-1.0.19-r1: Thu Mar  3 20:48:05 2016: 12 seconds
+libusb-1.0.19-r1: Sun Mar 13 00:46:55 2016: 17 seconds
+libusb-1.0.19-r1: Sun Mar 13 01:14:29 2016: 14 seconds
+libuv-1.4.2: Thu Mar 10 00:57:14 2016: 27 seconds
+libuv-1.4.2: Thu Mar 10 21:56:41 2016: 27 seconds
+libuv-1.4.2: Fri Mar 11 02:06:06 2016: 25 seconds
+libuv-1.4.2: Fri Mar 11 22:44:54 2016: 31 seconds
+libuv-1.4.2: Sat Mar 12 22:35:51 2016: 27 seconds
+libuv-1.4.2: Sun Apr  3 10:37:53 2016: 25 seconds
+libuv-1.4.2: Fri Apr  8 23:06:58 2016: 31 seconds
+libuv-1.4.2: Sun Apr 17 21:53:57 2016: 27 seconds
+libuv-1.8.0: Mon Apr 18 15:21:59 2016: 29 seconds
+libuv-1.4.2: Mon Apr 18 17:26:45 2016: 30 seconds
+libuv-1.8.0: Mon Apr 18 18:22:43 2016: 28 seconds
+libxdg-basedir-1.2.0-r1: Sun Aug 30 05:30:26 2015: 42 seconds
+libxdg-basedir-1.2.0-r1: Sun Mar 13 01:43:21 2016: 21 seconds
+libxml2-2.9.2-r1: Fri Aug 28 17:16:24 2015: 1 minute, 4 seconds
+libxml2-2.9.2-r1: Fri Aug 28 21:00:51 2015: 5 minutes, 6 seconds
+libxml2-2.9.2-r1: Sat Aug 29 00:01:28 2015: 5 minutes, 8 seconds
+libxml2-2.9.3: Thu Mar  3 21:05:09 2016: 1 minute, 0 seconds
+libxml2-2.9.3: Sun Mar 13 02:46:50 2016: 1 minute, 9 seconds
+libxml2-2.9.3: Wed Mar 16 16:51:42 2016: 1 minute, 7 seconds
+libxml2-2.9.3: Fri Apr 15 18:20:51 2016: 1 minute, 15 seconds
+libxml2-2.9.3: Sat Apr 16 04:51:24 2016: 1 minute, 6 seconds
+libxml2-2.9.3: Wed May  4 20:06:25 2016: 1 minute, 8 seconds
+libxslt-1.1.28-r4: Fri Aug 28 17:19:48 2015: 33 seconds
+libxslt-1.1.28-r4: Fri Aug 28 21:38:37 2015: 35 seconds
+libxslt-1.1.28-r4: Sat Aug 29 00:38:28 2015: 35 seconds
+libxslt-1.1.28-r4: Sun Sep  6 05:44:24 2015: 41 seconds
+libxslt-1.1.28-r5: Thu Mar  3 21:27:39 2016: 42 seconds
+libxslt-1.1.28-r5: Sun Mar 13 04:06:02 2016: 47 seconds
+lzo-2.08: Fri Aug 28 16:57:14 2015: 45 seconds
+lzo-2.08: Fri Aug 28 20:16:10 2015: 3 minutes, 23 seconds
+lzo-2.08: Fri Aug 28 23:15:31 2015: 3 minutes, 24 seconds
+lzo-2.08: Sun Sep  6 06:55:22 2015: 49 seconds
+lzo-2.08: Sun Sep  6 07:05:44 2015: 25 seconds
+lzo-2.08: Sun Mar 13 01:01:21 2016: 33 seconds
+mpc-1.0.2-r1: Fri Aug 28 20:21:56 2015: 12 seconds
+mpc-1.0.2-r1: Fri Aug 28 23:21:24 2015: 13 seconds
+mpc-1.0.2-r1: Sun Mar 13 01:13:10 2016: 18 seconds
+mpfr-3.1.2_p10: Fri Aug 28 20:21:33 2015: 23 seconds
+mpfr-3.1.2_p10: Fri Aug 28 23:21:01 2015: 23 seconds
+mpfr-3.1.3_p4: Thu Mar  3 18:50:04 2016: 34 seconds
+mpfr-3.1.3_p4: Sun Mar 13 01:12:28 2016: 41 seconds
+nettle-2.7.1-r4: Fri Aug 28 18:55:33 2015: 47 seconds
+nettle-2.7.1-r4: Fri Aug 28 21:43:57 2015: 33 seconds
+nettle-2.7.1-r4: Sat Aug 29 00:44:28 2015: 35 seconds
+nettle-3.2: Thu Mar  3 18:54:21 2016: 30 seconds
+nettle-3.2: Sun Mar 13 01:34:52 2016: 35 seconds
+nspr-4.10.8: Fri Aug 28 17:01:06 2015: 16 seconds
+nspr-4.10.8: Fri Aug 28 21:31:25 2015: 18 seconds
+nspr-4.10.8: Sat Aug 29 00:31:04 2015: 19 seconds
+nspr-4.10.10: Thu Mar  3 18:54:51 2016: 20 seconds
+nspr-4.10.10: Sun Mar 13 01:36:31 2016: 24 seconds
+nspr-4.12: Tue Mar 15 02:19:39 2016: 27 seconds
+nss-3.19.2: Sat Aug 29 16:35:03 2015: 4 minutes, 32 seconds
+nss-3.20: Sun Aug 30 00:45:37 2015: 2 minutes, 43 seconds
+nss-3.21-r2: Thu Mar  3 21:01:08 2016: 2 minutes, 10 seconds
+nss-3.21-r2: Sun Mar 13 01:53:51 2016: 2 minutes, 36 seconds
+nss-3.22.2: Tue Mar 15 02:20:06 2016: 2 minutes, 25 seconds
+nss-3.23: Thu May  5 13:12:25 2016: 2 minutes, 48 seconds
+openssl-1.0.2d: Fri Aug 28 17:02:47 2015: 2 minutes, 0 seconds
+openssl-1.0.2d: Fri Aug 28 20:48:28 2015: 2 minutes, 3 seconds
+openssl-1.0.2d: Fri Aug 28 23:49:01 2015: 2 minutes, 2 seconds
+openssl-1.0.2f: Thu Mar  3 18:57:45 2016: 2 minutes, 11 seconds
+openssl-1.0.2g-r2: Tue Mar  8 00:33:10 2016: 2 minutes, 32 seconds
+openssl-1.0.2g-r2: Thu Mar 10 00:54:13 2016: 3 minutes, 1 second
+openssl-1.0.2g-r2: Thu Mar 10 01:10:18 2016: 2 minutes, 38 seconds
+openssl-1.0.2g-r2: Thu Mar 10 21:53:38 2016: 3 minutes, 3 seconds
+openssl-1.0.2g-r2: Thu Mar 10 22:40:08 2016: 2 minutes, 43 seconds
+openssl-1.0.2g-r2: Fri Mar 11 02:03:10 2016: 2 minutes, 56 seconds
+openssl-1.0.2g-r2: Fri Mar 11 05:34:39 2016: 2 minutes, 57 seconds
+openssl-1.0.2g-r2: Fri Mar 11 22:41:49 2016: 3 minutes, 5 seconds
+openssl-1.0.2g-r2: Sat Mar 12 01:09:40 2016: 2 minutes, 35 seconds
+openssl-1.0.2g-r2: Sat Mar 12 21:47:58 2016: 2 minutes, 59 seconds
+openssl-1.0.2g-r2: Sun Mar 13 02:37:06 2016: 2 minutes, 58 seconds
+openssl-1.0.2h: Wed May  4 20:37:47 2016: 2 minutes, 59 seconds
+pcre++-0.9.5-r1: Fri Aug 28 22:28:44 2015: 43 seconds
+pcre++-0.9.5-r1: Sat Aug 29 01:30:39 2015: 54 seconds
+pcre++-0.9.5-r1: Thu Mar  3 21:27:19 2016: 20 seconds
+pcre++-0.9.5-r1: Sun Mar 13 01:56:27 2016: 23 seconds
+popt-1.16-r2: Fri Aug 28 21:14:35 2015: 13 seconds
+popt-1.16-r2: Sat Aug 29 00:13:40 2015: 13 seconds
+popt-1.16-r2: Sun Mar 13 03:18:31 2016: 17 seconds
+pth-2.0.7-r3: Fri Aug 28 20:44:36 2015: 27 seconds
+pth-2.0.7-r3: Fri Aug 28 23:45:05 2015: 33 seconds
+pth-2.0.7-r3: Sun Mar 13 03:35:57 2016: 30 seconds
+vala-common-0.26.2: Fri Aug 28 16:57:26 2015: 21 seconds
+vala-common-0.26.2: Fri Aug 28 20:19:57 2015: 11 seconds
+vala-common-0.26.2: Fri Aug 28 23:19:19 2015: 12 seconds
+vala-common-0.30.1: Thu Mar  3 18:49:04 2016: 10 seconds
+vala-common-0.30.1: Sun Mar 13 01:10:18 2016: 8 seconds
+wayland-1.6.1: Fri Aug 28 17:07:07 2015: 10 seconds
+wayland-1.6.1: Fri Aug 28 20:22:45 2015: 11 seconds
+wayland-1.6.1: Fri Aug 28 23:22:15 2015: 13 seconds
+wayland-1.9.0: Thu Mar  3 21:04:18 2016: 16 seconds
+wayland-1.9.0: Sun Mar 13 01:21:44 2016: 16 seconds
+Archive-Zip-1.530.0: Thu May  5 15:53:17 2016: 6 seconds
+Authen-SASL-2.160.0-r1: Sat Aug 29 04:25:19 2015: 5 seconds
+Authen-SASL-2.160.0-r1: Sun Mar 13 02:36:08 2016: 8 seconds
+Digest-HMAC-1.30.0-r1: Sat Aug 29 04:25:11 2015: 5 seconds
+Digest-HMAC-1.30.0-r1: Sun Mar 13 02:31:58 2016: 7 seconds
+Error-0.170.210: Sat Aug 29 04:25:24 2015: 5 seconds
+Error-0.170.240: Thu Mar  3 19:00:30 2016: 8 seconds
+Error-0.170.240: Sun Mar 13 02:35:58 2016: 10 seconds
+File-BaseDir-0.30.0-r1: Fri Aug 28 20:40:27 2015: 6 seconds
+File-BaseDir-0.30.0-r1: Fri Aug 28 23:40:35 2015: 8 seconds
+File-BaseDir-0.30.0-r1: Sun Mar 13 02:36:29 2016: 7 seconds
+File-DesktopEntry-0.40.0-r1: Fri Aug 28 20:40:44 2015: 12 seconds
+File-DesktopEntry-0.40.0-r1: Fri Aug 28 23:40:53 2015: 14 seconds
+File-DesktopEntry-0.40.0-r1: Sun Mar 13 02:36:51 2016: 8 seconds
+File-MimeInfo-0.210.0: Fri Aug 28 22:02:53 2015: 13 seconds
+File-MimeInfo-0.210.0: Sat Aug 29 01:02:03 2015: 13 seconds
+File-MimeInfo-0.270.0: Thu Mar  3 20:47:51 2016: 7 seconds
+File-MimeInfo-0.270.0: Sun Mar 13 04:39:11 2016: 8 seconds
+IO-Socket-SSL-1.967.0: Sat Aug 29 04:25:45 2015: 7 seconds
+IO-Socket-SSL-2.12.0: Thu Mar  3 18:59:56 2016: 16 seconds
+IO-Socket-SSL-2.24.0: Sun Mar  6 02:04:06 2016: 14 seconds
+IO-Socket-SSL-2.24.0: Sun Mar 13 02:48:49 2016: 8 seconds
+Locale-gettext-1.50.0-r1: Fri Aug 28 21:23:40 2015: 10 seconds
+Locale-gettext-1.50.0-r1: Sat Aug 29 00:22:48 2015: 11 seconds
+Locale-gettext-1.50.0-r1: Sun Mar 13 03:25:44 2016: 9 seconds
+Module-Build-0.420.500: Fri Aug 28 20:40:13 2015: 9 seconds
+Module-Build-0.420.500: Fri Aug 28 23:40:18 2015: 13 seconds
+Module-Build-0.420.500: Sun Mar 13 02:32:22 2016: 9 seconds
+Module-Build-0.421.400: Wed Mar 16 08:25:50 2016: 8 seconds
+Module-Build-0.421.600: Mon Mar 28 18:26:12 2016: 13 seconds
+Net-SMTP-SSL-1.10.0-r1: Sat Aug 29 04:25:52 2015: 5 seconds
+Net-SMTP-SSL-1.30.0: Thu Mar  3 19:00:12 2016: 7 seconds
+Net-SMTP-SSL-1.30.0: Sun Mar 13 02:51:53 2016: 7 seconds
+Net-SSLeay-1.650.0-r1: Sat Aug 29 04:25:29 2015: 16 seconds
+Net-SSLeay-1.650.0-r1: Sun Mar 13 02:42:26 2016: 17 seconds
+Net-SSLeay-1.720.0-r1: Sun Apr 10 15:48:10 2016: 22 seconds
+SGMLSpm-1.03-r7: Fri Aug 28 20:40:44 2015: 8 seconds
+SGMLSpm-1.03-r7: Fri Aug 28 23:40:53 2015: 9 seconds
+SGMLSpm-1.03-r7: Sun Mar 13 02:34:14 2016: 9 seconds
+TermReadKey-2.300.200-r1: Fri Aug 28 20:40:44 2015: 16 seconds
+TermReadKey-2.300.200-r1: Fri Aug 28 23:40:53 2015: 18 seconds
+TermReadKey-2.300.200-r1: Sun Mar 13 02:33:47 2016: 8 seconds
+Text-CharWidth-0.40.0-r1: Fri Aug 28 20:40:47 2015: 17 seconds
+Text-CharWidth-0.40.0-r1: Fri Aug 28 23:40:57 2015: 18 seconds
+Text-CharWidth-0.40.0-r1: Sun Mar 13 02:32:58 2016: 8 seconds
+Text-Unidecode-0.40.0-r1: Fri Aug 28 20:39:25 2015: 8 seconds
+Text-Unidecode-0.40.0-r1: Fri Aug 28 23:39:29 2015: 8 seconds
+Text-Unidecode-0.40.0-r1: Sun Mar 13 02:33:34 2016: 13 seconds
+Text-WrapI18N-0.60.0-r1: Fri Aug 28 20:41:27 2015: 10 seconds
+Text-WrapI18N-0.60.0-r1: Fri Aug 28 23:41:37 2015: 14 seconds
+Text-WrapI18N-0.60.0-r1: Sun Mar 13 02:36:36 2016: 8 seconds
+URI-1.600.0-r1: Fri Aug 28 20:40:48 2015: 19 seconds
+URI-1.600.0-r1: Fri Aug 28 23:40:57 2015: 22 seconds
+URI-1.600.0-r1: Sun Mar 13 02:32:49 2016: 9 seconds
+Unicode-EastAsianWidth-1.330.0-r1: Fri Aug 28 20:39:33 2015: 6 seconds
+Unicode-EastAsianWidth-1.330.0-r1: Fri Aug 28 23:39:37 2015: 7 seconds
+Unicode-EastAsianWidth-1.330.0-r1: Sun Mar 13 02:33:13 2016: 8 seconds
+XML-LibXML-2.12.100: Fri Aug 28 22:02:59 2015: 23 seconds
+XML-LibXML-2.12.100: Sat Aug 29 01:02:22 2015: 27 seconds
+XML-LibXML-2.12.100: Sun Mar 13 03:01:20 2016: 18 seconds
+XML-NamespaceSupport-1.110.0-r1: Fri Aug 28 20:40:13 2015: 6 seconds
+XML-NamespaceSupport-1.110.0-r1: Fri Aug 28 23:40:18 2015: 9 seconds
+XML-NamespaceSupport-1.110.0-r1: Sun Mar 13 02:32:31 2016: 7 seconds
+XML-Parser-2.410.0-r2: Fri Aug 28 20:40:13 2015: 14 seconds
+XML-Parser-2.410.0-r2: Fri Aug 28 23:40:19 2015: 15 seconds
+XML-Parser-2.410.0-r2: Sun Mar 13 02:32:38 2016: 11 seconds
+XML-SAX-0.990.0-r1: Fri Aug 28 21:43:57 2015: 7 seconds
+XML-SAX-0.990.0-r1: Sat Aug 29 00:44:28 2015: 9 seconds
+XML-SAX-0.990.0-r1: Sun Mar 13 02:52:10 2016: 8 seconds
+XML-SAX-Base-1.80.0-r1: Fri Aug 28 20:40:49 2015: 21 seconds
+XML-SAX-Base-1.80.0-r1: Fri Aug 28 23:40:58 2015: 26 seconds
+XML-SAX-Base-1.80.0-r1: Sun Mar 13 02:33:06 2016: 7 seconds
+XML-Simple-2.200.0-r1: Fri Aug 28 22:03:38 2015: 16 seconds
+XML-Simple-2.200.0-r1: Sat Aug 29 01:03:10 2015: 23 seconds
+XML-Simple-2.200.0-r1: Sun Mar 13 03:06:09 2016: 10 seconds
+libintl-perl-1.200.0-r1: Fri Aug 28 20:39:39 2015: 10 seconds
+libintl-perl-1.200.0-r1: Fri Aug 28 23:39:44 2015: 10 seconds
+libintl-perl-1.200.0-r1: Sun Mar 13 02:33:21 2016: 13 seconds
+libintl-perl-1.240.0: Tue Mar 15 02:19:21 2016: 18 seconds
+certifi-2015.11.20: Thu Mar  3 23:15:12 2016: 7 seconds
+certifi-2015.11.20: Sun Mar 13 03:09:17 2016: 12 seconds
+cython-0.22: Fri Aug 28 17:21:12 2015: 2 minutes, 5 seconds
+cython-0.22: Fri Aug 28 20:24:37 2015: 2 minutes, 7 seconds
+cython-0.22: Fri Aug 28 23:24:11 2015: 2 minutes, 7 seconds
+cython-0.22: Sun Mar 13 03:09:29 2016: 2 minutes, 19 seconds
+numpy-1.9.0-r1: Sat Aug 29 04:26:38 2015: 3 minutes, 15 seconds
+numpy-1.10.4: Thu Mar  3 23:15:19 2016: 2 minutes, 16 seconds
+numpy-1.10.4: Sun Mar 13 03:06:53 2016: 2 minutes, 24 seconds
+packaging-15.3-r2: Thu Mar  3 21:22:01 2016: 24 seconds
+packaging-15.3-r2: Sun Mar 13 02:48:57 2016: 8 seconds
+pycairo-1.10.0-r4: Sat Aug 29 04:32:09 2015: 11 seconds
+pycairo-1.10.0-r4: Sun Mar 13 06:00:58 2016: 16 seconds
+pyelftools-0.22: Fri Aug 28 17:19:36 2015: 5 seconds
+pyelftools-0.22: Fri Aug 28 20:23:34 2015: 7 seconds
+pyelftools-0.22: Fri Aug 28 23:23:06 2015: 8 seconds
+pyelftools-0.22: Sun Mar 13 02:48:39 2016: 10 seconds
+pygobject-2.28.6-r55: Sat Aug 29 04:25:58 2015: 40 seconds
+pygobject-2.28.6-r55: Sun Mar 13 04:35:02 2016: 38 seconds
+pygtk-2.24.0-r4: Sat Aug 29 04:32:20 2015: 1 minute, 7 seconds
+pygtk-2.24.0-r4: Sun Mar 13 07:05:46 2016: 1 minute, 23 seconds
+pygtksourceview-2.10.1-r1: Sat Aug 29 04:47:35 2015: 13 seconds
+pygtksourceview-2.10.1-r1: Sun Mar 13 07:11:35 2016: 19 seconds
+pyxattr-0.5.5: Thu Mar  3 17:57:46 2016: 14 seconds
+pyxattr-0.5.5: Sun Mar 13 03:36:47 2016: 9 seconds
+setuptools-12.0.1: Fri Aug 28 17:20:21 2015: 5 seconds
+setuptools-12.0.1: Fri Aug 28 20:24:16 2015: 9 seconds
+setuptools-12.0.1: Fri Aug 28 23:23:48 2015: 10 seconds
+setuptools-18.4: Thu Mar  3 23:14:57 2016: 15 seconds
+setuptools-18.4: Sun Mar 13 03:06:26 2016: 10 seconds
+linguist-tools-5.4.2: Fri Aug 28 21:09:16 2015: 48 seconds
+linguist-tools-5.5.1-r1: Sun Mar  6 02:15:28 2016: 55 seconds
+linguist-tools-5.5.1-r1: Sun Mar 13 04:48:38 2016: 1 minute, 13 seconds
+qtchooser-0_p20150102: Fri Aug 28 16:57:14 2015: 8 seconds
+qtchooser-0_p20150102: Fri Aug 28 20:16:35 2015: 8 seconds
+qtchooser-0_p20150102: Fri Aug 28 23:16:02 2015: 8 seconds
+qtchooser-0_p20151008: Thu Mar  3 18:46:13 2016: 7 seconds
+qtchooser-0_p20151008: Sun Mar 13 00:58:53 2016: 9 seconds
+qtcore-4.8.6-r2: Fri Aug 28 17:33:49 2015: 4 minutes, 12 seconds
+qtcore-5.4.2: Fri Aug 28 19:56:22 2015: 7 minutes, 13 seconds
+qtcore-4.8.6-r2: Fri Aug 28 20:06:17 2015: 4 minutes, 8 seconds
+qtcore-5.4.2: Fri Aug 28 21:00:51 2015: 4 minutes, 45 seconds
+qtcore-5.4.2: Sat Aug 29 00:01:28 2015: 4 minutes, 40 seconds
+qtcore-5.5.1-r1: Sun Mar  6 02:04:20 2016: 7 minutes, 43 seconds
+qtcore-5.5.1-r1: Sun Mar 13 04:23:19 2016: 5 minutes, 57 seconds
+qtcore-4.8.6-r2: Sun Mar 13 04:56:48 2016: 6 minutes, 50 seconds
+qtcore-4.8.6-r2: Mon Apr 18 15:23:25 2016: 4 minutes, 57 seconds
+qtcore-5.5.1-r1: Mon Apr 18 15:28:22 2016: 5 minutes, 19 seconds
+qtcore-4.8.6-r2: Mon Apr 18 17:28:13 2016: 5 minutes, 9 seconds
+qtcore-5.5.1-r1: Mon Apr 18 17:33:22 2016: 5 minutes, 39 seconds
+qtcore-4.8.6-r2: Mon Apr 18 18:24:09 2016: 5 minutes, 1 second
+qtcore-5.5.1-r1: Mon Apr 18 18:29:10 2016: 5 minutes, 23 seconds
+qtcore-4.8.6-r2: Fri Aug 28 17:33:49 2015: 4 minutes, 12 seconds
+qtcore-5.4.2: Fri Aug 28 19:56:22 2015: 7 minutes, 13 seconds
+qtcore-4.8.6-r2: Fri Aug 28 20:06:17 2015: 4 minutes, 8 seconds
+qtcore-5.4.2: Fri Aug 28 21:00:51 2015: 4 minutes, 45 seconds
+qtcore-5.4.2: Sat Aug 29 00:01:28 2015: 4 minutes, 40 seconds
+qtcore-5.5.1-r1: Sun Mar  6 02:04:20 2016: 7 minutes, 43 seconds
+qtcore-5.5.1-r1: Sun Mar 13 04:23:19 2016: 5 minutes, 57 seconds
+qtcore-4.8.6-r2: Sun Mar 13 04:56:48 2016: 6 minutes, 50 seconds
+qtcore-4.8.6-r2: Mon Apr 18 15:23:25 2016: 4 minutes, 57 seconds
+qtcore-5.5.1-r1: Mon Apr 18 15:28:22 2016: 5 minutes, 19 seconds
+qtcore-4.8.6-r2: Mon Apr 18 17:28:13 2016: 5 minutes, 9 seconds
+qtcore-5.5.1-r1: Mon Apr 18 17:33:22 2016: 5 minutes, 39 seconds
+qtcore-4.8.6-r2: Mon Apr 18 18:24:09 2016: 5 minutes, 1 second
+qtcore-5.5.1-r1: Mon Apr 18 18:29:10 2016: 5 minutes, 23 seconds
+qtdbus-5.4.2: Fri Aug 28 21:05:57 2015: 1 minute, 52 seconds
+qtdbus-4.8.6-r1: Sun Aug 30 04:39:14 2015: 1 minute, 12 seconds
+qtdbus-5.5.1: Sun Mar  6 02:18:39 2016: 56 seconds
+qtdbus-4.8.6-r1: Sun Mar 13 05:31:57 2016: 1 minute, 43 seconds
+qtdbus-5.5.1: Sun Mar 13 05:34:03 2016: 1 minute, 16 seconds
+qtdbus-5.4.2: Fri Aug 28 21:05:57 2015: 1 minute, 52 seconds
+qtdbus-4.8.6-r1: Sun Aug 30 04:39:14 2015: 1 minute, 12 seconds
+qtdbus-5.5.1: Sun Mar  6 02:18:39 2016: 56 seconds
+qtdbus-4.8.6-r1: Sun Mar 13 05:31:57 2016: 1 minute, 43 seconds
+qtdbus-5.5.1: Sun Mar 13 05:34:03 2016: 1 minute, 16 seconds
+qtgui-4.8.6-r4: Fri Aug 28 18:31:14 2015: 5 minutes, 8 seconds
+qtgui-5.4.2-r1: Sat Aug 29 03:22:03 2015: 6 minutes, 37 seconds
+qtgui-4.8.6-r4: Mon Aug 31 02:30:34 2015: 8 minutes, 56 seconds
+qtgui-4.8.6-r4: Sun Sep  6 21:07:03 2015: 5 minutes, 23 seconds
+qtgui-5.4.2-r1: Fri Mar  4 00:19:58 2016: 4 minutes, 31 seconds
+qtgui-4.8.6-r4: Fri Mar  4 19:25:17 2016: 6 minutes, 24 seconds
+qtgui-5.5.1-r1: Sun Mar  6 02:19:35 2016: 5 minutes, 54 seconds
+qtgui-5.5.1-r1: Wed Mar  9 17:13:30 2016: 5 minutes, 45 seconds
+qtgui-4.8.6-r4: Sun Mar 13 06:09:33 2016: 6 minutes, 20 seconds
+qtgui-5.5.1-r1: Sun Mar 13 09:38:59 2016: 6 minutes, 10 seconds
+qtgui-4.8.6-r4: Fri Aug 28 18:31:14 2015: 5 minutes, 8 seconds
+qtgui-5.4.2-r1: Sat Aug 29 03:22:03 2015: 6 minutes, 37 seconds
+qtgui-4.8.6-r4: Mon Aug 31 02:30:34 2015: 8 minutes, 56 seconds
+qtgui-4.8.6-r4: Sun Sep  6 21:07:03 2015: 5 minutes, 23 seconds
+qtgui-5.4.2-r1: Fri Mar  4 00:19:58 2016: 4 minutes, 31 seconds
+qtgui-4.8.6-r4: Fri Mar  4 19:25:17 2016: 6 minutes, 24 seconds
+qtgui-5.5.1-r1: Sun Mar  6 02:19:35 2016: 5 minutes, 54 seconds
+qtgui-5.5.1-r1: Wed Mar  9 17:13:30 2016: 5 minutes, 45 seconds
+qtgui-4.8.6-r4: Sun Mar 13 06:09:33 2016: 6 minutes, 20 seconds
+qtgui-5.5.1-r1: Sun Mar 13 09:38:59 2016: 6 minutes, 10 seconds
+qtlockedfile-2.4.1_p20130904: Sun Aug 30 04:38:54 2015: 14 seconds
+qtlockedfile-2.4.1_p20150629: Thu Mar  3 20:48:22 2016: 8 seconds
+qtlockedfile-2.4.1_p20150629: Sun Mar 13 05:07:28 2016: 22 seconds
+qtscript-4.8.6-r2: Fri Aug 28 17:38:18 2015: 1 minute, 59 seconds
+qtscript-5.4.2-r1: Fri Aug 28 21:05:57 2015: 3 minutes, 1 second
+qtscript-5.4.2-r1: Sat Aug 29 00:06:36 2015: 2 minutes, 6 seconds
+qtscript-5.5.1-r1: Sun Mar  6 02:12:49 2016: 2 minutes, 39 seconds
+qtscript-5.5.1-r1: Sun Mar 13 04:40:10 2016: 2 minutes, 36 seconds
+qtscript-4.8.6-r2: Sun Mar 13 05:03:38 2016: 3 minutes, 25 seconds
+qtscript-4.8.6-r2: Fri Aug 28 17:38:18 2015: 1 minute, 59 seconds
+qtscript-5.4.2-r1: Fri Aug 28 21:05:57 2015: 3 minutes, 1 second
+qtscript-5.4.2-r1: Sat Aug 29 00:06:36 2015: 2 minutes, 6 seconds
+qtscript-5.5.1-r1: Sun Mar  6 02:12:49 2016: 2 minutes, 39 seconds
+qtscript-5.5.1-r1: Sun Mar 13 04:40:10 2016: 2 minutes, 36 seconds
+qtscript-4.8.6-r2: Sun Mar 13 05:03:38 2016: 3 minutes, 25 seconds
+qtsingleapplication-2.6.1_p20130904-r1: Sun Aug 30 04:39:09 2015: 22 seconds
+qtsingleapplication-2.6.1_p20150629: Thu Mar  3 20:49:06 2016: 9 seconds
+qtsingleapplication-2.6.1_p20150629: Sun Mar 13 06:22:39 2016: 17 seconds
+qttranslations-4.8.6-r1: Fri Aug 28 17:38:01 2015: 17 seconds
+qttranslations-5.4.2: Fri Aug 28 21:12:34 2015: 11 seconds
+qttranslations-5.4.2: Sat Aug 29 00:06:36 2015: 19 seconds
+qttranslations-5.5.1-r1: Sun Mar  6 02:16:23 2016: 17 seconds
+qttranslations-5.5.1-r1: Sun Mar 13 04:55:34 2016: 13 seconds
+qttranslations-4.8.6-r1: Sun Mar 13 05:07:03 2016: 25 seconds
+qttranslations-4.8.6-r1: Fri Aug 28 17:38:01 2015: 17 seconds
+qttranslations-5.4.2: Fri Aug 28 21:12:34 2015: 11 seconds
+qttranslations-5.4.2: Sat Aug 29 00:06:36 2015: 19 seconds
+qttranslations-5.5.1-r1: Sun Mar  6 02:16:23 2016: 17 seconds
+qttranslations-5.5.1-r1: Sun Mar 13 04:55:34 2016: 13 seconds
+qttranslations-4.8.6-r1: Sun Mar 13 05:07:03 2016: 25 seconds
+qtxml-5.4.2: Fri Aug 28 21:05:57 2015: 47 seconds
+qtxml-5.5.1: Sun Mar  6 02:12:04 2016: 45 seconds
+qtxml-5.5.1: Sun Mar 13 04:39:29 2016: 26 seconds
+guile-1.8.8-r1: Fri Aug 28 18:56:18 2015: 2 minutes, 44 seconds
+guile-1.8.8-r1: Fri Aug 28 22:02:59 2015: 2 minutes, 50 seconds
+guile-1.8.8-r1: Sat Aug 29 01:02:43 2015: 3 minutes, 7 seconds
+guile-1.8.8-r1: Sun Mar 13 03:33:30 2016: 2 minutes, 27 seconds
+boost-build-1.56.0: Sun Aug 30 04:39:05 2015: 10 minutes, 25 seconds
+boost-build-1.56.0: Sun Mar 13 02:50:37 2016: 54 seconds
+cmake-3.2.2: Fri Aug 28 18:36:22 2015: 3 minutes, 52 seconds
+cmake-3.2.2: Fri Aug 28 20:10:25 2015: 3 minutes, 53 seconds
+cmake-3.2.2: Fri Aug 28 21:48:46 2015: 3 minutes, 55 seconds
+cmake-3.2.2: Sat Aug 29 00:50:12 2015: 3 minutes, 56 seconds
+cmake-2.8.12.2-r1: Sun Aug 30 05:33:59 2015: 6 minutes, 11 seconds
+cmake-3.2.2: Sun Aug 30 05:56:07 2015: 4 minutes, 2 seconds
+cmake-3.3.1-r1: Thu Mar  3 21:31:22 2016: 4 minutes, 14 seconds
+cmake-3.3.1-r1: Sun Mar 13 06:16:24 2016: 6 minutes, 15 seconds
+cppunit-1.13.2-r2: Thu May  5 15:46:01 2016: 26 seconds
+ctags-5.8: Fri Aug 28 17:14:33 2015: 10 seconds
+ctags-5.8: Fri Aug 28 20:33:52 2015: 11 seconds
+ctags-5.8: Fri Aug 28 23:33:46 2015: 11 seconds
+ctags-5.8: Sun Mar 13 01:25:29 2016: 15 seconds
+desktop-file-utils-0.22: Fri Aug 28 20:43:45 2015: 14 seconds
+desktop-file-utils-0.22: Fri Aug 28 23:44:00 2015: 18 seconds
+desktop-file-utils-0.22: Sun Mar 13 04:23:09 2016: 10 seconds
+gdbus-codegen-2.42.2: Fri Aug 28 17:30:23 2015: 6 seconds
+gdbus-codegen-2.42.2: Fri Aug 28 20:27:13 2015: 8 seconds
+gdbus-codegen-2.42.2: Fri Aug 28 23:26:47 2015: 9 seconds
+gdbus-codegen-2.46.2: Thu Mar  3 23:07:49 2016: 9 seconds
+gdbus-codegen-2.46.2: Sun Mar 13 03:12:41 2016: 9 seconds
+gperf-3.0.4: Fri Aug 28 20:16:40 2015: 16 seconds
+gperf-3.0.4: Fri Aug 28 23:16:02 2015: 12 seconds
+gperf-3.0.4: Sun Mar 13 01:02:49 2016: 13 seconds
+gtk-doc-am-1.24: Fri Aug 28 20:40:06 2015: 7 seconds
+gtk-doc-am-1.24: Fri Aug 28 23:40:12 2015: 6 seconds
+gtk-doc-am-1.24: Sun Mar 13 02:32:15 2016: 7 seconds
+gtk-update-icon-cache-3.14.13: Fri Aug 28 17:31:54 2015: 12 seconds
+gtk-update-icon-cache-3.14.13: Fri Aug 28 20:56:03 2015: 51 seconds
+gtk-update-icon-cache-3.14.13: Fri Aug 28 23:56:49 2015: 52 seconds
+gtk-update-icon-cache-3.18.4: Thu Mar  3 23:27:54 2016: 16 seconds
+gtk-update-icon-cache-3.18.4: Sun Mar 13 04:44:46 2016: 17 seconds
+intltool-0.50.2-r1: Fri Aug 28 20:41:46 2015: 13 seconds
+intltool-0.50.2-r1: Fri Aug 28 23:42:00 2015: 14 seconds
+intltool-0.50.2-r1: Sun Mar 13 03:23:10 2016: 10 seconds
+intltool-0.51.0-r1: Sun Apr 10 15:48:32 2016: 9 seconds
+itstool-2.0.2: Fri Aug 28 21:44:01 2015: 14 seconds
+itstool-2.0.2: Sat Aug 29 00:44:33 2015: 17 seconds
+itstool-2.0.2: Sun Mar 13 02:52:00 2016: 10 seconds
+mdds-0.12.1: Thu May  5 15:47:33 2016: 7 seconds
+pkgconfig-0.28-r2: Fri Aug 28 20:43:46 2015: 16 seconds
+pkgconfig-0.28-r2: Fri Aug 28 23:44:00 2015: 22 seconds
+pkgconfig-0.28-r2: Sun Mar 13 04:33:36 2016: 16 seconds
+git-2.4.6: Sat Aug 29 04:47:48 2015: 47 seconds
+git-2.4.10: Thu Mar  3 21:07:38 2016: 58 seconds
+git-2.4.10: Sun Mar 13 07:33:47 2016: 1 minute, 1 second
+git-2.7.3: Thu Mar 17 05:08:54 2016: 1 minute, 23 seconds
+git-2.7.3-r1: Fri Mar 18 03:47:25 2016: 1 minute, 8 seconds
+dconf-0.22.0: Fri Aug 28 18:48:32 2015: 16 seconds
+dconf-0.22.0: Fri Aug 28 22:47:22 2015: 4 minutes, 40 seconds
+dconf-0.22.0: Sat Aug 29 01:48:35 2015: 6 minutes, 11 seconds
+dconf-0.24.0: Thu Mar  3 23:24:36 2016: 18 seconds
+dconf-0.24.0: Sun Mar 13 05:27:55 2016: 22 seconds
+gnome-keyring-3.14.0: Fri Aug 28 22:43:40 2015: 1 minute, 14 seconds
+gnome-keyring-3.14.0: Sat Aug 29 01:56:02 2015: 1 minute, 36 seconds
+gnome-keyring-3.14.0: Sun Sep  6 05:53:17 2015: 49 seconds
+gnome-keyring-3.18.3: Fri Mar  4 00:45:30 2016: 52 seconds
+gnome-keyring-3.18.3: Sun Mar 13 10:10:25 2016: 54 seconds
+gsettings-desktop-schemas-3.14.2: Fri Aug 28 22:03:50 2015: 26 seconds
+gsettings-desktop-schemas-3.14.2: Sat Aug 29 01:03:10 2015: 31 seconds
+gsettings-desktop-schemas-3.14.2: Sun Sep  6 18:25:15 2015: 11 seconds
+gsettings-desktop-schemas-3.18.1: Thu Mar  3 23:29:34 2016: 12 seconds
+gsettings-desktop-schemas-3.18.1: Sun Mar 13 04:39:00 2016: 11 seconds
+gvfs-1.22.4: Fri Aug 28 22:44:59 2015: 1 minute, 39 seconds
+gvfs-1.22.4: Sat Aug 29 01:45:58 2015: 1 minute, 52 seconds
+gvfs-1.22.4: Sun Sep  6 17:58:27 2015: 56 seconds
+gvfs-1.22.4: Sun Sep  6 18:37:55 2015: 53 seconds
+gvfs-1.26.3: Fri Mar  4 00:46:22 2016: 57 seconds
+gvfs-1.26.3: Sun Mar 13 10:08:31 2016: 55 seconds
+libglade-2.6.4-r2: Sat Aug 29 04:30:17 2015: 24 seconds
+libglade-2.6.4-r2: Sun Mar 13 06:05:20 2016: 27 seconds
+librsvg-2.40.9: Fri Aug 28 18:41:16 2015: 24 seconds
+librsvg-2.40.9: Fri Aug 28 21:53:48 2015: 28 seconds
+librsvg-2.40.9: Sat Aug 29 00:55:26 2015: 28 seconds
+librsvg-2.40.9: Sun Sep  6 18:22:51 2015: 26 seconds
+librsvg-2.40.13: Thu Mar  3 23:26:11 2016: 29 seconds
+librsvg-2.40.13: Sun Mar 13 06:07:40 2016: 31 seconds
+polkit-gnome-0.105-r1: Fri Aug 28 18:48:48 2015: 10 seconds
+polkit-gnome-0.105-r1: Fri Aug 28 22:52:02 2015: 20 seconds
+polkit-gnome-0.105-r1: Sat Aug 29 01:54:47 2015: 1 minute, 15 seconds
+polkit-gnome-0.105-r1: Sun Sep  6 13:34:20 2015: 10 seconds
+polkit-gnome-0.105-r1: Sun Mar 13 10:02:57 2016: 14 seconds
+yelp-xsl-3.14.0: Fri Aug 28 22:04:17 2015: 16 seconds
+yelp-xsl-3.14.0: Sat Aug 29 01:03:18 2015: 29 seconds
+yelp-xsl-3.18.1: Thu Mar  3 21:35:36 2016: 20 seconds
+yelp-xsl-3.18.1: Sun Mar 13 04:16:06 2016: 11 seconds
+nullmailer-1.13-r5: Fri Aug 28 19:05:06 2015: 35 seconds
+nullmailer-1.13-r5: Fri Aug 28 22:26:52 2015: 48 seconds
+nullmailer-1.13-r5: Sat Aug 29 01:28:04 2015: 37 seconds
+nullmailer-1.13-r5: Sun Mar 13 05:45:00 2016: 23 seconds
+dejavu-2.34: Fri Aug 28 22:29:36 2015: 30 seconds
+dejavu-2.34: Sat Aug 29 01:31:43 2015: 38 seconds
+dejavu-2.34: Sun Mar 13 02:14:27 2016: 19 seconds
+encodings-1.0.4: Fri Aug 28 17:10:54 2015: 7 seconds
+encodings-1.0.4: Fri Aug 28 21:43:12 2015: 8 seconds
+encodings-1.0.4: Sat Aug 29 00:43:34 2015: 9 seconds
+encodings-1.0.4: Sun Mar 13 01:58:55 2016: 12 seconds
+font-adobe-100dpi-1.0.3: Fri Aug 28 22:04:22 2015: 38 seconds
+font-adobe-100dpi-1.0.3: Sat Aug 29 01:04:06 2015: 44 seconds
+font-adobe-100dpi-1.0.3: Sun Mar 13 02:03:04 2016: 42 seconds
+font-adobe-75dpi-1.0.3: Fri Aug 28 22:04:29 2015: 48 seconds
+font-adobe-75dpi-1.0.3: Sat Aug 29 01:04:33 2015: 50 seconds
+font-adobe-75dpi-1.0.3: Sun Mar 13 02:04:52 2016: 42 seconds
+font-adobe-utopia-100dpi-1.0.4: Fri Aug 28 22:04:58 2015: 34 seconds
+font-adobe-utopia-100dpi-1.0.4: Sat Aug 29 01:04:43 2015: 1 minute, 0 seconds
+font-adobe-utopia-100dpi-1.0.4: Sun Mar 13 02:13:18 2016: 25 seconds
+font-adobe-utopia-75dpi-1.0.4: Fri Aug 28 22:05:05 2015: 33 seconds
+font-adobe-utopia-75dpi-1.0.4: Sat Aug 29 01:05:08 2015: 57 seconds
+font-adobe-utopia-75dpi-1.0.4: Sun Mar 13 02:00:43 2016: 27 seconds
+font-adobe-utopia-type1-1.0.4: Fri Aug 28 22:05:25 2015: 20 seconds
+font-adobe-utopia-type1-1.0.4: Sat Aug 29 01:05:12 2015: 1 minute, 7 seconds
+font-adobe-utopia-type1-1.0.4: Sun Mar 13 02:10:08 2016: 21 seconds
+font-alias-1.0.3: Fri Aug 28 21:43:31 2015: 9 seconds
+font-alias-1.0.3: Sat Aug 29 00:43:53 2015: 11 seconds
+font-alias-1.0.3-r1: Thu Mar  3 21:35:56 2016: 10 seconds
+font-alias-1.0.3-r1: Sun Mar 13 01:59:23 2016: 12 seconds
+font-arabic-misc-1.0.3: Fri Aug 28 22:05:29 2015: 31 seconds
+font-arabic-misc-1.0.3: Sat Aug 29 01:05:14 2015: 1 minute, 19 seconds
+font-arabic-misc-1.0.3: Sun Mar 13 02:08:03 2016: 22 seconds
+font-bh-100dpi-1.0.3: Fri Aug 28 22:05:37 2015: 31 seconds
+font-bh-100dpi-1.0.3: Sat Aug 29 01:05:31 2015: 1 minute, 17 seconds
+font-bh-100dpi-1.0.3: Sun Mar 13 02:10:46 2016: 31 seconds
+font-bh-75dpi-1.0.3: Fri Aug 28 22:05:41 2015: 38 seconds
+font-bh-75dpi-1.0.3: Sat Aug 29 01:05:48 2015: 1 minute, 18 seconds
+font-bh-75dpi-1.0.3: Sun Mar 13 02:05:57 2016: 34 seconds
+font-bh-lucidatypewriter-100dpi-1.0.3: Fri Aug 28 22:05:44 2015: 45 seconds
+font-bh-lucidatypewriter-100dpi-1.0.3: Sat Aug 29 01:05:55 2015: 1 minute, 27 seconds
+font-bh-lucidatypewriter-100dpi-1.0.3: Sun Mar 13 02:06:31 2016: 27 seconds
+font-bh-lucidatypewriter-75dpi-1.0.3: Fri Aug 28 22:05:58 2015: 38 seconds
+font-bh-lucidatypewriter-75dpi-1.0.3: Sat Aug 29 01:06:17 2015: 1 minute, 20 seconds
+font-bh-lucidatypewriter-75dpi-1.0.3: Sun Mar 13 02:01:32 2016: 26 seconds
+font-bh-ttf-1.0.3: Fri Aug 28 22:06:03 2015: 41 seconds
+font-bh-ttf-1.0.3: Sat Aug 29 01:06:30 2015: 1 minute, 20 seconds
+font-bh-ttf-1.0.3: Sun Mar 13 02:09:48 2016: 20 seconds
+font-bh-type1-1.0.3: Fri Aug 28 22:06:07 2015: 43 seconds
+font-bh-type1-1.0.3: Sat Aug 29 01:06:40 2015: 1 minute, 23 seconds
+font-bh-type1-1.0.3: Sun Mar 13 02:01:10 2016: 22 seconds
+font-bitstream-100dpi-1.0.3: Fri Aug 28 22:06:15 2015: 42 seconds
+font-bitstream-100dpi-1.0.3: Sat Aug 29 01:06:55 2015: 1 minute, 22 seconds
+font-bitstream-100dpi-1.0.3: Sun Mar 13 02:14:05 2016: 22 seconds
+font-bitstream-75dpi-1.0.3: Fri Aug 28 22:06:25 2015: 39 seconds
+font-bitstream-75dpi-1.0.3: Sat Aug 29 01:07:12 2015: 1 minute, 20 seconds
+font-bitstream-75dpi-1.0.3: Sun Mar 13 02:08:46 2016: 22 seconds
+font-bitstream-speedo-1.0.2: Fri Aug 28 22:06:35 2015: 36 seconds
+font-bitstream-speedo-1.0.2: Sat Aug 29 01:07:28 2015: 1 minute, 16 seconds
+font-bitstream-speedo-1.0.2: Sun Mar 13 02:11:38 2016: 19 seconds
+font-bitstream-type1-1.0.3: Fri Aug 28 22:06:42 2015: 35 seconds
+font-bitstream-type1-1.0.3: Sat Aug 29 01:07:43 2015: 1 minute, 14 seconds
+font-bitstream-type1-1.0.3: Sun Mar 13 02:02:23 2016: 20 seconds
+font-cronyx-cyrillic-1.0.3: Fri Aug 28 22:06:49 2015: 34 seconds
+font-cronyx-cyrillic-1.0.3: Sat Aug 29 01:07:56 2015: 1 minute, 13 seconds
+font-cronyx-cyrillic-1.0.3: Sun Mar 13 02:08:25 2016: 21 seconds
+font-cursor-misc-1.0.3: Fri Aug 28 22:06:55 2015: 35 seconds
+font-cursor-misc-1.0.3: Sat Aug 29 01:08:08 2015: 1 minute, 14 seconds
+font-cursor-misc-1.0.3: Sun Mar 13 02:12:38 2016: 20 seconds
+font-daewoo-misc-1.0.3: Fri Aug 28 22:07:02 2015: 35 seconds
+font-daewoo-misc-1.0.3: Sat Aug 29 01:08:23 2015: 1 minute, 12 seconds
+font-daewoo-misc-1.0.3: Sun Mar 13 02:11:17 2016: 21 seconds
+font-dec-misc-1.0.3: Fri Aug 28 22:07:10 2015: 34 seconds
+font-dec-misc-1.0.3: Sat Aug 29 01:08:38 2015: 1 minute, 11 seconds
+font-dec-misc-1.0.3: Sun Mar 13 02:07:41 2016: 22 seconds
+font-ibm-type1-1.0.3: Fri Aug 28 22:07:16 2015: 34 seconds
+font-ibm-type1-1.0.3: Sat Aug 29 01:08:49 2015: 1 minute, 13 seconds
+font-ibm-type1-1.0.3: Sun Mar 13 02:03:46 2016: 22 seconds
+font-isas-misc-1.0.3: Fri Aug 28 22:07:23 2015: 34 seconds
+font-isas-misc-1.0.3: Sat Aug 29 01:09:02 2015: 1 minute, 13 seconds
+font-isas-misc-1.0.3: Sun Mar 13 02:09:27 2016: 21 seconds
+font-jis-misc-1.0.3: Fri Aug 28 22:07:28 2015: 35 seconds
+font-jis-misc-1.0.3: Sat Aug 29 01:09:14 2015: 1 minute, 14 seconds
+font-jis-misc-1.0.3: Sun Mar 13 02:13:43 2016: 22 seconds
+font-micro-misc-1.0.3: Fri Aug 28 22:07:36 2015: 34 seconds
+font-micro-misc-1.0.3: Sat Aug 29 01:09:27 2015: 1 minute, 15 seconds
+font-micro-misc-1.0.3: Sun Mar 13 02:07:19 2016: 22 seconds
+font-misc-cyrillic-1.0.3: Fri Aug 28 22:07:43 2015: 34 seconds
+font-misc-cyrillic-1.0.3: Sat Aug 29 01:09:42 2015: 1 minute, 13 seconds
+font-misc-cyrillic-1.0.3: Sun Mar 13 02:11:57 2016: 21 seconds
+font-misc-ethiopic-1.0.3: Fri Aug 28 22:07:49 2015: 34 seconds
+font-misc-ethiopic-1.0.3: Sat Aug 29 01:09:55 2015: 1 minute, 12 seconds
+font-misc-ethiopic-1.0.3: Sun Mar 13 02:12:18 2016: 20 seconds
+font-misc-meltho-1.0.3: Fri Aug 28 22:07:55 2015: 34 seconds
+font-misc-meltho-1.0.3: Sat Aug 29 01:10:07 2015: 1 minute, 13 seconds
+font-misc-meltho-1.0.3: Sun Mar 13 02:01:58 2016: 25 seconds
+font-misc-misc-1.1.2: Fri Aug 28 21:47:40 2015: 18 seconds
+font-misc-misc-1.1.2: Sat Aug 29 00:48:50 2015: 29 seconds
+font-misc-misc-1.1.2: Sun Mar 13 02:00:11 2016: 32 seconds
+font-mutt-misc-1.0.3: Fri Aug 28 22:08:02 2015: 34 seconds
+font-mutt-misc-1.0.3: Sat Aug 29 01:10:20 2015: 1 minute, 13 seconds
+font-mutt-misc-1.0.3: Sun Mar 13 02:12:58 2016: 20 seconds
+font-schumacher-misc-1.1.2: Fri Aug 28 22:08:09 2015: 34 seconds
+font-schumacher-misc-1.1.2: Sat Aug 29 01:10:34 2015: 1 minute, 12 seconds
+font-schumacher-misc-1.1.2: Sun Mar 13 02:02:43 2016: 21 seconds
+font-screen-cyrillic-1.0.4: Fri Aug 28 22:08:16 2015: 34 seconds
+font-screen-cyrillic-1.0.4: Sat Aug 29 01:10:48 2015: 1 minute, 11 seconds
+font-screen-cyrillic-1.0.4: Sun Mar 13 02:04:08 2016: 22 seconds
+font-sony-misc-1.0.3: Fri Aug 28 22:08:22 2015: 34 seconds
+font-sony-misc-1.0.3: Sat Aug 29 01:11:00 2015: 1 minute, 12 seconds
+font-sony-misc-1.0.3: Sun Mar 13 02:05:34 2016: 23 seconds
+font-sun-misc-1.0.3: Fri Aug 28 22:08:28 2015: 35 seconds
+font-sun-misc-1.0.3: Sat Aug 29 01:11:13 2015: 1 minute, 12 seconds
+font-sun-misc-1.0.3: Sun Mar 13 02:04:30 2016: 22 seconds
+font-util-1.3.0: Fri Aug 28 17:09:41 2015: 9 seconds
+font-util-1.3.0: Fri Aug 28 21:37:54 2015: 11 seconds
+font-util-1.3.0: Sat Aug 29 00:37:44 2015: 12 seconds
+font-util-1.3.1: Thu Mar  3 20:57:06 2016: 11 seconds
+font-util-1.3.1: Sun Mar 13 01:35:56 2016: 13 seconds
+font-winitzki-cyrillic-1.0.3: Fri Aug 28 22:08:34 2015: 36 seconds
+font-winitzki-cyrillic-1.0.3: Sat Aug 29 01:11:25 2015: 1 minute, 12 seconds
+font-winitzki-cyrillic-1.0.3: Sun Mar 13 02:09:08 2016: 19 seconds
+font-xfree86-type1-1.0.4: Fri Aug 28 22:08:41 2015: 35 seconds
+font-xfree86-type1-1.0.4: Sat Aug 29 01:11:38 2015: 1 minute, 13 seconds
+font-xfree86-type1-1.0.4: Sun Mar 13 02:06:58 2016: 21 seconds
+liberation-fonts-2.00.1-r1: Fri Aug 28 17:11:01 2015: 4 seconds
+liberation-fonts-2.00.1-r1: Fri Aug 28 22:22:35 2015: 37 seconds
+liberation-fonts-2.00.1-r1: Sat Aug 29 01:24:35 2015: 14 seconds
+liberation-fonts-2.00.1-r1: Sun Mar 13 01:59:50 2016: 21 seconds
+libertine-5.1.3.20110615: Thu May  5 15:50:24 2016: 18 seconds
+terminus-font-4.39-r1: Fri Aug 28 22:29:56 2015: 39 seconds
+terminus-font-4.39-r1: Sat Aug 29 01:32:08 2015: 51 seconds
+terminus-font-4.39-r1: Sun Mar 13 02:35:01 2016: 26 seconds
+urw-fonts-2.4.9: Fri Aug 28 22:08:49 2015: 35 seconds
+urw-fonts-2.4.9: Sat Aug 29 01:11:52 2015: 1 minute, 15 seconds
+urw-fonts-2.4.9: Sun Mar 13 02:10:29 2016: 17 seconds
+gimp-2.8.14: Sun Aug 30 04:42:09 2015: 16 minutes, 22 seconds
+gimp-2.8.14: Sun Aug 30 05:16:26 2015: 9 minutes, 27 seconds
+gimp-2.8.14: Sun Aug 30 06:05:39 2015: 11 minutes, 46 seconds
+gimp-2.8.14-r1: Mon Aug 31 00:46:30 2015: 7 minutes, 58 seconds
+gimp-2.8.14-r1: Sun Mar 13 07:24:43 2016: 9 minutes, 4 seconds
+gimp-2.8.14-r1: Tue Mar 29 10:41:15 2016: 9 minutes, 53 seconds
+graphite2-1.2.4-r1: Fri Aug 28 18:40:14 2015: 10 seconds
+graphite2-1.2.4-r1: Fri Aug 28 21:52:41 2015: 11 seconds
+graphite2-1.2.4-r1: Sat Aug 29 00:54:08 2015: 21 seconds
+graphite2-1.3.5: Thu Mar  3 21:39:51 2016: 14 seconds
+graphite2-1.3.5: Sun Mar 13 06:23:46 2016: 15 seconds
+graphite2-1.3.7: Wed Mar 23 12:44:46 2016: 15 seconds
+scrot-0.8_p13: Fri Aug 28 22:30:28 2015: 24 seconds
+scrot-0.8_p13: Sat Aug 29 01:32:13 2015: 52 seconds
+scrot-0.8_p13: Sun Mar 13 02:27:22 2016: 11 seconds
+sxiv-1.1.1: Fri Aug 28 22:30:35 2015: 15 seconds
+sxiv-1.1.1: Sat Aug 29 01:32:25 2015: 46 seconds
+sxiv-1.1.1: Sun Mar 13 02:27:15 2016: 7 seconds
+a52dec-0.7.4-r7: Sun Aug 30 04:30:49 2015: 20 seconds
+a52dec-0.7.4-r7: Sun Mar 13 01:42:05 2016: 21 seconds
+alsa-lib-1.0.29: Fri Aug 28 22:08:55 2015: 1 minute, 0 seconds
+alsa-lib-1.0.29: Sat Aug 29 01:12:04 2015: 1 minute, 15 seconds
+alsa-lib-1.0.29: Sun Mar 13 02:49:05 2016: 44 seconds
+audiofile-0.3.6-r1: Sat Aug 29 16:39:55 2015: 43 seconds
+audiofile-0.3.6-r1: Sun Mar 13 03:42:03 2016: 30 seconds
+babl-0.1.10-r1: Sun Aug 30 04:38:27 2015: 54 seconds
+babl-0.1.12: Sun Sep  6 05:40:44 2015: 21 seconds
+babl-0.1.12: Sun Mar 13 01:28:45 2016: 25 seconds
+flac-1.3.1-r1: Sat Aug 29 16:38:58 2015: 57 seconds
+flac-1.3.1-r1: Sun Mar 13 03:26:04 2016: 45 seconds
+fontconfig-2.11.1-r2: Fri Aug 28 17:11:22 2015: 31 seconds
+fontconfig-2.11.1-r2: Fri Aug 28 20:50:44 2015: 33 seconds
+fontconfig-2.11.1-r2: Fri Aug 28 23:51:03 2015: 36 seconds
+fontconfig-2.11.1-r2: Mon Mar  7 01:04:31 2016: 1 minute, 21 seconds
+fontconfig-2.11.1-r2: Mon Mar  7 02:18:19 2016: 54 seconds
+fontconfig-2.11.1-r2: Mon Mar  7 13:44:37 2016: 1 minute, 20 seconds
+fontconfig-2.11.1-r2: Mon Mar  7 16:53:23 2016: 50 seconds
+fontconfig-2.11.1-r2: Mon Mar  7 18:40:40 2016: 1 minute, 10 seconds
+fontconfig-2.11.1-r2: Mon Mar  7 21:53:42 2016: 49 seconds
+fontconfig-2.11.1-r2: Sun Mar 13 01:56:50 2016: 47 seconds
+freeglut-2.8.1-r1: Fri Aug 28 22:09:02 2015: 40 seconds
+freeglut-2.8.1-r1: Sat Aug 29 01:12:17 2015: 1 minute, 11 seconds
+freeglut-3.0.0: Thu Mar  3 22:03:14 2016: 16 seconds
+freeglut-3.0.0: Sun Mar 13 06:58:11 2016: 17 seconds
+freetype-2.5.5: Fri Aug 28 17:05:23 2015: 20 seconds
+freetype-2.5.5: Fri Aug 28 20:22:23 2015: 22 seconds
+freetype-2.5.5: Fri Aug 28 23:21:54 2015: 21 seconds
+freetype-2.5.5: Mon Mar  7 00:17:56 2016: 47 seconds
+freetype-2.5.5: Mon Mar  7 01:55:31 2016: 27 seconds
+freetype-2.5.5: Mon Mar  7 12:47:04 2016: 46 seconds
+freetype-2.5.5: Mon Mar  7 16:31:08 2016: 27 seconds
+freetype-2.5.5: Mon Mar  7 18:00:44 2016: 46 seconds
+freetype-2.5.5: Mon Mar  7 21:30:29 2016: 28 seconds
+freetype-2.5.5: Sat Mar 12 21:50:57 2016: 30 seconds
+freetype-2.5.5: Sun Mar 13 01:51:12 2016: 27 seconds
+gegl-0.2.0-r2: Sun Aug 30 04:39:58 2015: 2 minutes, 11 seconds
+gegl-0.2.0-r2: Sun Mar 13 07:09:00 2016: 1 minute, 32 seconds
+gegl-0.3.0: Thu May  5 12:57:30 2016: 3 minutes, 17 seconds
+gegl-0.2.0-r2: Thu May  5 13:02:57 2016: 1 minute, 32 seconds
+gegl-0.2.0-r2: Sun Aug 30 04:39:58 2015: 2 minutes, 11 seconds
+gegl-0.2.0-r2: Sun Mar 13 07:09:00 2016: 1 minute, 32 seconds
+gegl-0.3.0: Thu May  5 12:57:30 2016: 3 minutes, 17 seconds
+gegl-0.2.0-r2: Thu May  5 13:02:57 2016: 1 minute, 32 seconds
+giblib-1.2.4: Fri Aug 28 22:20:37 2015: 20 seconds
+giblib-1.2.4: Sat Aug 29 01:12:28 2015: 1 minute, 7 seconds
+giblib-1.2.4: Sun Mar 13 02:26:56 2016: 19 seconds
+giflib-4.1.6-r3: Fri Aug 28 20:36:08 2015: 22 seconds
+giflib-4.1.6-r3: Fri Aug 28 23:36:03 2015: 23 seconds
+giflib-4.1.6-r3: Sun Mar 13 02:18:37 2016: 27 seconds
+glew-1.10.0-r2: Fri Aug 28 20:54:54 2015: 15 seconds
+glew-1.10.0-r2: Fri Aug 28 23:55:39 2015: 15 seconds
+glew-1.10.0-r2: Sun Mar 13 05:29:33 2016: 22 seconds
+glm-0.9.6.1: Thu May  5 15:47:40 2016: 9 seconds
+glu-9.0.0-r1: Fri Aug 28 20:33:07 2015: 26 seconds
+glu-9.0.0-r1: Fri Aug 28 23:32:55 2015: 27 seconds
+glu-9.0.0-r1: Sun Mar 13 01:23:07 2016: 23 seconds
+gst-plugins-base-1.4.5: Sat Aug 29 16:37:09 2015: 2 minutes, 14 seconds
+gst-plugins-base-1.4.5: Sun Aug 30 05:05:46 2015: 2 minutes, 27 seconds
+gst-plugins-base-0.10.36-r2: Sun Aug 30 05:35:41 2015: 3 minutes, 31 seconds
+gst-plugins-base-1.4.5: Sun Aug 30 06:04:36 2015: 1 minute, 49 seconds
+gst-plugins-base-1.4.5: Wed Sep  2 04:46:53 2015: 1 minute, 12 seconds
+gst-plugins-base-1.4.5: Sun Sep  6 18:25:26 2015: 1 minute, 4 seconds
+gst-plugins-base-0.10.36-r2: Sun Sep  6 18:26:30 2015: 59 seconds
+gst-plugins-base-1.6.3: Thu Mar  3 23:26:40 2016: 1 minute, 14 seconds
+gst-plugins-base-0.10.36-r2: Sun Mar 13 04:43:18 2016: 1 minute, 28 seconds
+gst-plugins-base-1.6.3: Sun Mar 13 07:07:09 2016: 1 minute, 21 seconds
+gst-plugins-base-1.4.5: Sat Aug 29 16:37:09 2015: 2 minutes, 14 seconds
+gst-plugins-base-1.4.5: Sun Aug 30 05:05:46 2015: 2 minutes, 27 seconds
+gst-plugins-base-0.10.36-r2: Sun Aug 30 05:35:41 2015: 3 minutes, 31 seconds
+gst-plugins-base-1.4.5: Sun Aug 30 06:04:36 2015: 1 minute, 49 seconds
+gst-plugins-base-1.4.5: Wed Sep  2 04:46:53 2015: 1 minute, 12 seconds
+gst-plugins-base-1.4.5: Sun Sep  6 18:25:26 2015: 1 minute, 4 seconds
+gst-plugins-base-0.10.36-r2: Sun Sep  6 18:26:30 2015: 59 seconds
+gst-plugins-base-1.6.3: Thu Mar  3 23:26:40 2016: 1 minute, 14 seconds
+gst-plugins-base-0.10.36-r2: Sun Mar 13 04:43:18 2016: 1 minute, 28 seconds
+gst-plugins-base-1.6.3: Sun Mar 13 07:07:09 2016: 1 minute, 21 seconds
+gst-plugins-good-1.4.5: Sat Aug 29 16:39:23 2015: 1 minute, 31 seconds
+gst-plugins-good-1.6.3: Thu Mar  3 23:36:49 2016: 1 minute, 21 seconds
+gst-plugins-good-1.6.3: Sun Mar 13 07:15:01 2016: 1 minute, 27 seconds
+gstreamer-1.4.5: Fri Aug 28 22:09:06 2015: 1 minute, 39 seconds
+gstreamer-1.4.5: Sat Aug 29 01:13:15 2015: 1 minute, 11 seconds
+gstreamer-0.10.36-r2: Sun Aug 30 05:32:08 2015: 1 minute, 51 seconds
+gstreamer-1.4.5: Sun Sep  6 18:21:16 2015: 47 seconds
+gstreamer-0.10.36-r2: Sun Sep  6 18:22:03 2015: 48 seconds
+gstreamer-1.6.3: Thu Mar  3 23:23:31 2016: 1 minute, 5 seconds
+gstreamer-1.6.3: Sun Mar 13 04:29:16 2016: 1 minute, 10 seconds
+gstreamer-0.10.36-r2: Sun Mar 13 04:32:34 2016: 1 minute, 2 seconds
+gstreamer-1.4.5: Fri Aug 28 22:09:06 2015: 1 minute, 39 seconds
+gstreamer-1.4.5: Sat Aug 29 01:13:15 2015: 1 minute, 11 seconds
+gstreamer-0.10.36-r2: Sun Aug 30 05:32:08 2015: 1 minute, 51 seconds
+gstreamer-1.4.5: Sun Sep  6 18:21:16 2015: 47 seconds
+gstreamer-0.10.36-r2: Sun Sep  6 18:22:03 2015: 48 seconds
+gstreamer-1.6.3: Thu Mar  3 23:23:31 2016: 1 minute, 5 seconds
+gstreamer-1.6.3: Sun Mar 13 04:29:16 2016: 1 minute, 10 seconds
+gstreamer-0.10.36-r2: Sun Mar 13 04:32:34 2016: 1 minute, 2 seconds
+harfbuzz-0.9.38: Fri Aug 28 18:40:24 2015: 26 seconds
+harfbuzz-0.9.38: Fri Aug 28 21:52:52 2015: 28 seconds
+harfbuzz-0.9.38: Sat Aug 29 00:54:29 2015: 29 seconds
+harfbuzz-0.9.38: Sun Sep  6 18:19:11 2015: 27 seconds
+harfbuzz-1.1.3: Thu Mar  3 23:19:05 2016: 27 seconds
+harfbuzz-1.1.3: Sun Mar 13 07:00:56 2016: 28 seconds
+harfbuzz-1.1.3: Mon Apr 18 15:50:07 2016: 48 seconds
+harfbuzz-1.1.3: Mon Apr 18 17:51:49 2016: 37 seconds
+harfbuzz-1.1.3: Mon Apr 18 18:51:06 2016: 50 seconds
+harfbuzz-1.1.3: Thu May  5 13:18:02 2016: 41 seconds
+imlib2-1.4.6-r2: Fri Aug 28 22:17:27 2015: 57 seconds
+imlib2-1.4.6-r2: Sat Aug 29 00:42:41 2015: 38 seconds
+imlib2-1.4.7: Thu Mar  3 21:55:19 2016: 29 seconds
+imlib2-1.4.7: Sun Mar 13 02:26:23 2016: 33 seconds
+jbig2dec-0.11-r1: Fri Aug 28 22:09:40 2015: 28 seconds
+jbig2dec-0.11-r1: Sat Aug 29 01:13:16 2015: 40 seconds
+jbig2dec-0.11-r1: Sun Mar 13 01:52:32 2016: 23 seconds
+lcms-2.6-r1: Fri Aug 28 17:02:17 2015: 16 seconds
+lcms-2.6-r1: Fri Aug 28 20:29:12 2015: 18 seconds
+lcms-2.6-r1: Fri Aug 28 23:28:54 2015: 18 seconds
+lcms-2.6-r1: Sun Mar 13 01:51:39 2016: 25 seconds
+libcanberra-0.30-r5: Fri Aug 28 22:45:21 2015: 34 seconds
+libcanberra-0.30-r5: Sat Aug 29 01:48:04 2015: 46 seconds
+libcanberra-0.30-r5: Sun Mar 13 09:54:26 2016: 26 seconds
+libcddb-1.3.2-r1: Fri Aug 28 20:20:00 2015: 28 seconds
+libcddb-1.3.2-r1: Fri Aug 28 23:19:22 2015: 33 seconds
+libcddb-1.3.2-r1: Sun Mar 13 01:10:26 2016: 20 seconds
+libcdr-0.1.1: Thu May  5 15:52:23 2016: 42 seconds
+libdca-0.0.5-r3: Sun Aug 30 04:30:49 2015: 23 seconds
+libdca-0.0.5-r3: Sun Mar 13 01:41:42 2016: 23 seconds
+libdvbpsi-1.2.0: Sun Aug 30 04:30:10 2015: 20 seconds
+libdvbpsi-1.2.0: Sun Mar 13 01:05:21 2016: 17 seconds
+libdvdcss-1.3.0: Sun Aug 30 04:30:10 2015: 31 seconds
+libdvdcss-1.3.0: Sun Mar 13 01:05:38 2016: 15 seconds
+libdvdnav-5.0.3: Sun Aug 30 04:31:29 2015: 19 seconds
+libdvdnav-5.0.3: Sun Mar 13 01:50:22 2016: 24 seconds
+libdvdread-5.0.3: Sun Aug 30 04:30:49 2015: 27 seconds
+libdvdread-5.0.3: Sun Mar 13 01:40:16 2016: 22 seconds
+libepoxy-1.2: Sat Aug 29 03:21:44 2015: 42 seconds
+libepoxy-1.3.1: Thu Mar  3 21:56:36 2016: 32 seconds
+libepoxy-1.3.1: Sun Mar 13 09:06:49 2016: 35 seconds
+libexif-0.6.21-r1: Fri Aug 28 22:09:52 2015: 24 seconds
+libexif-0.6.21-r1: Sat Aug 29 01:13:21 2015: 43 seconds
+libexif-0.6.21-r1: Sun Mar 13 03:25:27 2016: 17 seconds
+libfreehand-0.1.1: Thu May  5 15:58:56 2016: 19 seconds
+libid3tag-0.15.1b-r4: Fri Aug 28 20:20:11 2015: 28 seconds
+libid3tag-0.15.1b-r4: Fri Aug 28 23:19:35 2015: 30 seconds
+libid3tag-0.15.1b-r4: Sun Mar 13 01:49:18 2016: 22 seconds
+libjpeg-turbo-1.3.1: Fri Aug 28 17:01:22 2015: 27 seconds
+libjpeg-turbo-1.3.1: Fri Aug 28 21:31:43 2015: 29 seconds
+libjpeg-turbo-1.3.1: Sat Aug 29 00:31:23 2015: 29 seconds
+libjpeg-turbo-1.4.2: Thu Mar  3 18:53:00 2016: 28 seconds
+libjpeg-turbo-1.4.2: Sun Mar 13 02:35:27 2016: 31 seconds
+libmad-0.15.1b-r8: Sun Aug 30 04:31:07 2015: 24 seconds
+libmad-0.15.1b-r8: Sun Mar 13 01:42:26 2016: 21 seconds
+libmatroska-1.4.1: Sun Aug 30 04:30:27 2015: 18 seconds
+libmatroska-1.4.4: Thu Mar  3 21:00:17 2016: 21 seconds
+libmatroska-1.4.4: Sun Mar 13 01:50:46 2016: 26 seconds
+libmng-2.0.2-r1: Fri Aug 28 17:02:33 2015: 14 seconds
+libmng-2.0.2-r1: Fri Aug 28 20:29:30 2015: 16 seconds
+libmng-2.0.2-r1: Fri Aug 28 23:29:13 2015: 15 seconds
+libmng-2.0.2-r1: Sun Mar 13 01:57:37 2016: 24 seconds
+libmpeg2-0.5.1-r2: Sun Aug 30 04:31:07 2015: 30 seconds
+libmpeg2-0.5.1-r2: Sun Mar 13 05:25:48 2016: 29 seconds
+libogg-1.3.1: Fri Aug 28 20:17:08 2015: 20 seconds
+libogg-1.3.1: Fri Aug 28 23:16:34 2015: 27 seconds
+libogg-1.3.1: Sun Mar 13 01:03:12 2016: 16 seconds
+libpagemaker-0.0.2: Thu May  5 15:57:30 2016: 26 seconds
+libpng-1.6.16: Fri Aug 28 16:57:14 2015: 49 seconds
+libpng-1.6.16: Fri Aug 28 20:19:36 2015: 1 minute, 53 seconds
+libpng-1.6.16: Fri Aug 28 23:18:59 2015: 1 minute, 57 seconds
+libpng-1.6.19: Thu Mar  3 18:50:38 2016: 17 seconds
+libpng-1.6.19: Mon Mar  7 00:15:34 2016: 33 seconds
+libpng-1.6.19: Mon Mar  7 01:54:22 2016: 21 seconds
+libpng-1.6.19: Mon Mar  7 12:44:49 2016: 32 seconds
+libpng-1.6.19: Mon Mar  7 16:29:59 2016: 20 seconds
+libpng-1.6.19: Mon Mar  7 17:59:01 2016: 32 seconds
+libpng-1.6.19: Mon Mar  7 21:29:21 2016: 20 seconds
+libpng-1.6.19: Sun Mar 13 01:43:42 2016: 20 seconds
+libsamplerate-0.1.8-r1: Sun Aug 30 03:48:45 2015: 46 seconds
+libsamplerate-0.1.8-r1: Sun Mar 13 01:39:24 2016: 28 seconds
+libsdl-1.2.15-r8: Sat Aug 29 16:40:38 2015: 36 seconds
+libsdl-1.2.15-r8: Sun Aug 30 05:15:50 2015: 36 seconds
+libsdl-1.2.15-r8: Sun Aug 30 06:04:36 2015: 1 minute, 3 seconds
+libsdl-1.2.15-r9: Thu Mar  3 22:02:33 2016: 41 seconds
+libsdl-1.2.15-r9: Sun Mar 13 03:49:04 2016: 47 seconds
+libtxc_dxtn-1.0.1-r1: Sat Aug 29 03:22:04 2015: 18 seconds
+libtxc_dxtn-1.0.1-r1: Sun Mar 13 09:08:01 2016: 15 seconds
+libvisio-0.1.5: Thu May  5 15:53:23 2016: 45 seconds
+libvorbis-1.3.4: Fri Aug 28 22:10:06 2015: 32 seconds
+libvorbis-1.3.4: Sat Aug 29 01:13:51 2015: 48 seconds
+libvorbis-1.3.4: Sun Mar 13 01:37:18 2016: 25 seconds
+mesa-10.3.7-r1: Fri Aug 28 18:24:22 2015: 5 minutes, 46 seconds
+mesa-10.3.7-r1: Sat Aug 29 03:15:38 2015: 6 minutes, 6 seconds
+mesa-10.3.7-r1: Sat Aug 29 04:33:27 2015: 5 minutes, 56 seconds
+mesa-11.0.6: Thu Mar  3 21:44:18 2016: 7 minutes, 18 seconds
+mesa-11.0.6: Mon Mar  7 01:08:26 2016: 15 minutes, 59 seconds
+mesa-11.0.6: Mon Mar  7 02:19:14 2016: 8 minutes, 53 seconds
+mesa-11.0.6: Mon Mar  7 13:48:48 2016: 17 minutes, 48 seconds
+mesa-11.0.6: Mon Mar  7 16:54:13 2016: 7 minutes, 38 seconds
+mesa-11.0.6: Mon Mar  7 18:43:02 2016: 14 minutes, 55 seconds
+mesa-11.0.6: Mon Mar  7 22:05:00 2016: 7 minutes, 56 seconds
+mesa-11.0.6: Sat Mar 12 21:51:27 2016: 8 minutes, 2 seconds
+mesa-11.0.6: Sun Mar 13 08:58:27 2016: 8 minutes, 21 seconds
+openjpeg-2.1.0: Wed Apr 20 23:50:41 2016: 22 seconds
+raptor-2.0.9: Thu May  5 15:51:56 2016: 27 seconds
+tiff-4.0.3-r6: Fri Aug 28 17:01:52 2015: 25 seconds
+tiff-4.0.3-r6: Fri Aug 28 20:28:40 2015: 32 seconds
+tiff-4.0.3-r6: Fri Aug 28 23:28:20 2015: 34 seconds
+tiff-4.0.6: Tue Mar  8 00:32:12 2016: 58 seconds
+tiff-4.0.6: Sun Mar 13 01:44:52 2016: 55 seconds
+vo-aacenc-0.1.3: Sat Aug 29 16:34:02 2015: 15 seconds
+vo-aacenc-0.1.3: Sun Mar 13 01:05:53 2016: 16 seconds
+x264-0.0.20140308: Sat Aug 29 16:36:19 2015: 53 seconds
+x264-0.0.20140308: Sun Mar 13 03:39:18 2016: 30 seconds
+x265-1.5: Sat Aug 29 16:36:16 2015: 1 minute, 59 seconds
+x265-1.8-r3: Wed Mar  9 17:39:00 2016: 33 minutes, 10 seconds
+x265-1.8-r3: Sun Mar 13 06:24:01 2016: 32 minutes, 53 seconds
+xvid-1.3.3: Sat Aug 29 16:36:00 2015: 18 seconds
+xvid-1.3.3: Sun Mar 13 03:42:33 2016: 21 seconds
+alsa-utils-1.0.29: Sun Aug 30 03:49:31 2015: 16 seconds
+alsa-utils-1.0.29: Sun Mar 13 03:00:17 2016: 21 seconds
+lame-3.99.5-r1: Sat Aug 29 16:38:12 2015: 49 seconds
+lame-3.99.5-r1: Thu Mar  3 21:00:38 2016: 30 seconds
+lame-3.99.5-r1: Sun Mar 13 01:42:47 2016: 34 seconds
+ffmpeg-2.8.5: Tue Mar  8 22:49:04 2016: 7 minutes, 38 seconds
+ffmpeg-2.8.6: Thu May  5 12:38:56 2016: 7 minutes, 28 seconds
+ffmpeg-2.8.6: Thu May  5 13:15:13 2016: 7 minutes, 35 seconds
+vlc-2.1.5-r1: Sun Aug 30 04:31:48 2015: 4 minutes, 50 seconds
+vlc-2.1.5-r1: Sun Aug 30 05:08:42 2015: 4 minutes, 45 seconds
+vlc-2.1.5-r1: Sun Aug 30 05:16:38 2015: 7 minutes, 49 seconds
+vlc-2.1.5-r1: Sun Aug 30 05:46:59 2015: 5 minutes, 20 seconds
+vlc-2.1.5-r1: Sun Aug 30 06:09:15 2015: 7 minutes, 27 seconds
+vlc-2.1.5-r1: Sun Aug 30 21:21:49 2015: 4 minutes, 50 seconds
+vlc-2.1.5-r1: Sun Sep  6 05:45:51 2015: 5 minutes, 23 seconds
+vlc-2.2.1-r1: Fri Mar  4 00:38:30 2016: 5 minutes, 22 seconds
+vlc-2.2.1-r1: Wed Mar  9 18:29:03 2016: 5 minutes, 39 seconds
+vlc-2.2.1-r1: Sun Mar 13 08:36:25 2016: 5 minutes, 28 seconds
+vlc-2.2.1-r1: Thu May  5 12:46:24 2016: 5 minutes, 26 seconds
+nmap-6.47-r1: Sun Aug 30 17:30:28 2015: 1 minute, 14 seconds
+nmap-6.47-r1: Sun Aug 30 18:06:15 2015: 50 seconds
+nmap-7.01: Thu Mar  3 21:26:15 2016: 1 minute, 4 seconds
+nmap-7.01: Sun Mar 13 05:39:20 2016: 1 minute, 32 seconds
+rrdtool-1.4.8-r1: Fri Aug 28 22:10:14 2015: 59 seconds
+rrdtool-1.4.8-r1: Sat Aug 29 01:13:57 2015: 1 minute, 19 seconds
+rrdtool-1.5.5: Thu Mar  3 23:20:30 2016: 57 seconds
+rrdtool-1.5.5: Sun Mar 13 07:10:32 2016: 1 minute, 3 seconds
+dnsmasq-2.72-r2: Fri Aug 28 22:30:41 2015: 23 seconds
+dnsmasq-2.72-r2: Sat Aug 29 01:32:34 2015: 43 seconds
+dnsmasq-2.72-r2: Sun Aug 30 01:57:35 2015: 9 seconds
+dnsmasq-2.72-r2: Sun Aug 30 02:08:25 2015: 9 seconds
+dnsmasq-2.72-r2: Thu Mar  3 22:57:43 2016: 13 seconds
+dnsmasq-2.75: Sun Mar  6 02:27:08 2016: 16 seconds
+dnsmasq-2.75: Sun Mar 13 05:35:19 2016: 27 seconds
+libidn-1.30: Fri Aug 28 18:55:32 2015: 1 minute, 0 seconds
+libidn-1.30: Fri Aug 28 21:44:12 2015: 40 seconds
+libidn-1.30: Sat Aug 29 00:44:47 2015: 45 seconds
+libidn-1.30: Sun Mar 13 03:17:51 2016: 40 seconds
+iptables-1.4.21-r1: Fri Aug 28 17:07:47 2015: 17 seconds
+iptables-1.4.21-r1: Fri Aug 28 20:30:08 2015: 30 seconds
+iptables-1.4.21-r1: Fri Aug 28 23:29:51 2015: 30 seconds
+iptables-1.4.21-r1: Sun Mar 13 01:19:14 2016: 29 seconds
+glib-networking-2.42.1: Fri Aug 28 22:15:49 2015: 33 seconds
+glib-networking-2.42.1: Sat Aug 29 01:19:53 2015: 48 seconds
+glib-networking-2.46.1: Thu Mar  3 23:51:10 2016: 28 seconds
+glib-networking-2.46.1: Sun Mar 13 07:04:03 2016: 27 seconds
+gnutls-3.3.15: Fri Aug 28 19:01:34 2015: 3 minutes, 32 seconds
+gnutls-3.3.15: Fri Aug 28 22:12:32 2015: 3 minutes, 10 seconds
+gnutls-3.3.15: Sat Aug 29 01:16:38 2015: 3 minutes, 12 seconds
+gnutls-3.3.15: Sat Aug 29 16:21:57 2015: 2 minutes, 29 seconds
+gnutls-3.3.17.1: Mon Aug 31 00:46:30 2015: 8 minutes, 23 seconds
+gnutls-3.3.17.1: Thu Mar  3 22:55:37 2016: 2 minutes, 6 seconds
+gnutls-3.3.17.1: Sun Mar 13 04:01:31 2016: 2 minutes, 27 seconds
+http-parser-2.3: Thu Mar 10 00:53:54 2016: 19 seconds
+http-parser-2.3: Thu Mar 10 21:53:31 2016: 7 seconds
+http-parser-2.3: Fri Mar 11 02:03:04 2016: 6 seconds
+http-parser-2.3: Fri Mar 11 22:41:30 2016: 19 seconds
+http-parser-2.3: Sat Mar 12 22:34:14 2016: 7 seconds
+http-parser-2.3: Sun Apr  3 10:37:46 2016: 7 seconds
+http-parser-2.3: Fri Apr  8 23:06:50 2016: 8 seconds
+http-parser-2.3: Sun Apr 17 21:53:50 2016: 7 seconds
+http-parser-2.6.2: Mon Apr 18 15:18:45 2016: 10 seconds
+http-parser-2.3: Mon Apr 18 17:24:45 2016: 8 seconds
+http-parser-2.6.2: Mon Apr 18 18:20:28 2016: 9 seconds
+libmnl-1.0.3-r1: Thu Mar  3 18:46:40 2016: 9 seconds
+libmnl-1.0.3-r1: Sun Mar 13 01:02:35 2016: 14 seconds
+libpcap-1.7.4: Sun Aug 30 17:30:07 2015: 21 seconds
+libpcap-1.7.4: Sun Mar 13 05:33:40 2016: 23 seconds
+libproxy-0.4.11-r2: Fri Aug 28 22:10:36 2015: 21 seconds
+libproxy-0.4.11-r2: Sat Aug 29 01:14:21 2015: 38 seconds
+libproxy-0.4.11-r2: Sun Mar 13 06:57:55 2016: 16 seconds
+libsoup-2.48.1: Fri Aug 28 22:16:32 2015: 28 seconds
+libsoup-2.48.1: Sat Aug 29 01:20:49 2015: 44 seconds
+libsoup-2.48.1: Sun Sep  6 18:35:18 2015: 22 seconds
+libsoup-2.52.2: Fri Mar  4 00:33:38 2016: 24 seconds
+libsoup-2.52.2: Sun Mar 13 07:05:20 2016: 26 seconds
+neon-0.30.1: Wed Mar 16 16:52:49 2016: 30 seconds
+neon-0.30.1: Wed Mar 16 17:45:26 2016: 26 seconds
+neon-0.30.1: Thu Mar 17 06:07:11 2016: 29 seconds
+neon-0.30.1: Wed Mar 30 01:10:07 2016: 28 seconds
+neon-0.30.1: Thu May  5 15:57:03 2016: 27 seconds
+nodejs-0.12.6: Thu Mar 10 00:57:41 2016: 4 minutes, 20 seconds
+nodejs-0.12.6: Thu Mar 10 21:57:08 2016: 4 minutes, 5 seconds
+nodejs-0.12.6: Fri Mar 11 02:06:31 2016: 4 minutes, 1 second
+nodejs-0.12.6: Fri Mar 11 22:45:55 2016: 4 minutes, 21 seconds
+nodejs-0.12.6: Sat Mar 12 22:36:50 2016: 4 minutes, 0 seconds
+nodejs-0.12.6: Sun Apr  3 10:38:18 2016: 4 minutes, 16 seconds
+nodejs-0.12.6: Fri Apr  8 23:07:29 2016: 5 minutes, 33 seconds
+nodejs-0.12.6: Sun Apr 17 21:54:24 2016: 4 minutes, 21 seconds
+nodejs-5.10.1: Mon Apr 18 15:33:41 2016: 7 minutes, 54 seconds
+nodejs-0.12.6: Mon Apr 18 17:39:01 2016: 4 minutes, 4 seconds
+nodejs-5.10.1: Mon Apr 18 18:34:33 2016: 7 minutes, 50 seconds
+rb_libtorrent-0.16.17: Sun Aug 30 04:56:42 2015: 4 minutes, 11 seconds
+rb_libtorrent-0.16.17: Sun Mar 13 03:01:38 2016: 4 minutes, 31 seconds
+mailbase-1.1: Fri Aug 28 18:58:19 2015: 6 seconds
+mailbase-1.1: Fri Aug 28 20:27:34 2015: 5 seconds
+mailbase-1.1: Fri Aug 28 23:27:13 2015: 6 seconds
+mailbase-1.1: Sun Mar 13 01:14:10 2016: 11 seconds
+curl-7.43.0: Fri Aug 28 17:45:19 2015: 1 minute, 7 seconds
+curl-7.43.0: Fri Aug 28 21:44:27 2015: 1 minute, 19 seconds
+curl-7.43.0: Sat Aug 29 00:44:59 2015: 1 minute, 24 seconds
+curl-7.45.0: Thu Mar  3 20:53:06 2016: 1 minute, 22 seconds
+curl-7.45.0: Sun Mar 13 05:48:24 2016: 1 minute, 50 seconds
+dhcpcd-6.9.0: Fri Aug 28 19:00:22 2015: 13 seconds
+dhcpcd-6.9.0: Fri Aug 28 20:28:38 2015: 12 seconds
+dhcpcd-6.9.0: Fri Aug 28 23:28:18 2015: 12 seconds
+dhcpcd-6.9.0: Sat Aug 29 16:29:23 2015: 8 seconds
+dhcpcd-6.9.0: Sun Aug 30 01:53:52 2015: 9 seconds
+dhcpcd-6.9.0: Sun Aug 30 01:59:54 2015: 7 seconds
+dhcpcd-6.10.1: Thu Mar  3 21:04:34 2016: 10 seconds
+dhcpcd-6.10.1: Sun Mar 13 01:22:01 2016: 11 seconds
+iputils-20121221-r1: Fri Aug 28 16:57:44 2015: 17 seconds
+iputils-20121221-r1: Fri Aug 28 20:30:08 2015: 24 seconds
+iputils-20121221-r1: Fri Aug 28 23:29:51 2015: 23 seconds
+iputils-20121221-r1: Sun Aug 30 04:20:21 2015: 1 minute, 37 seconds
+iputils-20121221-r1: Fri Mar  4 19:25:09 2016: 8 seconds
+iputils-20121221-r1: Sun Mar  6 13:20:23 2016: 8 seconds
+iputils-20121221-r1: Sun Mar 13 03:48:50 2016: 9 seconds
+netifrc-0.2.2: Fri Aug 28 20:32:31 2015: 8 seconds
+netifrc-0.2.2: Fri Aug 28 23:32:15 2015: 8 seconds
+netifrc-0.2.2: Sun Mar 13 01:22:12 2016: 8 seconds
+netkit-telnetd-0.17-r10: Thu Sep  3 15:52:15 2015: 32 seconds
+netkit-telnetd-0.17-r10: Sun Mar 13 01:12:17 2016: 11 seconds
+openssh-6.9_p1-r2: Fri Aug 28 17:48:12 2015: 51 seconds
+openssh-6.9_p1-r2: Fri Aug 28 22:36:10 2015: 1 minute, 0 seconds
+openssh-6.9_p1-r2: Sat Aug 29 01:38:51 2015: 1 minute, 2 seconds
+openssh-7.1_p2: Thu Mar  3 21:53:41 2016: 1 minute, 1 second
+openssh-7.1_p2: Thu Mar 10 01:12:56 2016: 1 minute, 6 seconds
+openssh-7.1_p2: Thu Mar 10 22:42:51 2016: 1 minute, 7 seconds
+openssh-7.1_p2: Fri Mar 11 05:37:36 2016: 1 minute, 3 seconds
+openssh-7.1_p2: Sat Mar 12 01:16:57 2016: 3 seconds
+openssh-7.2_p2: Sat Mar 12 01:25:09 2016: 1 minute, 15 seconds
+openssh-7.2_p2: Sat Mar 12 21:59:29 2016: 1 minute, 4 seconds
+openssh-7.2_p2: Sun Mar 13 05:50:14 2016: 1 minute, 26 seconds
+rsync-3.1.1: Fri Aug 28 17:07:24 2015: 23 seconds
+rsync-3.1.1: Fri Aug 28 21:16:23 2015: 24 seconds
+rsync-3.1.1: Sat Aug 29 00:15:28 2015: 24 seconds
+rsync-3.1.2: Thu Mar  3 20:55:20 2016: 29 seconds
+rsync-3.1.2: Sun Mar  6 13:17:29 2016: 31 seconds
+rsync-3.1.2: Sun Mar 13 03:32:16 2016: 31 seconds
+wget-1.16: Fri Aug 28 17:13:13 2015: 1 minute, 8 seconds
+wget-1.16: Fri Aug 28 22:24:55 2015: 11 minutes, 8 seconds
+wget-1.16: Sat Aug 29 01:26:33 2015: 12 minutes, 11 seconds
+wget-1.16: Sun Aug 30 04:22:02 2015: 1 minute, 9 seconds
+wget-1.16.3-r1: Thu Mar  3 21:22:25 2016: 52 seconds
+wget-1.16.3-r1: Sun Mar  6 14:12:30 2016: 58 seconds
+wget-1.16.3-r1: Sun Mar 13 04:14:06 2016: 1 minute, 0 seconds
+openldap-2.4.38-r2: Fri Aug 28 17:43:51 2015: 1 minute, 28 seconds
+openldap-2.4.38-r2: Fri Aug 28 21:36:11 2015: 1 minute, 31 seconds
+openldap-2.4.38-r2: Sat Aug 29 00:35:58 2015: 1 minute, 32 seconds
+openldap-2.4.38-r2: Sun Aug 30 04:20:21 2015: 1 minute, 41 seconds
+openldap-2.4.38-r2: Sun Sep  6 07:11:16 2015: 1 minute, 35 seconds
+openldap-2.4.38-r2: Sun Mar 13 05:40:52 2016: 2 minutes, 32 seconds
+openldap-2.4.38-r2: Mon Apr 18 15:50:55 2016: 1 minute, 55 seconds
+openldap-2.4.38-r2: Mon Apr 18 17:52:26 2016: 1 minute, 55 seconds
+openldap-2.4.38-r2: Mon Apr 18 18:51:56 2016: 1 minute, 54 seconds
+qbittorrent-3.1.12: Sun Aug 30 05:00:53 2015: 2 minutes, 12 seconds
+qbittorrent-3.1.12: Sun Mar 13 06:58:28 2016: 2 minutes, 28 seconds
+CPAN-Meta-2.150.1: Wed Mar 16 08:25:36 2016: 7 seconds
+Data-Dumper-2.154.0: Fri Aug 28 20:41:27 2015: 13 seconds
+Data-Dumper-2.154.0: Fri Aug 28 23:41:37 2015: 17 seconds
+Data-Dumper-2.154.0: Sun Mar 13 02:31:49 2016: 9 seconds
+File-Temp-0.230.400-r1: Fri Aug 28 20:41:40 2015: 6 seconds
+File-Temp-0.230.400-r1: Fri Aug 28 23:41:54 2015: 6 seconds
+File-Temp-0.230.400-r1: Sun Mar 13 02:31:41 2016: 8 seconds
+JSON-PP-2.273.0: Wed Mar 16 08:25:23 2016: 7 seconds
+Module-Metadata-1.0.26: Thu Mar  3 19:00:19 2016: 6 seconds
+Module-Metadata-1.0.26: Sun Mar 13 02:34:23 2016: 8 seconds
+Test-Simple-1.1.14: Wed Mar 16 08:25:02 2016: 13 seconds
+Test-Simple-1.1.14-r1: Wed Mar 23 12:44:32 2016: 14 seconds
+libnet-1.270.0: Sat Aug 29 04:24:58 2015: 5 seconds
+libnet-1.270.0: Sun Mar 13 02:32:05 2016: 10 seconds
+suitesparseconfig-4.2.1: Thu May  5 15:46:51 2016: 11 seconds
+acl-2.2.52-r1: Fri Aug 28 21:14:59 2015: 12 seconds
+acl-2.2.52-r1: Sat Aug 29 00:14:04 2015: 13 seconds
+acl-2.2.52-r1: Sun Mar 13 03:30:08 2016: 18 seconds
+attr-2.4.47-r2: Fri Aug 28 21:14:48 2015: 10 seconds
+attr-2.4.47-r2: Sat Aug 29 00:13:53 2015: 11 seconds
+attr-2.4.47-r2: Sun Mar 13 03:16:59 2016: 15 seconds
+baselayout-2.2: Fri Aug 28 20:16:15 2015: 3 minutes, 2 seconds
+baselayout-2.2: Fri Aug 28 23:15:39 2015: 2 minutes, 59 seconds
+baselayout-2.2: Sun Mar  6 13:12:40 2016: 7 seconds
+baselayout-2.2: Sun Mar 13 01:01:15 2016: 6 seconds
+busybox-1.23.1-r1: Fri Aug 28 17:33:00 2015: 49 seconds
+busybox-1.23.1-r1: Fri Aug 28 22:24:55 2015: 10 minutes, 57 seconds
+busybox-1.23.1-r1: Sat Aug 29 01:26:33 2015: 11 minutes, 58 seconds
+busybox-1.23.1-r1: Sat Aug 29 04:30:17 2015: 1 minute, 43 seconds
+busybox-1.24.1: Thu Mar  3 18:56:11 2016: 56 seconds
+busybox-1.24.1: Sun Mar  6 13:18:48 2016: 1 minute, 6 seconds
+busybox-1.24.1: Sun Mar 13 05:10:17 2016: 1 minute, 15 seconds
+busybox-1.24.2: Wed Mar 23 12:43:18 2016: 1 minute, 14 seconds
+coreutils-8.23: Fri Aug 28 20:57:08 2015: 1 minute, 28 seconds
+coreutils-8.23: Fri Aug 28 23:57:57 2015: 1 minute, 25 seconds
+coreutils-8.23: Thu Mar  3 18:51:32 2016: 1 minute, 28 seconds
+coreutils-8.23: Sun Mar  6 13:13:46 2016: 1 minute, 46 seconds
+coreutils-8.23: Sun Mar 13 03:44:53 2016: 1 minute, 47 seconds
+dbus-1.8.16: Fri Aug 28 17:46:32 2015: 45 seconds
+dbus-1.8.16: Fri Aug 28 20:52:25 2015: 51 seconds
+dbus-1.8.16: Fri Aug 28 23:53:09 2015: 50 seconds
+dbus-1.10.6: Sun Mar  6 02:17:36 2016: 1 minute, 3 seconds
+dbus-1.10.6: Sun Mar 13 05:21:54 2016: 1 minute, 18 seconds
+dbus-1.10.8-r1: Wed Apr  6 10:43:09 2016: 1 minute, 8 seconds
+debianutils-4.4: Fri Aug 28 20:22:09 2015: 7 seconds
+debianutils-4.4: Fri Aug 28 23:21:37 2015: 8 seconds
+debianutils-4.4: Sun Mar 13 01:02:02 2016: 10 seconds
+diffutils-3.3: Fri Aug 28 22:23:12 2015: 38 seconds
+diffutils-3.3: Sat Aug 29 01:24:49 2015: 38 seconds
+diffutils-3.3: Sun Mar  6 13:29:16 2016: 48 seconds
+diffutils-3.3: Sun Mar 13 03:22:22 2016: 48 seconds
+file-5.22: Fri Aug 28 17:17:28 2015: 16 seconds
+file-5.22: Fri Aug 28 20:22:56 2015: 34 seconds
+file-5.22: Fri Aug 28 23:22:28 2015: 33 seconds
+file-5.22: Sun Mar  6 13:16:59 2016: 22 seconds
+file-5.22: Sun Mar 13 02:48:17 2016: 22 seconds
+findutils-4.4.2-r1: Fri Aug 28 21:12:34 2015: 43 seconds
+findutils-4.4.2-r1: Sat Aug 29 00:11:42 2015: 42 seconds
+findutils-4.6.0: Sun Mar  6 02:25:29 2016: 1 minute, 39 seconds
+findutils-4.6.0: Sun Mar  6 13:27:07 2016: 1 minute, 21 seconds
+findutils-4.6.0: Sun Mar 13 03:19:59 2016: 1 minute, 21 seconds
+gawk-4.0.2: Fri Aug 28 21:15:11 2015: 1 minute, 7 seconds
+gawk-4.0.2: Sat Aug 29 00:14:17 2015: 1 minute, 6 seconds
+gawk-4.0.2: Sun Mar  6 13:28:28 2016: 28 seconds
+gawk-4.0.2: Sun Mar 13 03:19:30 2016: 28 seconds
+gentoo-functions-0.10: Fri Aug 28 20:15:49 2015: 3 minutes, 10 seconds
+gentoo-functions-0.10: Fri Aug 28 23:15:16 2015: 3 minutes, 0 seconds
+gentoo-functions-0.10: Sun Mar 13 00:59:34 2016: 8 seconds
+gptfdisk-0.8.10: Fri Aug 28 22:10:37 2015: 24 seconds
+gptfdisk-0.8.10: Sat Aug 29 01:14:22 2015: 30 seconds
+gptfdisk-0.8.10: Sun Mar 13 05:15:01 2016: 14 seconds
+grep-2.21-r1: Fri Aug 28 21:16:47 2015: 40 seconds
+grep-2.21-r1: Sat Aug 29 00:15:53 2015: 39 seconds
+grep-2.21-r1: Sun Mar  6 13:26:25 2016: 42 seconds
+grep-2.21-r1: Sun Mar 13 03:18:48 2016: 42 seconds
+groff-1.22.2: Fri Aug 28 17:43:06 2015: 45 seconds
+groff-1.22.2: Fri Aug 28 21:35:25 2015: 46 seconds
+groff-1.22.2: Sat Aug 29 00:35:10 2015: 48 seconds
+groff-1.22.2: Sun Mar 13 05:35:57 2016: 1 minute, 20 seconds
+help2man-1.46.6: Fri Aug 28 21:23:50 2015: 12 seconds
+help2man-1.46.6: Sat Aug 29 00:22:59 2015: 11 seconds
+help2man-1.46.6: Sun Mar 13 03:38:04 2016: 9 seconds
+hwids-20150129: Fri Aug 28 20:39:15 2015: 10 seconds
+hwids-20150129: Fri Aug 28 23:39:12 2015: 17 seconds
+hwids-20150717-r1: Thu Mar  3 20:54:40 2016: 10 seconds
+hwids-20150717-r1: Sun Mar 13 00:46:35 2016: 20 seconds
+hwids-20150717-r1: Sun Mar 13 02:31:31 2016: 10 seconds
+install-xattr-0.5: Thu Mar  3 17:57:30 2016: 16 seconds
+install-xattr-0.5: Sun Mar 13 01:02:21 2016: 7 seconds
+iproute2-3.19.0: Fri Aug 28 17:11:07 2015: 15 seconds
+iproute2-3.19.0: Sat Aug 29 03:21:44 2015: 48 minutes, 31 seconds
+iproute2-4.3.0: Thu Mar  3 20:56:47 2016: 19 seconds
+iproute2-4.3.0: Sun Mar  6 13:18:27 2016: 21 seconds
+iproute2-4.4.0: Tue Mar  8 00:35:42 2016: 21 seconds
+iproute2-4.4.0: Sun Mar 13 08:35:34 2016: 51 seconds
+kbd-1.15.5-r1: Fri Aug 28 20:27:34 2015: 19 seconds
+kbd-1.15.5-r1: Fri Aug 28 23:27:13 2015: 18 seconds
+kbd-1.15.5-r1: Sun Mar  6 13:19:54 2016: 22 seconds
+kbd-1.15.5-r1: Sun Mar 13 01:13:49 2016: 21 seconds
+kmod-20: Fri Aug 28 17:23:17 2015: 28 seconds
+kmod-20: Fri Aug 28 20:26:44 2015: 29 seconds
+kmod-20: Fri Aug 28 23:26:18 2015: 29 seconds
+kmod-21: Thu Mar  3 23:10:08 2016: 31 seconds
+kmod-21: Sun Mar 13 03:11:48 2016: 35 seconds
+less-478: Fri Aug 28 20:56:03 2015: 44 seconds
+less-478: Fri Aug 28 23:56:49 2015: 47 seconds
+less-481: Thu Mar  3 21:23:17 2016: 14 seconds
+less-481: Sun Mar  6 13:16:39 2016: 14 seconds
+less-481: Sun Mar 13 01:52:04 2016: 16 seconds
+lm_sensors-3.3.4-r1: Fri Aug 28 22:11:23 2015: 12 seconds
+lm_sensors-3.3.4-r1: Sat Aug 29 01:15:26 2015: 13 seconds
+lm_sensors-3.3.4-r1: Sat Aug 29 04:25:29 2015: 9 seconds
+lm_sensors-3.3.4-r1: Sun Aug 30 02:21:37 2015: 19 seconds
+lm_sensors-3.3.5: Thu Mar  3 21:03:18 2016: 19 seconds
+lm_sensors-3.3.5: Sun Mar 13 03:52:38 2016: 10 seconds
+man-db-2.6.6: Fri Aug 28 22:23:50 2015: 1 minute, 5 seconds
+man-db-2.6.6: Sat Aug 29 01:25:27 2015: 1 minute, 6 seconds
+man-db-2.7.2: Mon Aug 31 00:54:53 2015: 1 minute, 55 seconds
+man-db-2.7.5: Thu Mar  3 21:52:16 2016: 1 minute, 13 seconds
+man-db-2.7.5: Sun Mar 13 05:43:24 2016: 1 minute, 36 seconds
+man-pages-4.00: Fri Aug 28 20:31:46 2015: 23 seconds
+man-pages-4.00: Fri Aug 28 23:31:34 2015: 18 seconds
+man-pages-4.03: Thu Mar  3 20:49:15 2016: 14 seconds
+man-pages-4.03: Sun Mar  6 14:14:14 2016: 16 seconds
+man-pages-4.03: Sun Mar 13 01:16:31 2016: 15 seconds
+man-pages-4.04: Wed Mar 16 08:24:47 2016: 15 seconds
+man-pages-posix-2013a: Fri Aug 28 20:31:36 2015: 10 seconds
+man-pages-posix-2013a: Fri Aug 28 23:31:22 2015: 12 seconds
+man-pages-posix-2013a: Sun Mar 13 01:16:20 2016: 11 seconds
+net-tools-1.60_p20130513023548: Fri Aug 28 20:19:40 2015: 1 minute, 45 seconds
+net-tools-1.60_p20130513023548: Fri Aug 28 23:19:03 2015: 1 minute, 49 seconds
+net-tools-1.60_p20141019041918-r1: Thu Mar  3 18:48:46 2016: 11 seconds
+net-tools-1.60_p20141019041918-r1: Sun Mar  6 13:12:53 2016: 10 seconds
+net-tools-1.60_p20141019041918-r1: Sun Mar 13 01:09:47 2016: 11 seconds
+openrc-0.17: Sat Aug 29 03:21:44 2015: 48 minutes, 27 seconds
+openrc-0.19.1: Thu Mar  3 20:55:49 2016: 16 seconds
+openrc-0.19.1: Sun Mar  6 14:13:36 2016: 17 seconds
+openrc-0.19.1: Sun Mar 13 03:30:26 2016: 18 seconds
+pciutils-3.3.1: Fri Aug 28 19:00:13 2015: 11 seconds
+pciutils-3.3.1: Fri Aug 28 20:41:46 2015: 10 seconds
+pciutils-3.3.1: Fri Aug 28 23:42:00 2015: 10 seconds
+pciutils-3.3.1: Sun Mar 13 03:12:31 2016: 10 seconds
+portage-2.2.20.1: Fri Aug 28 17:40:17 2015: 12 seconds
+portage-2.2.20.1: Fri Aug 28 21:23:26 2015: 14 seconds
+portage-2.2.20.1: Sat Aug 29 00:22:34 2015: 14 seconds
+portage-2.2.20.1: Thu Mar  3 16:01:57 2016: 17 seconds
+portage-2.2.26: Thu Mar  3 17:58:00 2016: 23 seconds
+portage-2.2.26: Sun Mar 13 04:55:57 2016: 25 seconds
+sandbox-2.6-r1: Fri Aug 28 20:23:49 2015: 27 seconds
+sandbox-2.6-r1: Fri Aug 28 23:23:21 2015: 27 seconds
+sandbox-2.10-r1: Thu Mar  3 20:48:30 2016: 36 seconds
+sandbox-2.10-r1: Sun Mar 13 03:00:38 2016: 42 seconds
+sed-4.2.1-r1: Fri Aug 28 20:44:03 2015: 23 seconds
+sed-4.2.1-r1: Fri Aug 28 23:44:32 2015: 23 seconds
+sed-4.2.1-r1: Sun Mar  6 13:20:31 2016: 29 seconds
+sed-4.2.1-r1: Sun Mar 13 03:16:29 2016: 30 seconds
+shadow-4.1.5.1-r1: Fri Aug 28 22:38:58 2015: 4 minutes, 30 seconds
+shadow-4.1.5.1-r1: Sat Aug 29 01:41:45 2015: 3 minutes, 59 seconds
+shadow-4.1.5.1-r1: Thu Mar  3 19:01:42 2016: 33 seconds
+shadow-4.1.5.1-r1: Sun Mar 13 03:46:40 2016: 39 seconds
+sysvinit-2.88-r7: Fri Aug 28 20:30:08 2015: 20 seconds
+sysvinit-2.88-r7: Fri Aug 28 23:29:51 2015: 20 seconds
+sysvinit-2.88-r7: Sun Mar 13 01:15:14 2016: 10 seconds
+tcp-wrappers-7.6.22-r1: Fri Aug 28 18:55:20 2015: 17 seconds
+tcp-wrappers-7.6.22-r1: Fri Aug 28 20:16:48 2015: 15 seconds
+tcp-wrappers-7.6.22-r1: Fri Aug 28 23:16:11 2015: 13 seconds
+tcp-wrappers-7.6.22-r1: Sun Mar 13 01:04:31 2016: 11 seconds
+texinfo-5.2: Fri Aug 28 21:13:17 2015: 41 seconds
+texinfo-5.2: Sat Aug 29 00:12:24 2015: 41 seconds
+texinfo-5.2: Sun Mar 13 03:24:38 2016: 49 seconds
+util-linux-2.25.2-r2: Fri Aug 28 17:40:29 2015: 45 seconds
+util-linux-2.25.2-r2: Fri Aug 28 20:53:41 2015: 46 seconds
+util-linux-2.25.2-r2: Fri Aug 28 23:54:25 2015: 47 seconds
+util-linux-2.26.2: Thu Mar  3 21:06:09 2016: 58 seconds
+util-linux-2.26.2: Sun Mar  6 14:14:30 2016: 1 minute, 1 second
+util-linux-2.26.2: Sun Mar 13 05:08:57 2016: 1 minute, 20 seconds
+which-2.20-r1: Fri Aug 28 20:16:18 2015: 3 minutes, 8 seconds
+which-2.20-r1: Fri Aug 28 23:15:42 2015: 3 minutes, 6 seconds
+which-2.20-r1: Sun Mar  6 13:12:28 2016: 12 seconds
+which-2.20-r1: Sun Mar 13 01:01:02 2016: 13 seconds
+consolekit-0.4.6: Fri Aug 28 18:43:21 2015: 20 seconds
+consolekit-0.4.6: Fri Aug 28 22:38:18 2015: 40 seconds
+consolekit-0.4.6: Sat Aug 29 01:41:02 2015: 43 seconds
+consolekit-0.4.6: Sun Sep  6 13:34:30 2015: 23 seconds
+consolekit-1.0.0-r1: Thu Mar  3 23:24:54 2016: 34 seconds
+consolekit-1.0.0-r1: Sun Mar 13 05:55:17 2016: 38 seconds
+consolekit-1.1.0: Sun Mar 27 18:12:47 2016: 36 seconds
+pam_mktemp-1.1.1: Fri Aug 28 17:11:56 2015: 3 seconds
+pam_mktemp-1.1.1: Fri Aug 28 20:39:49 2015: 8 seconds
+pam_mktemp-1.1.1: Fri Aug 28 23:39:55 2015: 8 seconds
+pam_mktemp-1.1.1: Sun Mar 13 02:36:44 2016: 7 seconds
+pambase-20150213: Fri Aug 28 18:48:58 2015: 4 seconds
+pambase-20150213: Fri Aug 28 22:33:18 2015: 2 minutes, 51 seconds
+pambase-20150213: Sat Aug 29 01:35:54 2015: 2 minutes, 57 seconds
+pambase-20150213: Sat Aug 29 04:30:11 2015: 6 seconds
+pambase-20150213: Sun Mar 13 02:14:46 2016: 7 seconds
+polkit-0.112-r3: Fri Aug 28 18:42:59 2015: 22 seconds
+polkit-0.112-r3: Fri Aug 28 22:36:10 2015: 55 seconds
+polkit-0.112-r3: Sat Aug 29 01:38:51 2015: 56 seconds
+polkit-0.113: Sun Sep  6 05:45:25 2015: 26 seconds
+polkit-0.113: Sun Sep  6 18:40:27 2015: 22 seconds
+polkit-0.113: Sun Mar 13 05:54:49 2016: 28 seconds
+parted-3.2: Fri Aug 28 22:10:49 2015: 1 minute, 21 seconds
+parted-3.2: Sat Aug 29 01:14:48 2015: 1 minute, 25 seconds
+parted-3.2: Sat Aug 29 04:51:23 2015: 1 minute, 9 seconds
+parted-3.2: Sun Mar 13 05:20:24 2016: 1 minute, 30 seconds
+grub-2.02_beta2-r7: Fri Aug 28 18:56:39 2015: 3 minutes, 36 seconds
+grub-2.02_beta2-r7: Fri Aug 28 22:30:45 2015: 3 minutes, 4 seconds
+grub-2.02_beta2-r7: Sat Aug 29 01:32:46 2015: 3 minutes, 13 seconds
+grub-2.02_beta2-r7: Sat Aug 29 04:51:23 2015: 2 minutes, 11 seconds
+grub-2.02_beta2-r8: Thu Mar  3 21:36:06 2016: 2 minutes, 25 seconds
+grub-2.02_beta2-r9: Sun Mar  6 02:28:46 2016: 2 minutes, 50 seconds
+grub-2.02_beta2-r9: Sun Mar 13 05:17:03 2016: 3 minutes, 21 seconds
+autoconf-2.69: Fri Aug 28 20:39:57 2015: 9 seconds
+autoconf-2.13: Fri Aug 28 22:17:17 2015: 13 seconds
+autoconf-2.69: Fri Aug 28 23:40:03 2015: 9 seconds
+autoconf-2.69: Sun Mar 13 01:27:21 2016: 11 seconds
+autoconf-2.13: Sun Mar 13 03:38:55 2016: 8 seconds
+autoconf-2.69: Fri Aug 28 20:39:57 2015: 9 seconds
+autoconf-2.13: Fri Aug 28 22:17:17 2015: 13 seconds
+autoconf-2.69: Fri Aug 28 23:40:03 2015: 9 seconds
+autoconf-2.69: Sun Mar 13 01:27:21 2016: 11 seconds
+autoconf-2.13: Sun Mar 13 03:38:55 2016: 8 seconds
+autoconf-wrapper-13: Fri Aug 28 20:16:52 2015: 14 seconds
+autoconf-wrapper-13: Fri Aug 28 23:16:14 2015: 15 seconds
+autoconf-wrapper-13: Sun Mar 13 01:00:34 2016: 5 seconds
+autogen-5.18.1: Fri Aug 28 18:59:43 2015: 1 minute, 24 seconds
+autogen-5.18.1: Fri Aug 28 22:10:53 2015: 1 minute, 38 seconds
+autogen-5.18.1: Sat Aug 29 01:14:53 2015: 1 minute, 40 seconds
+autogen-5.18.4: Sun Mar  6 02:27:24 2016: 1 minute, 22 seconds
+autogen-5.18.4: Sun Mar 13 03:47:20 2016: 1 minute, 22 seconds
+automake-1.15: Fri Aug 28 21:24:02 2015: 13 seconds
+automake-1.13.4: Fri Aug 28 22:17:00 2015: 20 seconds
+automake-1.15: Sat Aug 29 00:23:10 2015: 21 seconds
+automake-1.11.6-r1: Sun Aug 30 04:39:45 2015: 13 seconds
+automake-1.14.1: Sun Sep  6 05:43:31 2015: 10 seconds
+automake-1.15: Sun Mar 13 01:29:10 2016: 12 seconds
+automake-1.14.1: Sun Mar 13 03:50:52 2016: 12 seconds
+automake-1.11.6-r1: Sun Mar 13 03:51:04 2016: 12 seconds
+automake-1.15: Fri Aug 28 21:24:02 2015: 13 seconds
+automake-1.13.4: Fri Aug 28 22:17:00 2015: 20 seconds
+automake-1.15: Sat Aug 29 00:23:10 2015: 21 seconds
+automake-1.11.6-r1: Sun Aug 30 04:39:45 2015: 13 seconds
+automake-1.14.1: Sun Sep  6 05:43:31 2015: 10 seconds
+automake-1.15: Sun Mar 13 01:29:10 2016: 12 seconds
+automake-1.14.1: Sun Mar 13 03:50:52 2016: 12 seconds
+automake-1.11.6-r1: Sun Mar 13 03:51:04 2016: 12 seconds
+automake-1.15: Fri Aug 28 21:24:02 2015: 13 seconds
+automake-1.13.4: Fri Aug 28 22:17:00 2015: 20 seconds
+automake-1.15: Sat Aug 29 00:23:10 2015: 21 seconds
+automake-1.11.6-r1: Sun Aug 30 04:39:45 2015: 13 seconds
+automake-1.14.1: Sun Sep  6 05:43:31 2015: 10 seconds
+automake-1.15: Sun Mar 13 01:29:10 2016: 12 seconds
+automake-1.14.1: Sun Mar 13 03:50:52 2016: 12 seconds
+automake-1.11.6-r1: Sun Mar 13 03:51:04 2016: 12 seconds
+automake-wrapper-10: Fri Aug 28 20:16:59 2015: 12 seconds
+automake-wrapper-10: Fri Aug 28 23:16:20 2015: 14 seconds
+automake-wrapper-10: Sun Mar 13 00:59:42 2016: 7 seconds
+bc-1.06.95-r1: Fri Aug 28 18:55:20 2015: 13 seconds
+bc-1.06.95-r1: Fri Aug 28 22:11:11 2015: 15 seconds
+bc-1.06.95-r1: Sat Aug 29 01:15:12 2015: 17 seconds
+bc-1.06.95-r1: Sun Mar 13 03:39:03 2016: 15 seconds
+binutils-2.24-r3: Fri Aug 28 21:19:59 2015: 2 minutes, 44 seconds
+binutils-2.24-r3: Sat Aug 29 00:19:05 2015: 2 minutes, 45 seconds
+binutils-2.25.1-r1: Thu Mar  3 19:05:23 2016: 3 minutes, 19 seconds
+binutils-2.25.1-r1: Sun Mar  6 13:21:00 2016: 3 minutes, 43 seconds
+binutils-2.25.1-r1: Sun Mar 13 03:54:42 2016: 3 minutes, 52 seconds
+binutils-config-4-r2: Fri Aug 28 20:19:39 2015: 1 minute, 42 seconds
+binutils-config-4-r2: Fri Aug 28 23:19:02 2015: 1 minute, 47 seconds
+binutils-config-4-r2: Sun Mar 13 01:09:40 2016: 7 seconds
+binutils-config-5-r2: Wed Mar 16 08:24:29 2016: 8 seconds
+bison-2.4.3: Fri Aug 28 21:19:02 2015: 33 seconds
+bison-2.4.3: Sat Aug 29 00:18:05 2015: 33 seconds
+bison-3.0.4-r1: Thu Mar  3 19:02:15 2016: 46 seconds
+bison-3.0.4-r1: Sun Mar 13 03:36:56 2016: 56 seconds
+flex-2.5.39-r1: Fri Aug 28 21:18:06 2015: 23 seconds
+flex-2.5.39-r1: Sat Aug 29 00:17:10 2015: 22 seconds
+flex-2.5.39-r1: Sun Mar 13 03:23:20 2016: 28 seconds
+gcc-4.8.4: Sat Aug 29 02:11:33 2015: 32 minutes, 2 seconds
+gcc-4.8.5: Mon Aug 31 00:06:08 2015: 40 minutes, 22 seconds
+gcc-4.9.3: Thu Mar  3 19:09:29 2016: 37 minutes, 26 seconds
+gcc-4.9.3: Sat Mar  5 16:59:47 2016: 42 minutes, 8 seconds
+gcc-4.9.3: Sat Mar  5 17:52:55 2016: 42 minutes, 53 seconds
+gcc-4.9.3: Sun Mar  6 13:30:04 2016: 42 minutes, 25 seconds
+gcc-4.9.3: Sun Mar 13 07:48:49 2016: 46 minutes, 45 seconds
+gcc-config-1.7.3: Fri Aug 28 20:16:20 2015: 3 minutes, 4 seconds
+gcc-config-1.7.3: Fri Aug 28 23:15:51 2015: 2 minutes, 54 seconds
+gcc-config-1.7.3: Sun Mar 13 01:01:54 2016: 8 seconds
+gettext-0.19.4: Fri Aug 28 21:09:16 2015: 3 minutes, 18 seconds
+gettext-0.19.4: Sat Aug 29 00:08:51 2015: 2 minutes, 51 seconds
+gettext-0.19.4: Sat Aug 29 04:48:35 2015: 2 minutes, 48 seconds
+gettext-0.19.4: Sun Mar 13 03:12:50 2016: 3 minutes, 39 seconds
+gnuconfig-20150308: Fri Aug 28 20:15:32 2015: 3 minutes, 20 seconds
+gnuconfig-20150308: Fri Aug 28 23:15:00 2015: 3 minutes, 7 seconds
+gnuconfig-20150727: Thu Mar  3 18:46:20 2016: 6 seconds
+gnuconfig-20150727: Sun Mar  6 13:11:51 2016: 5 seconds
+gnuconfig-20150727: Sun Mar 13 00:59:08 2016: 7 seconds
+gnuconfig-20151214: Wed Apr 20 08:12:37 2016: 9 seconds
+libtool-2.4.6: Fri Aug 28 21:24:15 2015: 28 seconds
+libtool-2.4.6: Sat Aug 29 00:23:31 2015: 28 seconds
+libtool-2.4.6: Sun Mar 13 01:28:09 2016: 36 seconds
+llvm-3.5.0: Fri Aug 28 17:52:24 2015: 31 minutes, 55 seconds
+llvm-3.5.0: Sat Aug 29 02:43:35 2015: 32 minutes, 3 seconds
+llvm-3.5.0: Thu Mar  3 21:08:36 2016: 13 minutes, 25 seconds
+llvm-3.5.0: Mon Mar  7 00:30:40 2016: 33 minutes, 51 seconds
+llvm-3.5.0: Mon Mar  7 02:00:55 2016: 17 minutes, 24 seconds
+llvm-3.5.0: Mon Mar  7 13:00:16 2016: 44 minutes, 21 seconds
+llvm-3.5.0: Mon Mar  7 16:36:18 2016: 17 minutes, 5 seconds
+llvm-3.5.0: Mon Mar  7 18:08:54 2016: 31 minutes, 46 seconds
+llvm-3.5.0: Mon Mar  7 21:35:48 2016: 17 minutes, 54 seconds
+llvm-3.5.0: Sun Mar 13 08:41:53 2016: 16 minutes, 34 seconds
+m4-1.4.16: Fri Aug 28 20:19:41 2015: 42 seconds
+m4-1.4.16: Fri Aug 28 23:19:04 2015: 43 seconds
+m4-1.4.16: Sun Mar 13 01:08:37 2016: 38 seconds
+make-4.1-r1: Fri Aug 28 20:58:36 2015: 15 seconds
+make-4.1-r1: Fri Aug 28 23:59:22 2015: 16 seconds
+make-4.1-r1: Sun Mar  6 13:28:56 2016: 20 seconds
+make-4.1-r1: Sun Mar 13 03:17:14 2016: 19 seconds
+patch-2.7.5: Fri Aug 28 20:16:22 2015: 3 minutes, 14 seconds
+patch-2.7.5: Fri Aug 28 23:15:55 2015: 3 minutes, 4 seconds
+patch-2.7.5: Thu Mar  3 18:50:55 2016: 37 seconds
+patch-2.7.5: Sun Mar  6 13:13:03 2016: 43 seconds
+patch-2.7.5: Sun Mar 13 03:32:47 2016: 43 seconds
+ucpp-1.3.4: Thu May  5 15:46:38 2016: 13 seconds
+cryptsetup-1.6.5: Fri Aug 28 19:01:06 2015: 30 seconds
+cryptsetup-1.6.5: Fri Aug 28 21:46:43 2015: 38 seconds
+cryptsetup-1.6.5: Sat Aug 29 00:47:20 2015: 37 seconds
+cryptsetup-1.6.5: Sun Sep  6 05:45:05 2015: 20 seconds
+cryptsetup-1.6.5: Sun Mar 13 05:15:40 2016: 23 seconds
+dosfstools-3.0.28: Sun Aug 30 04:40:48 2015: 13 seconds
+dosfstools-3.0.28: Sun Mar 13 01:06:23 2016: 8 seconds
+e2fsprogs-1.42.13: Fri Aug 28 21:17:27 2015: 39 seconds
+e2fsprogs-1.42.13: Sat Aug 29 00:16:32 2015: 38 seconds
+e2fsprogs-1.42.13: Sun Mar  6 14:15:31 2016: 49 seconds
+e2fsprogs-1.42.13: Sun Mar 13 05:11:51 2016: 1 minute, 2 seconds
+eudev-3.1.2: Tue Sep  1 04:57:12 2015: 1 minute, 0 seconds
+eudev-3.1.2: Sun Sep  6 17:55:37 2015: 41 seconds
+eudev-3.1.2: Sun Sep  6 18:23:17 2015: 41 seconds
+eudev-3.1.5: Thu Mar  3 23:25:28 2016: 43 seconds
+eudev-3.1.5: Mon Mar  7 01:07:13 2016: 1 minute, 6 seconds
+eudev-3.1.5: Mon Mar  7 02:28:07 2016: 48 seconds
+eudev-3.1.5: Mon Mar  7 13:47:26 2016: 1 minute, 14 seconds
+eudev-3.1.5: Mon Mar  7 17:01:51 2016: 48 seconds
+eudev-3.1.5: Mon Mar  7 18:41:50 2016: 1 minute, 4 seconds
+eudev-3.1.5: Sun Mar 13 05:12:53 2016: 54 seconds
+fuse-2.9.4: Fri Aug 28 20:22:56 2015: 19 seconds
+fuse-2.9.4: Fri Aug 28 23:22:28 2015: 18 seconds
+fuse-2.9.4: Sun Mar 13 01:20:45 2016: 17 seconds
+lvm2-2.02.109: Fri Aug 28 18:58:23 2015: 1 minute, 23 seconds
+lvm2-2.02.109: Fri Aug 28 21:45:46 2015: 55 seconds
+lvm2-2.02.109: Sat Aug 29 00:46:23 2015: 56 seconds
+lvm2-2.02.116: Thu Mar  3 21:28:21 2016: 48 seconds
+lvm2-2.02.116-r4: Sun Mar  6 02:16:40 2016: 56 seconds
+lvm2-2.02.116-r4: Sun Mar 13 05:13:47 2016: 56 seconds
+ntfs3g-2014.2.15-r1: Sun Aug 30 04:40:48 2015: 1 minute, 5 seconds
+ntfs3g-2014.2.15-r1: Thu Mar  3 21:03:37 2016: 41 seconds
+ntfs3g-2014.2.15-r1: Sun Mar 13 03:43:20 2016: 47 seconds
+udev-init-scripts-27: Fri Aug 28 20:28:31 2015: 7 seconds
+udev-init-scripts-27: Fri Aug 28 23:28:12 2015: 6 seconds
+udev-init-scripts-27: Sun Mar 13 01:14:55 2016: 7 seconds
+genkernel-3.4.49.2: Fri Aug 28 19:02:38 2015: 1 minute, 26 seconds
+genkernel-3.4.49.2: Fri Aug 28 22:31:01 2015: 17 seconds
+genkernel-3.4.49.2: Sat Aug 29 01:33:07 2015: 25 seconds
+genkernel-3.4.52.3: Thu Mar  3 21:40:50 2016: 12 seconds
+genkernel-3.4.52.3: Sun Mar 13 05:26:32 2016: 14 seconds
+gentoo-sources-4.0.5: Fri Aug 28 18:59:51 2015: 5 minutes, 48 seconds
+gentoo-sources-4.0.5: Fri Aug 28 22:31:02 2015: 1 minute, 21 seconds
+gentoo-sources-4.0.5: Sat Aug 29 01:33:12 2015: 1 minute, 24 seconds
+gentoo-sources-4.1.15-r1: Thu Mar  3 19:46:55 2016: 2 minutes, 40 seconds
+gentoo-sources-4.4.3: Sat Mar  5 15:07:05 2016: 6 minutes, 21 seconds
+gentoo-sources-4.1.15-r1: Sat Mar  5 15:36:15 2016: 1 minute, 26 seconds
+gentoo-sources-4.4.3: Sun Mar  6 03:21:44 2016: 2 minutes, 33 seconds
+gentoo-sources-4.4.3: Sun Mar  6 11:27:56 2016: 2 minutes, 35 seconds
+gentoo-sources-4.4.4: Sun Mar  6 15:53:19 2016: 8 minutes, 25 seconds
+gentoo-sources-4.1.15-r1: Sun Mar 13 04:07:25 2016: 2 minutes, 48 seconds
+gentoo-sources-4.4.4: Sun Mar 13 04:10:13 2016: 2 minutes, 57 seconds
+gentoo-sources-4.4.5: Sun Mar 13 11:32:12 2016: 2 minutes, 38 seconds
+gentoo-sources-4.5.0: Wed Mar 16 11:04:25 2016: 7 minutes, 4 seconds
+gentoo-sources-4.5.0: Thu Mar 31 06:53:44 2016: 2 minutes, 43 seconds
+gentoo-sources-4.4.7: Wed Apr 13 04:19:26 2016: 2 minutes, 43 seconds
+gentoo-sources-4.0.5: Fri Aug 28 18:59:51 2015: 5 minutes, 48 seconds
+gentoo-sources-4.0.5: Fri Aug 28 22:31:02 2015: 1 minute, 21 seconds
+gentoo-sources-4.0.5: Sat Aug 29 01:33:12 2015: 1 minute, 24 seconds
+gentoo-sources-4.1.15-r1: Thu Mar  3 19:46:55 2016: 2 minutes, 40 seconds
+gentoo-sources-4.4.3: Sat Mar  5 15:07:05 2016: 6 minutes, 21 seconds
+gentoo-sources-4.1.15-r1: Sat Mar  5 15:36:15 2016: 1 minute, 26 seconds
+gentoo-sources-4.4.3: Sun Mar  6 03:21:44 2016: 2 minutes, 33 seconds
+gentoo-sources-4.4.3: Sun Mar  6 11:27:56 2016: 2 minutes, 35 seconds
+gentoo-sources-4.4.4: Sun Mar  6 15:53:19 2016: 8 minutes, 25 seconds
+gentoo-sources-4.1.15-r1: Sun Mar 13 04:07:25 2016: 2 minutes, 48 seconds
+gentoo-sources-4.4.4: Sun Mar 13 04:10:13 2016: 2 minutes, 57 seconds
+gentoo-sources-4.4.5: Sun Mar 13 11:32:12 2016: 2 minutes, 38 seconds
+gentoo-sources-4.5.0: Wed Mar 16 11:04:25 2016: 7 minutes, 4 seconds
+gentoo-sources-4.5.0: Thu Mar 31 06:53:44 2016: 2 minutes, 43 seconds
+gentoo-sources-4.4.7: Wed Apr 13 04:19:26 2016: 2 minutes, 43 seconds
+linux-firmware-20150206: Fri Aug 28 20:17:20 2015: 1 minute, 12 seconds
+linux-firmware-20150206: Fri Aug 28 23:16:47 2015: 21 seconds
+linux-firmware-20151207: Thu Mar  3 18:47:55 2016: 51 seconds
+linux-firmware-20151207: Sun Mar 13 01:06:31 2016: 51 seconds
+linux-headers-3.18: Fri Aug 28 20:38:59 2015: 16 seconds
+linux-headers-3.18: Fri Aug 28 23:38:52 2015: 20 seconds
+linux-headers-4.3: Thu Mar  3 18:31:28 2016: 49 seconds
+linux-headers-4.3: Sun Mar 13 02:31:05 2016: 26 seconds
+cracklib-2.9.1-r1: Fri Aug 28 17:20:26 2015: 12 seconds
+cracklib-2.9.1-r1: Fri Aug 28 20:24:25 2015: 12 seconds
+cracklib-2.9.1-r1: Fri Aug 28 23:23:58 2015: 13 seconds
+cracklib-2.9.1-r1: Sun Mar 13 03:06:37 2016: 16 seconds
+db-4.8.30-r2: Fri Aug 28 21:25:47 2015: 1 minute, 23 seconds
+db-4.8.30-r2: Sat Aug 29 00:25:12 2015: 1 minute, 25 seconds
+db-4.8.30-r2: Sun Mar 13 04:03:58 2016: 2 minutes, 4 seconds
+e2fsprogs-libs-1.42.13: Fri Aug 28 21:16:47 2015: 36 seconds
+e2fsprogs-libs-1.42.13: Sat Aug 29 00:15:53 2015: 35 seconds
+e2fsprogs-libs-1.42.13: Sun Mar 13 03:21:53 2016: 29 seconds
+gdbm-1.11: Fri Aug 28 20:15:36 2015: 3 minutes, 26 seconds
+gdbm-1.11: Fri Aug 28 23:15:05 2015: 3 minutes, 14 seconds
+gdbm-1.11: Sun Mar 13 00:59:15 2016: 19 seconds
+glibc-2.20-r2: Fri Aug 28 22:55:13 2015: 11 minutes, 50 seconds
+glibc-2.20-r2: Sat Aug 29 01:59:53 2015: 11 minutes, 40 seconds
+glibc-2.21-r2: Thu Mar  3 18:32:17 2016: 13 minutes, 2 seconds
+glibc-2.21-r2: Sun Mar 13 07:35:26 2016: 13 minutes, 23 seconds
+glibc-2.22-r4: Fri Apr  8 17:43:17 2016: 14 minutes, 33 seconds
+gpm-1.20.7-r2: Fri Aug 28 17:49:03 2015: 20 seconds
+gpm-1.20.7-r2: Fri Aug 28 21:28:44 2015: 21 seconds
+gpm-1.20.7-r2: Sat Aug 29 00:28:10 2015: 22 seconds
+gpm-1.20.7-r2: Sun Mar 13 04:01:03 2016: 28 seconds
+libcap-2.22-r2: Fri Aug 28 21:45:46 2015: 12 seconds
+libcap-2.22-r2: Sat Aug 29 00:46:23 2015: 14 seconds
+libcap-2.24-r2: Sun Sep  6 05:40:15 2015: 16 seconds
+libcap-2.24-r2: Sun Mar 13 03:38:45 2016: 9 seconds
+libcap-ng-0.7.7: Fri Aug 28 22:11:33 2015: 28 seconds
+libcap-ng-0.7.7: Sat Aug 29 01:15:35 2015: 33 seconds
+libcap-ng-0.7.7: Sun Mar 13 02:50:06 2016: 30 seconds
+libutempter-1.1.6-r1: Fri Aug 28 20:17:10 2015: 12 seconds
+libutempter-1.1.6-r1: Fri Aug 28 23:16:38 2015: 13 seconds
+libutempter-1.1.6-r1: Sun Mar 13 01:05:07 2016: 7 seconds
+mtdev-1.1.5: Fri Aug 28 20:40:27 2015: 10 seconds
+mtdev-1.1.5: Fri Aug 28 23:40:35 2015: 13 seconds
+mtdev-1.1.5: Sun Mar 13 02:36:16 2016: 13 seconds
+ncurses-5.9-r5: Fri Aug 28 17:49:23 2015: 1 minute, 35 seconds
+ncurses-5.9-r99: Fri Aug 28 17:50:58 2015: 3 seconds
+ncurses-5.9-r99: Fri Aug 28 20:27:34 2015: 14 seconds
+ncurses-5.9-r99: Fri Aug 28 23:27:13 2015: 15 seconds
+ncurses-5.9-r5: Sat Aug 29 04:23:09 2015: 1 minute, 37 seconds
+ncurses-5.9-r99: Sat Aug 29 04:24:46 2015: 9 seconds
+ncurses-5.9-r5: Sun Sep  6 06:51:41 2015: 3 minutes, 25 seconds
+ncurses-5.9-r99: Sun Sep  6 06:56:30 2015: 6 seconds
+ncurses-5.9-r5: Sun Sep  6 07:04:01 2015: 1 minute, 43 seconds
+ncurses-5.9-r99: Sun Sep  6 07:06:21 2015: 6 seconds
+ncurses-5.9-r5: Mon Mar  7 00:09:51 2016: 3 minutes, 59 seconds
+ncurses-5.9-r99: Mon Mar  7 00:14:11 2016: 6 seconds
+ncurses-5.9-r5: Mon Mar  7 01:47:35 2016: 2 minutes, 11 seconds
+ncurses-5.9-r99: Mon Mar  7 01:50:02 2016: 9 seconds
+ncurses-5.9-r5: Mon Mar  7 12:39:13 2016: 3 minutes, 48 seconds
+ncurses-5.9-r99: Mon Mar  7 12:43:23 2016: 9 seconds
+ncurses-5.9-r5: Mon Mar  7 16:22:58 2016: 2 minutes, 9 seconds
+ncurses-5.9-r99: Mon Mar  7 16:25:39 2016: 7 seconds
+ncurses-5.9-r5: Mon Mar  7 17:48:41 2016: 3 minutes, 57 seconds
+ncurses-5.9-r99: Mon Mar  7 17:53:18 2016: 8 seconds
+ncurses-5.9-r5: Mon Mar  7 21:22:23 2016: 2 minutes, 7 seconds
+ncurses-5.9-r99: Mon Mar  7 21:25:00 2016: 8 seconds
+ncurses-5.9-r5: Sun Mar 13 00:55:59 2016: 2 minutes, 4 seconds
+ncurses-5.9-r99: Sun Mar 13 01:08:29 2016: 8 seconds
+ncurses-5.9-r5: Fri Aug 28 17:49:23 2015: 1 minute, 35 seconds
+ncurses-5.9-r99: Fri Aug 28 17:50:58 2015: 3 seconds
+ncurses-5.9-r99: Fri Aug 28 20:27:34 2015: 14 seconds
+ncurses-5.9-r99: Fri Aug 28 23:27:13 2015: 15 seconds
+ncurses-5.9-r5: Sat Aug 29 04:23:09 2015: 1 minute, 37 seconds
+ncurses-5.9-r99: Sat Aug 29 04:24:46 2015: 9 seconds
+ncurses-5.9-r5: Sun Sep  6 06:51:41 2015: 3 minutes, 25 seconds
+ncurses-5.9-r99: Sun Sep  6 06:56:30 2015: 6 seconds
+ncurses-5.9-r5: Sun Sep  6 07:04:01 2015: 1 minute, 43 seconds
+ncurses-5.9-r99: Sun Sep  6 07:06:21 2015: 6 seconds
+ncurses-5.9-r5: Mon Mar  7 00:09:51 2016: 3 minutes, 59 seconds
+ncurses-5.9-r99: Mon Mar  7 00:14:11 2016: 6 seconds
+ncurses-5.9-r5: Mon Mar  7 01:47:35 2016: 2 minutes, 11 seconds
+ncurses-5.9-r99: Mon Mar  7 01:50:02 2016: 9 seconds
+ncurses-5.9-r5: Mon Mar  7 12:39:13 2016: 3 minutes, 48 seconds
+ncurses-5.9-r99: Mon Mar  7 12:43:23 2016: 9 seconds
+ncurses-5.9-r5: Mon Mar  7 16:22:58 2016: 2 minutes, 9 seconds
+ncurses-5.9-r99: Mon Mar  7 16:25:39 2016: 7 seconds
+ncurses-5.9-r5: Mon Mar  7 17:48:41 2016: 3 minutes, 57 seconds
+ncurses-5.9-r99: Mon Mar  7 17:53:18 2016: 8 seconds
+ncurses-5.9-r5: Mon Mar  7 21:22:23 2016: 2 minutes, 7 seconds
+ncurses-5.9-r99: Mon Mar  7 21:25:00 2016: 8 seconds
+ncurses-5.9-r5: Sun Mar 13 00:55:59 2016: 2 minutes, 4 seconds
+ncurses-5.9-r99: Sun Mar 13 01:08:29 2016: 8 seconds
+pam-1.2.1: Fri Aug 28 17:32:16 2015: 44 seconds
+pam-1.2.1: Fri Aug 28 22:18:20 2015: 2 minutes, 17 seconds
+pam-1.2.1: Sat Aug 29 01:21:39 2015: 1 minute, 10 seconds
+pam-1.2.1: Sun Mar 13 05:07:50 2016: 1 minute, 7 seconds
+readline-6.3_p8-r2: Fri Aug 28 20:27:53 2015: 15 seconds
+readline-6.3_p8-r2: Fri Aug 28 23:27:32 2015: 15 seconds
+readline-6.3_p8-r2: Sun Mar 13 01:18:49 2016: 25 seconds
+timezone-data-2015e: Fri Aug 28 20:16:28 2015: 3 minutes, 1 second
+timezone-data-2015e: Fri Aug 28 23:15:56 2015: 2 minutes, 56 seconds
+timezone-data-2015g: Thu Mar  3 18:46:26 2016: 8 seconds
+timezone-data-2015g: Sun Mar 13 01:02:12 2016: 9 seconds
+timezone-data-2016a: Fri Apr  8 17:57:50 2016: 47 seconds
+zlib-1.2.8-r1: Fri Aug 28 20:15:11 2015: 3 minutes, 29 seconds
+zlib-1.2.8-r1: Fri Aug 28 23:14:40 2015: 3 minutes, 13 seconds
+zlib-1.2.8-r1: Sun Aug 30 04:30:18 2015: 30 seconds
+zlib-1.2.8-r1: Sun Sep  6 06:56:42 2015: 28 seconds
+zlib-1.2.8-r1: Sun Sep  6 07:06:33 2015: 19 seconds
+zlib-1.2.8-r1: Mon Mar  7 00:14:48 2016: 31 seconds
+zlib-1.2.8-r1: Mon Mar  7 01:50:37 2016: 22 seconds
+zlib-1.2.8-r1: Mon Mar  7 12:44:02 2016: 32 seconds
+zlib-1.2.8-r1: Mon Mar  7 16:25:59 2016: 22 seconds
+zlib-1.2.8-r1: Mon Mar  7 17:53:33 2016: 31 seconds
+zlib-1.2.8-r1: Mon Mar  7 21:25:21 2016: 23 seconds
+zlib-1.2.8-r1: Sun Mar 13 01:29:22 2016: 22 seconds
+procps-3.3.9-r2: Fri Aug 28 20:28:08 2015: 23 seconds
+procps-3.3.9-r2: Fri Aug 28 23:27:47 2015: 25 seconds
+procps-3.3.10-r1: Thu Mar  3 20:56:22 2016: 25 seconds
+procps-3.3.10-r1: Sun Mar  6 13:18:00 2016: 27 seconds
+procps-3.3.10-r1: Sun Mar 13 01:20:18 2016: 27 seconds
+psmisc-22.21-r2: Fri Aug 28 17:51:56 2015: 12 seconds
+psmisc-22.21-r2: Fri Aug 28 21:34:49 2015: 15 seconds
+psmisc-22.21-r2: Sat Aug 29 00:34:32 2015: 16 seconds
+psmisc-22.21-r2: Sun Mar  6 13:24:43 2016: 27 seconds
+psmisc-22.21-r2: Sun Mar 13 03:21:20 2016: 16 seconds
+acl-0-r1: Fri Aug 28 20:30:13 2015: 22 seconds
+acl-0-r1: Fri Aug 28 23:29:56 2015: 21 seconds
+acl-0-r1: Sun Mar 13 01:15:24 2016: 7 seconds
+acl-0-r2: Wed Mar 30 21:42:10 2016: 7 seconds
+awk-1: Fri Aug 28 20:33:07 2015: 8 seconds
+awk-1: Fri Aug 28 23:32:55 2015: 6 seconds
+awk-1: Sun Mar 13 01:24:14 2016: 5 seconds
+dev-manager-0: Fri Aug 28 20:28:38 2015: 31 seconds
+dev-manager-0: Fri Aug 28 23:28:18 2015: 32 seconds
+dev-manager-0: Sun Mar  6 14:16:20 2016: 8 seconds
+dev-manager-0: Sun Mar 13 01:15:02 2016: 6 seconds
+editor-0: Fri Aug 28 20:32:39 2015: 21 seconds
+editor-0: Fri Aug 28 23:32:23 2015: 25 seconds
+editor-0: Sun Mar  6 14:13:59 2016: 5 seconds
+editor-0: Sun Mar 13 01:17:41 2016: 7 seconds
+eject-0: Fri Aug 28 20:34:03 2015: 3 seconds
+eject-0: Fri Aug 28 23:33:57 2015: 6 seconds
+eject-0: Sun Mar 13 05:14:54 2016: 7 seconds
+ffmpeg-9-r2: Thu May  5 13:22:48 2016: 13 seconds
+freedesktop-icon-theme-0: Sat Aug 29 16:34:57 2015: 8 seconds
+freedesktop-icon-theme-0: Sun Mar 13 01:27:15 2016: 6 seconds
+glu-9.0-r1: Fri Aug 28 20:33:35 2015: 14 seconds
+glu-9.0-r1: Fri Aug 28 23:33:24 2015: 19 seconds
+glu-9.0-r1: Sun Mar 13 01:23:30 2016: 7 seconds
+jpeg-0-r2: Fri Aug 28 17:01:49 2015: 3 seconds
+jpeg-62: Fri Aug 28 22:31:08 2015: 20 seconds
+jpeg-62: Sat Aug 29 01:33:21 2015: 23 seconds
+jpeg-0-r2: Sun Mar 13 01:13:36 2016: 6 seconds
+jpeg-62: Sun Mar 13 02:36:59 2016: 7 seconds
+jpeg-0-r2: Fri Aug 28 17:01:49 2015: 3 seconds
+jpeg-62: Fri Aug 28 22:31:08 2015: 20 seconds
+jpeg-62: Sat Aug 29 01:33:21 2015: 23 seconds
+jpeg-0-r2: Sun Mar 13 01:13:36 2016: 6 seconds
+jpeg-62: Sun Mar 13 02:36:59 2016: 7 seconds
+libc-0: Sat Aug 29 03:22:01 2015: 48 minutes, 20 seconds
+libc-0: Sun Mar  6 13:15:32 2016: 13 seconds
+libc-0: Sun Mar 13 07:35:20 2016: 6 seconds
+libffi-3.0.13-r1: Fri Aug 28 20:19:36 2015: 1 minute, 38 seconds
+libffi-3.0.13-r1: Fri Aug 28 23:18:59 2015: 1 minute, 41 seconds
+libffi-3.0.13-r1: Sun Sep  6 06:56:36 2015: 6 seconds
+libffi-3.0.13-r1: Sun Sep  6 07:06:27 2015: 6 seconds
+libffi-3.0.13-r1: Mon Mar  7 00:14:17 2016: 6 seconds
+libffi-3.0.13-r1: Mon Mar  7 01:50:11 2016: 7 seconds
+libffi-3.0.13-r1: Mon Mar  7 12:43:32 2016: 6 seconds
+libffi-3.0.13-r1: Mon Mar  7 16:25:46 2016: 7 seconds
+libffi-3.0.13-r1: Mon Mar  7 17:53:26 2016: 7 seconds
+libffi-3.0.13-r1: Mon Mar  7 21:25:08 2016: 7 seconds
+libffi-3.0.13-r1: Sun Mar 13 01:09:15 2016: 11 seconds
+libgudev-215-r3: Fri Aug 28 17:42:23 2015: 3 seconds
+libgudev-215-r3: Fri Aug 28 20:30:51 2015: 11 seconds
+libgudev-215-r3: Fri Aug 28 23:30:34 2015: 13 seconds
+libgudev-215-r3: Sun Sep  6 17:57:26 2015: 3 seconds
+libgudev-215-r3: Sun Sep  6 18:20:27 2015: 4 seconds
+libgudev-230: Thu Mar  3 23:22:33 2016: 7 seconds
+libgudev-230: Sun Mar 13 01:24:26 2016: 7 seconds
+libiconv-0-r2: Fri Aug 28 20:15:30 2015: 3 minutes, 19 seconds
+libiconv-0-r2: Fri Aug 28 23:14:57 2015: 3 minutes, 7 seconds
+libiconv-0-r2: Sun Sep  6 06:55:07 2015: 15 seconds
+libiconv-0-r2: Sun Sep  6 07:03:55 2015: 6 seconds
+libiconv-0-r2: Sun Mar 13 00:59:02 2016: 6 seconds
+libintl-0-r1: Fri Aug 28 20:15:11 2015: 3 minutes, 26 seconds
+libintl-0-r1: Fri Aug 28 23:14:40 2015: 3 minutes, 10 seconds
+libintl-0-r2: Thu Mar  3 18:46:08 2016: 5 seconds
+libintl-0-r2: Sun Mar 13 00:55:53 2016: 6 seconds
+libudev-215-r1: Fri Aug 28 17:12:41 2015: 3 seconds
+libudev-215-r1: Fri Aug 28 20:29:46 2015: 6 seconds
+libudev-215-r1: Fri Aug 28 23:29:28 2015: 6 seconds
+libudev-215-r1: Sun Sep  6 17:57:18 2015: 4 seconds
+libudev-215-r1: Sun Sep  6 18:20:07 2015: 4 seconds
+libudev-215-r1: Mon Mar  7 01:08:19 2016: 7 seconds
+libudev-215-r1: Mon Mar  7 01:50:18 2016: 6 seconds
+libudev-215-r1: Mon Mar  7 13:48:40 2016: 8 seconds
+libudev-215-r1: Mon Mar  7 16:25:53 2016: 6 seconds
+libudev-215-r1: Mon Mar  7 18:42:54 2016: 8 seconds
+libudev-215-r1: Mon Mar  7 21:25:15 2016: 6 seconds
+libudev-215-r1: Sun Mar 13 01:14:21 2016: 8 seconds
+libusb-1-r2: Thu Mar  3 20:48:17 2016: 5 seconds
+libusb-1-r2: Sun Mar 13 01:14:43 2016: 6 seconds
+logger-0: Fri Aug 28 19:02:35 2015: 5 seconds
+logger-0: Fri Aug 28 20:33:09 2015: 16 seconds
+logger-0: Fri Aug 28 23:32:58 2015: 13 seconds
+logger-0: Sun Mar 13 01:24:39 2016: 5 seconds
+man-0-r1: Fri Aug 28 20:31:29 2015: 5 seconds
+man-0-r1: Fri Aug 28 23:31:14 2015: 5 seconds
+man-0-r1: Sun Mar  6 14:14:09 2016: 5 seconds
+man-0-r1: Sun Mar 13 01:16:12 2016: 8 seconds
+modutils-0: Fri Aug 28 20:27:13 2015: 16 seconds
+modutils-0: Fri Aug 28 23:26:47 2015: 20 seconds
+modutils-0: Sun Mar  6 13:17:21 2016: 8 seconds
+modutils-0: Sun Mar 13 03:12:23 2016: 8 seconds
+mta-1: Fri Aug 28 19:05:41 2015: 5 seconds
+mta-1: Fri Aug 28 20:34:03 2015: 6 seconds
+mta-1: Fri Aug 28 23:33:57 2015: 9 seconds
+mta-1: Sun Mar 13 01:26:15 2016: 6 seconds
+notification-daemon-0: Fri Aug 28 22:47:16 2015: 8 seconds
+notification-daemon-0: Fri Aug 28 23:33:57 2015: 12 seconds
+notification-daemon-0: Sun Mar 13 01:26:33 2016: 6 seconds
+opengl-7.0-r1: Fri Aug 28 20:33:00 2015: 4 seconds
+opengl-7.0-r1: Fri Aug 28 23:32:48 2015: 4 seconds
+opengl-7.0-r1: Sun Mar 13 01:22:55 2016: 12 seconds
+os-headers-0: Fri Aug 28 20:30:03 2015: 5 seconds
+os-headers-0: Fri Aug 28 23:29:46 2015: 5 seconds
+os-headers-0: Sun Mar  6 13:12:47 2016: 6 seconds
+os-headers-0: Sun Mar 13 01:15:08 2016: 6 seconds
+package-manager-0: Fri Aug 28 22:24:55 2015: 10 minutes, 54 seconds
+package-manager-0: Sat Aug 29 01:26:33 2015: 11 minutes, 53 seconds
+package-manager-0: Sun Mar  6 14:13:28 2016: 8 seconds
+package-manager-0: Sun Mar 13 04:56:22 2016: 12 seconds
+pager-0: Fri Aug 28 20:56:54 2015: 11 seconds
+pager-0: Fri Aug 28 23:57:41 2015: 13 seconds
+pager-0: Sun Mar  6 13:16:53 2016: 6 seconds
+pager-0: Sun Mar 13 01:58:01 2016: 9 seconds
+pam-0-r1: Fri Aug 28 20:27:29 2015: 4 seconds
+pam-0-r1: Fri Aug 28 23:27:08 2015: 5 seconds
+pam-0-r1: Sun Mar 13 01:13:42 2016: 7 seconds
+perl-Archive-Tar-1.960.0: Fri Aug 28 20:34:03 2015: 9 seconds
+perl-Archive-Tar-1.960.0: Fri Aug 28 23:33:59 2015: 13 seconds
+perl-Archive-Tar-1.960.0: Sun Mar 13 01:26:27 2016: 6 seconds
+perl-CPAN-Meta-2.140.640: Fri Aug 28 20:34:05 2015: 10 seconds
+perl-CPAN-Meta-2.140.640: Fri Aug 28 23:34:00 2015: 15 seconds
+perl-CPAN-Meta-2.140.640: Sun Mar 13 01:26:45 2016: 6 seconds
+perl-CPAN-Meta-2.150.1: Wed Mar 16 08:25:43 2016: 7 seconds
+perl-CPAN-Meta-Requirements-2.125.0-r1: Wed Mar 16 08:24:43 2016: 4 seconds
+perl-CPAN-Meta-YAML-0.12.0-r1: Fri Aug 28 20:33:18 2015: 10 seconds
+perl-CPAN-Meta-YAML-0.12.0-r1: Fri Aug 28 23:33:01 2015: 14 seconds
+perl-CPAN-Meta-YAML-0.12.0-r1: Sun Mar 13 01:24:52 2016: 6 seconds
+perl-Carp-1.330.100: Wed Mar 16 08:24:37 2016: 6 seconds
+perl-Compress-Raw-Zlib-2.65.0: Thu May  5 15:51:19 2016: 5 seconds
+perl-Data-Dumper-2.154.0: Fri Aug 28 20:31:29 2015: 7 seconds
+perl-Data-Dumper-2.154.0: Fri Aug 28 23:31:14 2015: 8 seconds
+perl-Data-Dumper-2.154.0: Sun Mar 13 01:17:22 2016: 6 seconds
+perl-Digest-MD5-2.530.0-r2: Sat Aug 29 04:25:07 2015: 4 seconds
+perl-Digest-MD5-2.530.0-r2: Sun Mar 13 01:18:35 2016: 7 seconds
+perl-Digest-SHA-5.880.0: Sat Aug 29 04:25:03 2015: 4 seconds
+perl-Digest-SHA-5.880.0: Sun Mar 13 01:18:29 2016: 6 seconds
+perl-ExtUtils-CBuilder-0.280.217-r2: Fri Aug 28 20:34:05 2015: 13 seconds
+perl-ExtUtils-CBuilder-0.280.217-r2: Fri Aug 28 23:34:00 2015: 18 seconds
+perl-ExtUtils-CBuilder-0.280.217-r2: Sun Mar 13 01:25:44 2016: 7 seconds
+perl-ExtUtils-Install-1.670.0: Fri Aug 28 20:34:05 2015: 16 seconds
+perl-ExtUtils-Install-1.670.0: Fri Aug 28 23:34:05 2015: 16 seconds
+perl-ExtUtils-Install-1.670.0: Sun Mar 13 01:26:39 2016: 6 seconds
+perl-ExtUtils-MakeMaker-6.980.0: Fri Aug 28 20:34:08 2015: 15 seconds
+perl-ExtUtils-MakeMaker-6.980.0: Fri Aug 28 23:34:08 2015: 16 seconds
+perl-ExtUtils-MakeMaker-6.980.0: Sun Mar 13 01:24:19 2016: 7 seconds
+perl-ExtUtils-Manifest-1.630.0-r2: Fri Aug 28 20:34:23 2015: 8 seconds
+perl-ExtUtils-Manifest-1.630.0-r2: Fri Aug 28 23:34:24 2015: 7 seconds
+perl-ExtUtils-Manifest-1.630.0-r2: Sun Mar 13 01:27:02 2016: 7 seconds
+perl-ExtUtils-ParseXS-3.240.0: Fri Aug 28 20:34:23 2015: 4 seconds
+perl-ExtUtils-ParseXS-3.240.0: Fri Aug 28 23:34:24 2015: 4 seconds
+perl-ExtUtils-ParseXS-3.240.0: Sun Mar 13 01:26:09 2016: 6 seconds
+perl-File-Spec-3.480.100-r1: Fri Aug 28 20:31:08 2015: 5 seconds
+perl-File-Spec-3.480.100-r1: Fri Aug 28 23:30:53 2015: 4 seconds
+perl-File-Spec-3.480.100-r1: Sun Mar 13 01:24:33 2016: 6 seconds
+perl-File-Temp-0.230.400-r3: Fri Aug 28 20:31:36 2015: 7 seconds
+perl-File-Temp-0.230.400-r3: Fri Aug 28 23:31:22 2015: 7 seconds
+perl-File-Temp-0.230.400-r3: Sun Mar 13 01:17:28 2016: 6 seconds
+perl-Getopt-Long-2.420.0-r1: Fri Aug 28 20:34:23 2015: 11 seconds
+perl-Getopt-Long-2.420.0-r1: Fri Aug 28 23:34:24 2015: 10 seconds
+perl-Getopt-Long-2.420.0-r1: Sun Mar 13 01:26:21 2016: 6 seconds
+perl-IO-1.310.0: Fri Mar 18 06:42:23 2016: 5 seconds
+perl-IO-1.310.0: Thu May  5 15:51:14 2016: 5 seconds
+perl-JSON-PP-2.272.30: Fri Aug 28 20:41:46 2015: 7 seconds
+perl-JSON-PP-2.272.30: Fri Aug 28 23:42:00 2015: 7 seconds
+perl-JSON-PP-2.272.30: Sun Mar 13 01:25:57 2016: 6 seconds
+perl-JSON-PP-2.273.0: Wed Mar 16 08:25:30 2016: 6 seconds
+perl-MIME-Base64-3.140.0-r1: Fri Aug 28 20:34:25 2015: 11 seconds
+perl-MIME-Base64-3.140.0-r1: Fri Aug 28 23:34:26 2015: 12 seconds
+perl-MIME-Base64-3.140.0-r1: Sun Mar 13 01:25:51 2016: 6 seconds
+perl-Module-Metadata-1.0.19: Fri Aug 28 20:34:25 2015: 14 seconds
+perl-Module-Metadata-1.0.19: Fri Aug 28 23:34:26 2015: 15 seconds
+perl-Module-Metadata-1.0.26: Thu Mar  3 19:00:25 2016: 5 seconds
+perl-Module-Metadata-1.0.26: Sun Mar 13 01:25:10 2016: 6 seconds
+perl-Parse-CPAN-Meta-1.441.400-r1: Fri Aug 28 20:33:18 2015: 13 seconds
+perl-Parse-CPAN-Meta-1.441.400-r1: Fri Aug 28 23:33:04 2015: 14 seconds
+perl-Parse-CPAN-Meta-1.441.400-r1: Sun Mar 13 01:24:58 2016: 6 seconds
+perl-Perl-OSType-1.7.0: Fri Aug 28 20:34:26 2015: 15 seconds
+perl-Perl-OSType-1.7.0: Fri Aug 28 23:34:26 2015: 18 seconds
+perl-Perl-OSType-1.7.0: Sun Mar 13 01:26:57 2016: 5 seconds
+perl-Scalar-List-Utils-1.380.0: Sat Aug 29 04:24:55 2015: 3 seconds
+perl-Scalar-List-Utils-1.380.0: Sun Mar 13 01:17:34 2016: 7 seconds
+perl-Storable-2.490.100-r1: Fri Aug 28 20:34:30 2015: 14 seconds
+perl-Storable-2.490.100-r1: Fri Aug 28 23:34:30 2015: 17 seconds
+perl-Storable-2.490.100-r1: Sun Mar 13 01:27:09 2016: 6 seconds
+perl-Test-Harness-3.330.0: Fri Aug 28 20:34:33 2015: 14 seconds
+perl-Test-Harness-3.330.0: Fri Aug 28 23:34:33 2015: 17 seconds
+perl-Test-Harness-3.330.0: Sun Mar 13 01:26:03 2016: 6 seconds
+perl-Test-Simple-1.1.2: Fri Aug 28 20:34:35 2015: 14 seconds
+perl-Test-Simple-1.1.2: Fri Aug 28 23:34:37 2015: 16 seconds
+perl-Test-Simple-1.1.2: Sun Mar 13 01:26:51 2016: 6 seconds
+perl-Test-Simple-1.1.14: Wed Mar 16 08:25:15 2016: 8 seconds
+perl-Text-ParseWords-3.290.0-r1: Fri Aug 28 20:34:38 2015: 15 seconds
+perl-Text-ParseWords-3.290.0-r1: Fri Aug 28 23:34:40 2015: 17 seconds
+perl-Text-ParseWords-3.290.0-r1: Sun Mar 13 01:25:16 2016: 6 seconds
+perl-libnet-1.270.0: Sat Aug 29 04:25:16 2015: 3 seconds
+perl-libnet-1.270.0: Sun Mar 13 01:18:22 2016: 7 seconds
+perl-version-0.990.900-r2: Fri Aug 28 20:34:40 2015: 16 seconds
+perl-version-0.990.900-r2: Fri Aug 28 23:34:43 2015: 17 seconds
+perl-version-0.990.900-r2: Sun Mar 13 01:25:04 2016: 6 seconds
+pkgconfig-0-r1: Fri Aug 28 20:22:16 2015: 7 seconds
+pkgconfig-0-r1: Fri Aug 28 23:21:45 2015: 9 seconds
+pkgconfig-0-r1: Sun Mar 13 01:18:42 2016: 6 seconds
+service-manager-0: Sat Aug 29 04:10:21 2015: 16 seconds
+service-manager-0: Sun Mar  6 14:13:53 2016: 6 seconds
+service-manager-0: Sun Mar 13 03:48:42 2016: 8 seconds
+shadow-0: Fri Aug 28 20:31:46 2015: 10 seconds
+shadow-0: Fri Aug 28 23:31:34 2015: 10 seconds
+shadow-0: Sun Mar  6 13:20:16 2016: 6 seconds
+shadow-0: Sun Mar 13 01:16:46 2016: 10 seconds
+ssh-0: Fri Aug 28 22:43:40 2015: 8 minutes, 16 seconds
+ssh-0: Sat Aug 29 01:45:55 2015: 8 minutes, 46 seconds
+ssh-0: Sun Mar  6 14:14:04 2016: 5 seconds
+ssh-0: Sun Mar 13 05:52:56 2016: 11 seconds
+ttf-fonts-1: Fri Aug 28 17:11:05 2015: 2 seconds
+ttf-fonts-1: Fri Aug 28 20:31:46 2015: 13 seconds
+ttf-fonts-1: Fri Aug 28 23:31:34 2015: 12 seconds
+ttf-fonts-1: Sun Mar 13 01:16:07 2016: 5 seconds
+udev-215: Fri Aug 28 20:28:08 2015: 21 seconds
+udev-215: Fri Aug 28 23:27:47 2015: 22 seconds
+udev-215: Sun Sep  6 17:57:22 2015: 4 seconds
+udev-215: Sun Sep  6 18:20:23 2015: 4 seconds
+udev-215: Sun Mar 13 00:29:05 2016: 5 seconds
+udev-215: Sun Mar 13 00:46:30 2016: 5 seconds
+udev-215: Sun Mar 13 01:14:49 2016: 6 seconds
+yacc-0: Fri Aug 28 21:19:51 2015: 8 seconds
+yacc-0: Sat Aug 29 00:18:53 2015: 12 seconds
+yacc-0: Sun Mar 13 03:48:59 2016: 5 seconds
+firefox-38.2.0: Sat Aug 29 16:43:47 2015: 35 minutes, 40 seconds
+firefox-38.2.0: Sun Aug 30 02:14:09 2015: 46 minutes, 56 seconds
+firefox-38.2.1: Thu Sep  3 12:27:36 2015: 41 minutes, 39 seconds
+links-2.8-r1: Fri Aug 28 22:11:59 2015: 52 seconds
+links-2.8-r1: Sat Aug 29 01:16:05 2015: 53 seconds
+links-2.8-r1: Sat Aug 29 04:25:45 2015: 44 seconds
+links-2.8-r1: Sun Aug 30 05:33:55 2015: 1 minute, 55 seconds
+links-2.8-r1: Sun Aug 30 06:04:36 2015: 1 minute, 14 seconds
+links-2.8-r1: Sun Mar 13 02:45:31 2016: 53 seconds
+appres-1.0.4: Fri Aug 28 22:12:08 2015: 13 seconds
+appres-1.0.4: Sat Aug 29 01:16:05 2015: 22 seconds
+appres-1.0.4: Sun Mar 13 05:25:32 2016: 16 seconds
+bdftopcf-1.0.5: Fri Aug 28 21:47:11 2015: 21 seconds
+bdftopcf-1.0.5: Sat Aug 29 00:48:09 2015: 29 seconds
+bdftopcf-1.0.5: Sun Mar 13 01:59:35 2016: 15 seconds
+bitmap-1.0.8: Fri Aug 28 22:12:17 2015: 22 seconds
+bitmap-1.0.8: Sat Aug 29 01:16:21 2015: 23 seconds
+bitmap-1.0.8: Sun Mar 13 05:38:21 2016: 15 seconds
+iceauth-1.0.7: Fri Aug 28 21:45:58 2015: 11 seconds
+iceauth-1.0.7: Sat Aug 29 00:46:37 2015: 15 seconds
+iceauth-1.0.7: Sun Mar 13 01:52:20 2016: 12 seconds
+luit-1.1.1: Fri Aug 28 21:45:58 2015: 21 seconds
+luit-1.1.1: Sat Aug 29 00:46:37 2015: 25 seconds
+luit-1.1.1: Sun Mar 13 02:18:19 2016: 18 seconds
+mesa-progs-8.2.0: Sat Aug 29 03:22:15 2015: 1 minute, 11 seconds
+mesa-progs-8.2.0: Sun Aug 30 00:45:37 2015: 17 seconds
+mesa-progs-8.2.0: Sun Mar 13 09:45:09 2016: 22 seconds
+mkfontdir-1.0.7: Fri Aug 28 17:10:46 2015: 8 seconds
+mkfontdir-1.0.7: Fri Aug 28 21:43:20 2015: 11 seconds
+mkfontdir-1.0.7: Sat Aug 29 00:43:43 2015: 10 seconds
+mkfontdir-1.0.7: Sun Mar 13 01:59:07 2016: 16 seconds
+mkfontscale-1.1.2: Fri Aug 28 17:10:37 2015: 9 seconds
+mkfontscale-1.1.2: Fri Aug 28 21:42:59 2015: 13 seconds
+mkfontscale-1.1.2: Sat Aug 29 00:43:24 2015: 10 seconds
+mkfontscale-1.1.2: Sun Mar 13 01:58:10 2016: 15 seconds
+rgb-1.0.6: Fri Aug 28 22:12:27 2015: 21 seconds
+rgb-1.0.6: Sat Aug 29 01:16:25 2015: 28 seconds
+rgb-1.0.6: Sun Mar 13 01:49:40 2016: 14 seconds
+sessreg-1.1.0: Fri Aug 28 22:12:45 2015: 14 seconds
+sessreg-1.1.0: Sat Aug 29 01:16:49 2015: 19 seconds
+sessreg-1.1.0: Sun Mar 13 01:50:07 2016: 15 seconds
+setxkbmap-1.3.0: Fri Aug 28 22:12:46 2015: 16 seconds
+setxkbmap-1.3.0: Sat Aug 29 01:16:51 2015: 20 seconds
+setxkbmap-1.3.1: Thu Mar  3 22:00:32 2016: 12 seconds
+setxkbmap-1.3.1: Sun Mar 13 02:27:33 2016: 12 seconds
+smproxy-1.0.5: Fri Aug 28 22:12:56 2015: 12 seconds
+smproxy-1.0.5: Sat Aug 29 01:17:02 2015: 16 seconds
+smproxy-1.0.6: Thu Mar  3 21:54:54 2016: 12 seconds
+smproxy-1.0.6: Sun Mar 13 05:30:26 2016: 16 seconds
+x11perf-1.5.4: Fri Aug 28 22:13:00 2015: 13 seconds
+x11perf-1.5.4: Sat Aug 29 01:17:06 2015: 18 seconds
+x11perf-1.6.0: Thu Mar  3 21:55:06 2016: 13 seconds
+x11perf-1.6.0: Sun Mar 13 05:31:07 2016: 18 seconds
+xauth-1.0.9-r1: Fri Aug 28 17:48:04 2015: 8 seconds
+xauth-1.0.9-r1: Fri Aug 28 21:28:11 2015: 13 seconds
+xauth-1.0.9-r1: Sat Aug 29 00:27:44 2015: 13 seconds
+xauth-1.0.9-r2: Thu Mar  3 21:42:57 2016: 12 seconds
+xauth-1.0.9-r2: Sun Mar 13 05:27:15 2016: 16 seconds
+xbacklight-1.2.1: Fri Aug 28 22:22:14 2015: 11 seconds
+xbacklight-1.2.1: Sat Aug 29 01:24:13 2015: 15 seconds
+xbacklight-1.2.1-r1: Sun Aug 30 00:45:37 2015: 11 seconds
+xbacklight-1.2.1-r1: Sun Mar 13 05:54:01 2016: 15 seconds
+xcmsdb-1.0.4: Fri Aug 28 22:13:06 2015: 13 seconds
+xcmsdb-1.0.4: Sat Aug 29 01:17:14 2015: 18 seconds
+xcmsdb-1.0.5: Thu Mar  3 21:43:55 2016: 12 seconds
+xcmsdb-1.0.5: Sun Mar 13 02:19:45 2016: 13 seconds
+xcursorgen-1.0.6: Fri Aug 28 21:46:06 2015: 21 seconds
+xcursorgen-1.0.6: Sat Aug 29 00:46:48 2015: 24 seconds
+xcursorgen-1.0.6: Sun Mar 13 02:24:22 2016: 13 seconds
+xdpyinfo-1.3.1: Fri Aug 28 22:13:10 2015: 14 seconds
+xdpyinfo-1.3.1: Sat Aug 29 01:17:19 2015: 19 seconds
+xdpyinfo-1.3.2: Thu Mar  3 21:57:22 2016: 13 seconds
+xdpyinfo-1.3.2: Sun Mar 13 04:18:29 2016: 14 seconds
+xdriinfo-1.0.4: Fri Aug 28 22:13:17 2015: 12 seconds
+xdriinfo-1.0.4: Sat Aug 29 01:17:27 2015: 17 seconds
+xdriinfo-1.0.5: Thu Mar  3 22:00:20 2016: 12 seconds
+xdriinfo-1.0.5: Sun Mar 13 02:19:04 2016: 13 seconds
+xev-1.2.1: Fri Aug 28 22:13:21 2015: 14 seconds
+xev-1.2.1: Sat Aug 29 01:17:32 2015: 19 seconds
+xev-1.2.2: Thu Mar  3 21:57:47 2016: 12 seconds
+xev-1.2.2: Sun Mar 13 02:25:28 2016: 13 seconds
+xf86dga-1.0.3: Fri Aug 28 22:15:50 2015: 20 seconds
+xf86dga-1.0.3: Sat Aug 29 01:20:22 2015: 26 seconds
+xf86dga-1.0.3: Sun Mar 13 02:25:17 2016: 11 seconds
+xgamma-1.0.5: Fri Aug 28 22:13:26 2015: 14 seconds
+xgamma-1.0.5: Sat Aug 29 01:17:39 2015: 18 seconds
+xgamma-1.0.6: Thu Mar  3 21:44:07 2016: 11 seconds
+xgamma-1.0.6: Sun Mar 13 02:25:41 2016: 13 seconds
+xhost-1.0.6: Fri Aug 28 22:13:33 2015: 13 seconds
+xhost-1.0.6: Sat Aug 29 01:17:47 2015: 17 seconds
+xhost-1.0.7: Thu Mar  3 21:43:30 2016: 12 seconds
+xhost-1.0.7: Sun Mar 13 05:29:55 2016: 16 seconds
+xinit-1.3.3-r1: Fri Aug 28 22:13:38 2015: 14 seconds
+xinit-1.3.3-r1: Sat Aug 29 01:17:53 2015: 18 seconds
+xinit-1.3.4-r1: Thu Mar  3 21:53:29 2016: 12 seconds
+xinit-1.3.4-r1: Sun Mar 13 05:38:36 2016: 13 seconds
+xinput-1.6.1: Fri Aug 28 22:13:43 2015: 15 seconds
+xinput-1.6.1: Sat Aug 29 01:17:59 2015: 19 seconds
+xinput-1.6.2: Thu Mar  3 21:57:35 2016: 12 seconds
+xinput-1.6.2: Sun Mar 13 02:25:04 2016: 13 seconds
+xkbcomp-1.3.0: Fri Aug 28 21:42:41 2015: 14 seconds
+xkbcomp-1.3.0: Sat Aug 29 00:42:41 2015: 17 seconds
+xkbcomp-1.3.0: Sun Mar 13 03:49:51 2016: 15 seconds
+xkbevd-1.1.3: Fri Aug 28 22:13:49 2015: 15 seconds
+xkbevd-1.1.3: Sat Aug 29 01:18:06 2015: 23 seconds
+xkbevd-1.1.4: Thu Mar  3 21:54:42 2016: 12 seconds
+xkbevd-1.1.4: Sun Mar 13 03:50:39 2016: 13 seconds
+xkbutils-1.0.4: Fri Aug 28 22:13:55 2015: 15 seconds
+xkbutils-1.0.4: Sat Aug 29 01:18:13 2015: 25 seconds
+xkbutils-1.0.4: Sun Mar 13 05:38:49 2016: 14 seconds
+xkill-1.0.4: Fri Aug 28 22:14:01 2015: 16 seconds
+xkill-1.0.4: Sat Aug 29 01:18:24 2015: 22 seconds
+xkill-1.0.4: Sun Mar 13 05:30:11 2016: 15 seconds
+xlsatoms-1.1.1: Fri Aug 28 22:14:07 2015: 20 seconds
+xlsatoms-1.1.1: Sat Aug 29 01:18:33 2015: 20 seconds
+xlsatoms-1.1.2: Thu Mar  3 21:41:03 2016: 11 seconds
+xlsatoms-1.1.2: Sun Mar 13 04:19:36 2016: 13 seconds
+xlsclients-1.1.3: Fri Aug 28 22:22:14 2015: 13 seconds
+xlsclients-1.1.3: Sat Aug 29 01:24:14 2015: 10 seconds
+xlsclients-1.1.3: Sun Mar 13 05:53:46 2016: 15 seconds
+xmessage-1.0.4: Fri Aug 28 21:46:15 2015: 21 seconds
+xmessage-1.0.4: Sat Aug 29 00:46:56 2015: 33 seconds
+xmessage-1.0.4: Sun Mar 13 05:37:42 2016: 17 seconds
+xmodmap-1.0.8: Fri Aug 28 22:14:14 2015: 20 seconds
+xmodmap-1.0.8: Sat Aug 29 01:18:42 2015: 18 seconds
+xmodmap-1.0.9: Thu Mar  3 21:43:42 2016: 13 seconds
+xmodmap-1.0.9: Sun Mar 13 02:19:32 2016: 13 seconds
+xpr-1.0.4: Fri Aug 28 22:14:24 2015: 19 seconds
+xpr-1.0.4: Sat Aug 29 01:18:50 2015: 20 seconds
+xpr-1.0.4: Sun Mar 13 05:31:41 2016: 16 seconds
+xprop-1.2.2: Fri Aug 28 21:46:24 2015: 25 seconds
+xprop-1.2.2: Sat Aug 29 00:47:07 2015: 27 seconds
+xprop-1.2.2: Sun Mar 13 02:18:05 2016: 14 seconds
+xrandr-1.4.3: Fri Aug 28 22:14:31 2015: 18 seconds
+xrandr-1.4.3: Sat Aug 29 01:18:56 2015: 20 seconds
+xrandr-1.4.3: Sun Mar 13 02:24:35 2016: 16 seconds
+xrdb-1.1.0: Fri Aug 28 21:46:33 2015: 19 seconds
+xrdb-1.1.0: Sat Aug 29 00:47:13 2015: 27 seconds
+xrdb-1.1.0: Sun Mar 13 05:29:18 2016: 15 seconds
+xrefresh-1.0.5: Fri Aug 28 22:14:41 2015: 15 seconds
+xrefresh-1.0.5: Sat Aug 29 01:19:06 2015: 15 seconds
+xrefresh-1.0.5: Sun Mar 13 02:19:58 2016: 12 seconds
+xset-1.2.3: Fri Aug 28 21:46:35 2015: 22 seconds
+xset-1.2.3: Sat Aug 29 00:47:14 2015: 32 seconds
+xset-1.2.3: Sun Mar 13 05:29:02 2016: 16 seconds
+xsetroot-1.1.1: Fri Aug 28 22:14:47 2015: 17 seconds
+xsetroot-1.1.1: Sat Aug 29 01:19:12 2015: 16 seconds
+xsetroot-1.1.1: Sun Mar 13 05:31:25 2016: 16 seconds
+xvinfo-1.1.2: Fri Aug 28 22:14:54 2015: 16 seconds
+xvinfo-1.1.2: Sat Aug 29 01:19:17 2015: 16 seconds
+xvinfo-1.1.3: Thu Mar  3 21:43:18 2016: 12 seconds
+xvinfo-1.1.3: Sun Mar 13 02:24:51 2016: 13 seconds
+xwd-1.0.6: Fri Aug 28 22:15:01 2015: 13 seconds
+xwd-1.0.6: Sat Aug 29 01:19:25 2015: 19 seconds
+xwd-1.0.6: Sun Mar 13 05:25:16 2016: 16 seconds
+xwininfo-1.1.3: Fri Aug 28 22:15:06 2015: 14 seconds
+xwininfo-1.1.3: Sat Aug 29 01:19:30 2015: 34 seconds
+xwininfo-1.1.3: Sun Mar 13 04:19:49 2016: 14 seconds
+xwud-1.0.4: Fri Aug 28 22:15:11 2015: 15 seconds
+xwud-1.0.4: Sat Aug 29 01:19:36 2015: 33 seconds
+xwud-1.0.4: Sun Mar 13 02:19:17 2016: 15 seconds
+xorg-drivers-1.16: Fri Aug 28 20:22:16 2015: 4 seconds
+xorg-drivers-1.16: Fri Aug 28 23:21:45 2015: 5 seconds
+xorg-drivers-1.16: Sun Sep  6 13:25:12 2015: 5 seconds
+xorg-drivers-1.17: Thu Mar  3 18:57:34 2016: 7 seconds
+xorg-drivers-1.17: Sun Mar 13 01:13:28 2016: 8 seconds
+xorg-server-1.16.4: Sat Aug 29 03:23:20 2015: 4 minutes, 35 seconds
+xorg-server-1.16.4: Sat Aug 29 04:39:23 2015: 2 minutes, 31 seconds
+xorg-server-1.17.4: Thu Mar  3 21:57:59 2016: 1 minute, 57 seconds
+xorg-server-1.17.4: Sun Mar 13 00:47:12 2016: 2 minutes, 17 seconds
+xorg-server-1.17.4: Sun Mar 13 09:51:03 2016: 2 minutes, 5 seconds
+xorg-x11-7.4-r2: Sat Aug 29 03:30:21 2015: 12 seconds
+xorg-x11-7.4-r2: Sun Mar 13 10:07:20 2016: 8 seconds
+xf86-input-evdev-2.9.1: Sat Aug 29 03:30:21 2015: 29 seconds
+xf86-input-evdev-2.9.2: Thu Mar  3 22:00:44 2016: 16 seconds
+xf86-input-evdev-2.9.2: Sun Mar 13 10:02:15 2016: 19 seconds
+xf86-input-keyboard-1.8.0: Sat Aug 29 03:29:53 2015: 28 seconds
+xf86-input-keyboard-1.8.1: Thu Mar  3 22:02:04 2016: 14 seconds
+xf86-input-keyboard-1.8.1: Sun Mar 13 10:07:28 2016: 16 seconds
+xf86-input-mouse-1.9.1: Sat Aug 29 03:29:17 2015: 36 seconds
+xf86-input-mouse-1.9.1: Thu Mar  3 22:02:18 2016: 15 seconds
+xf86-input-mouse-1.9.1: Sun Mar 13 10:07:44 2016: 16 seconds
+xf86-video-ati-7.5.0: Sat Aug 29 03:28:36 2015: 41 seconds
+xf86-video-ati-7.5.0: Thu Mar  3 22:01:00 2016: 22 seconds
+xf86-video-ati-7.5.0: Sun Mar 13 10:02:34 2016: 23 seconds
+cairo-1.14.2: Fri Aug 28 18:30:09 2015: 1 minute, 5 seconds
+cairo-1.14.2: Fri Aug 28 20:51:17 2015: 1 minute, 8 seconds
+cairo-1.14.2: Fri Aug 28 23:51:39 2015: 1 minute, 9 seconds
+cairo-1.14.2: Sat Aug 29 04:30:41 2015: 1 minute, 28 seconds
+cairo-1.14.2: Sun Aug 30 22:03:07 2015: 1 minute, 12 seconds
+cairo-1.14.2: Thu Mar  3 23:01:47 2016: 1 minute, 17 seconds
+cairo-1.14.2: Sun Mar 13 05:59:35 2016: 1 minute, 23 seconds
+gdk-pixbuf-2.30.8-r1: Fri Aug 28 17:31:15 2015: 25 seconds
+gdk-pixbuf-2.30.8-r1: Fri Aug 28 20:55:14 2015: 49 seconds
+gdk-pixbuf-2.30.8-r1: Fri Aug 28 23:56:00 2015: 48 seconds
+gdk-pixbuf-2.30.8-r2: Thu Sep  3 12:27:07 2015: 29 seconds
+gdk-pixbuf-2.30.8-r2: Sun Sep  6 18:20:31 2015: 27 seconds
+gdk-pixbuf-2.32.3: Thu Mar  3 23:22:40 2016: 34 seconds
+gdk-pixbuf-2.32.3: Sun Mar 13 04:34:03 2016: 39 seconds
+gnome-pty-helper-0.38.3: Fri Aug 28 20:44:36 2015: 12 seconds
+gnome-pty-helper-0.38.3: Fri Aug 28 23:45:05 2015: 15 seconds
+gnome-pty-helper-0.40.2: Thu Mar  3 23:13:02 2016: 13 seconds
+gnome-pty-helper-0.40.2: Sun Mar 13 04:43:03 2016: 15 seconds
+gtk+-3.14.13: Fri Aug 28 18:44:44 2015: 3 minutes, 48 seconds
+gtk+-2.24.28-r1: Fri Aug 28 21:56:28 2015: 5 minutes, 55 seconds
+gtk+-3.14.13: Fri Aug 28 22:38:58 2015: 4 minutes, 42 seconds
+gtk+-3.14.13: Sat Aug 29 01:41:45 2015: 4 minutes, 10 seconds
+gtk+-3.14.13: Sat Aug 29 04:39:23 2015: 5 minutes, 1 second
+gtk+-3.14.13: Sun Sep  6 18:27:29 2015: 3 minutes, 59 seconds
+gtk+-2.24.28-r1: Sun Sep  6 18:31:28 2015: 3 minutes, 7 seconds
+gtk+-2.24.29: Thu Mar  3 23:30:06 2016: 3 minutes, 29 seconds
+gtk+-3.18.7: Thu Mar  3 23:45:56 2016: 5 minutes, 14 seconds
+gtk+-2.24.29: Sun Mar 13 06:01:33 2016: 3 minutes, 47 seconds
+gtk+-3.18.7: Sun Mar 13 09:45:31 2016: 5 minutes, 32 seconds
+gtk+-3.14.13: Fri Aug 28 18:44:44 2015: 3 minutes, 48 seconds
+gtk+-2.24.28-r1: Fri Aug 28 21:56:28 2015: 5 minutes, 55 seconds
+gtk+-3.14.13: Fri Aug 28 22:38:58 2015: 4 minutes, 42 seconds
+gtk+-3.14.13: Sat Aug 29 01:41:45 2015: 4 minutes, 10 seconds
+gtk+-3.14.13: Sat Aug 29 04:39:23 2015: 5 minutes, 1 second
+gtk+-3.14.13: Sun Sep  6 18:27:29 2015: 3 minutes, 59 seconds
+gtk+-2.24.28-r1: Sun Sep  6 18:31:28 2015: 3 minutes, 7 seconds
+gtk+-2.24.29: Thu Mar  3 23:30:06 2016: 3 minutes, 29 seconds
+gtk+-3.18.7: Thu Mar  3 23:45:56 2016: 5 minutes, 14 seconds
+gtk+-2.24.29: Sun Mar 13 06:01:33 2016: 3 minutes, 47 seconds
+gtk+-3.18.7: Sun Mar 13 09:45:31 2016: 5 minutes, 32 seconds
+gtksourceview-2.10.5-r3: Sat Aug 29 04:47:15 2015: 20 seconds
+gtksourceview-2.10.5-r3: Sun Mar 13 06:05:47 2016: 27 seconds
+libICE-1.0.9: Fri Aug 28 17:06:07 2015: 12 seconds
+libICE-1.0.9: Fri Aug 28 21:27:26 2015: 13 seconds
+libICE-1.0.9: Sat Aug 29 00:26:56 2015: 14 seconds
+libICE-1.0.9: Sun Mar 13 01:45:47 2016: 21 seconds
+libSM-1.2.2-r1: Fri Aug 28 17:41:14 2015: 11 seconds
+libSM-1.2.2-r1: Fri Aug 28 21:27:39 2015: 12 seconds
+libSM-1.2.2-r1: Sat Aug 29 00:27:10 2015: 13 seconds
+libSM-1.2.2-r1: Sun Mar 13 05:11:32 2016: 19 seconds
+libX11-1.6.2: Fri Aug 28 17:24:29 2015: 1 minute, 7 seconds
+libX11-1.6.2: Fri Aug 28 20:34:48 2015: 1 minute, 20 seconds
+libX11-1.6.2: Fri Aug 28 23:34:46 2015: 1 minute, 17 seconds
+libX11-1.6.3: Thu Mar  3 21:38:31 2016: 1 minute, 20 seconds
+libX11-1.6.3: Mon Mar  7 00:24:55 2016: 2 minutes, 29 seconds
+libX11-1.6.3: Mon Mar  7 01:57:06 2016: 1 minute, 30 seconds
+libX11-1.6.3: Mon Mar  7 12:54:23 2016: 2 minutes, 36 seconds
+libX11-1.6.3: Mon Mar  7 16:32:41 2016: 1 minute, 24 seconds
+libX11-1.6.3: Mon Mar  7 18:03:11 2016: 2 minutes, 30 seconds
+libX11-1.6.3: Mon Mar  7 21:32:05 2016: 1 minute, 27 seconds
+libX11-1.6.3: Sun Mar 13 02:15:32 2016: 1 minute, 24 seconds
+libXScrnSaver-1.2.2-r1: Fri Aug 28 22:15:18 2015: 16 seconds
+libXScrnSaver-1.2.2-r1: Sat Aug 29 01:19:40 2015: 34 seconds
+libXScrnSaver-1.2.2-r1: Sun Mar 13 02:23:32 2016: 17 seconds
+libXau-1.0.8: Fri Aug 28 17:06:40 2015: 11 seconds
+libXau-1.0.8: Fri Aug 28 21:27:59 2015: 12 seconds
+libXau-1.0.8: Sat Aug 29 00:27:32 2015: 12 seconds
+libXau-1.0.8: Mon Mar  7 00:21:27 2016: 23 seconds
+libXau-1.0.8: Mon Mar  7 01:53:50 2016: 16 seconds
+libXau-1.0.8: Mon Mar  7 12:50:32 2016: 24 seconds
+libXau-1.0.8: Mon Mar  7 16:29:26 2016: 16 seconds
+libXau-1.0.8: Mon Mar  7 17:58:13 2016: 24 seconds
+libXau-1.0.8: Mon Mar  7 21:28:49 2016: 15 seconds
+libXau-1.0.8: Sun Mar 13 01:47:39 2016: 19 seconds
+libXaw-1.0.12: Fri Aug 28 17:42:51 2015: 15 seconds
+libXaw-1.0.12: Fri Aug 28 21:35:08 2015: 17 seconds
+libXaw-1.0.12: Sat Aug 29 00:34:53 2015: 17 seconds
+libXaw-1.0.13: Thu Mar  3 21:51:55 2016: 21 seconds
+libXaw-1.0.13: Sun Mar 13 05:26:46 2016: 29 seconds
+libXcomposite-0.4.4-r1: Fri Aug 28 17:27:13 2015: 11 seconds
+libXcomposite-0.4.4-r1: Fri Aug 28 21:30:27 2015: 12 seconds
+libXcomposite-0.4.4-r1: Sat Aug 29 00:29:42 2015: 14 seconds
+libXcomposite-0.4.4-r1: Sun Mar 13 02:22:42 2016: 17 seconds
+libXcursor-1.1.14: Fri Aug 28 17:26:20 2015: 11 seconds
+libXcursor-1.1.14: Fri Aug 28 21:25:26 2015: 12 seconds
+libXcursor-1.1.14: Sat Aug 29 00:24:51 2015: 12 seconds
+libXcursor-1.1.14: Sun Mar 13 02:21:19 2016: 17 seconds
+libXdamage-1.1.4-r1: Fri Aug 28 17:26:31 2015: 11 seconds
+libXdamage-1.1.4-r1: Fri Aug 28 21:29:54 2015: 13 seconds
+libXdamage-1.1.4-r1: Sat Aug 29 00:30:05 2015: 13 seconds
+libXdamage-1.1.4-r1: Mon Mar  7 00:28:38 2016: 25 seconds
+libXdamage-1.1.4-r1: Mon Mar  7 01:59:28 2016: 18 seconds
+libXdamage-1.1.4-r1: Mon Mar  7 12:58:13 2016: 25 seconds
+libXdamage-1.1.4-r1: Mon Mar  7 16:34:55 2016: 17 seconds
+libXdamage-1.1.4-r1: Mon Mar  7 18:06:52 2016: 26 seconds
+libXdamage-1.1.4-r1: Mon Mar  7 21:34:24 2016: 17 seconds
+libXdamage-1.1.4-r1: Sun Mar 13 02:22:26 2016: 16 seconds
+libXdmcp-1.1.1-r1: Fri Aug 28 17:08:10 2015: 12 seconds
+libXdmcp-1.1.1-r1: Fri Aug 28 21:32:12 2015: 13 seconds
+libXdmcp-1.1.1-r1: Sat Aug 29 00:31:52 2015: 13 seconds
+libXdmcp-1.1.2: Thu Mar  3 21:07:23 2016: 15 seconds
+libXdmcp-1.1.2: Mon Mar  7 00:21:50 2016: 24 seconds
+libXdmcp-1.1.2: Mon Mar  7 01:54:06 2016: 16 seconds
+libXdmcp-1.1.2: Mon Mar  7 12:50:57 2016: 24 seconds
+libXdmcp-1.1.2: Mon Mar  7 16:29:42 2016: 17 seconds
+libXdmcp-1.1.2: Mon Mar  7 17:58:37 2016: 24 seconds
+libXdmcp-1.1.2: Mon Mar  7 21:29:04 2016: 17 seconds
+libXdmcp-1.1.2: Sun Mar 13 01:48:41 2016: 20 seconds
+libXext-1.3.3: Fri Aug 28 17:25:36 2015: 11 seconds
+libXext-1.3.3: Fri Aug 28 20:46:49 2015: 12 seconds
+libXext-1.3.3: Fri Aug 28 23:47:18 2015: 14 seconds
+libXext-1.3.3: Mon Mar  7 00:27:24 2016: 26 seconds
+libXext-1.3.3: Mon Mar  7 01:58:36 2016: 17 seconds
+libXext-1.3.3: Mon Mar  7 12:56:59 2016: 25 seconds
+libXext-1.3.3: Mon Mar  7 16:34:05 2016: 17 seconds
+libXext-1.3.3: Mon Mar  7 18:05:41 2016: 25 seconds
+libXext-1.3.3: Mon Mar  7 21:33:32 2016: 18 seconds
+libXext-1.3.3: Sun Mar 13 02:16:56 2016: 17 seconds
+libXfixes-5.0.1: Fri Aug 28 17:25:58 2015: 10 seconds
+libXfixes-5.0.1: Fri Aug 28 20:58:51 2015: 12 seconds
+libXfixes-5.0.1: Fri Aug 28 23:59:38 2015: 13 seconds
+libXfixes-5.0.1: Mon Mar  7 00:28:15 2016: 23 seconds
+libXfixes-5.0.1: Mon Mar  7 01:58:53 2016: 17 seconds
+libXfixes-5.0.1: Mon Mar  7 12:57:49 2016: 24 seconds
+libXfixes-5.0.1: Mon Mar  7 16:34:22 2016: 16 seconds
+libXfixes-5.0.1: Mon Mar  7 18:06:06 2016: 23 seconds
+libXfixes-5.0.1: Mon Mar  7 21:33:50 2016: 17 seconds
+libXfixes-5.0.1: Sun Mar 13 02:17:30 2016: 16 seconds
+libXfont-1.5.1: Fri Aug 28 21:46:37 2015: 34 seconds
+libXfont-1.5.1: Sat Aug 29 00:47:26 2015: 40 seconds
+libXfont-1.5.1: Sun Mar 13 01:58:25 2016: 30 seconds
+libXft-2.3.2: Fri Aug 28 17:27:58 2015: 11 seconds
+libXft-2.3.2: Fri Aug 28 20:54:27 2015: 14 seconds
+libXft-2.3.2: Fri Aug 28 23:55:12 2015: 13 seconds
+libXft-2.3.2: Sun Mar 13 02:21:02 2016: 17 seconds
+libXi-1.7.4: Fri Aug 28 17:26:08 2015: 12 seconds
+libXi-1.7.4: Fri Aug 28 20:54:41 2015: 13 seconds
+libXi-1.7.4: Fri Aug 28 23:55:25 2015: 14 seconds
+libXi-1.7.5: Thu Mar  3 21:41:52 2016: 18 seconds
+libXi-1.7.5: Sun Mar 13 02:20:10 2016: 19 seconds
+libXinerama-1.1.3: Fri Aug 28 17:26:42 2015: 10 seconds
+libXinerama-1.1.3: Fri Aug 28 20:56:54 2015: 14 seconds
+libXinerama-1.1.3: Fri Aug 28 23:57:41 2015: 16 seconds
+libXinerama-1.1.3: Sun Mar 13 02:20:46 2016: 16 seconds
+libXmu-1.1.2: Fri Aug 28 17:42:26 2015: 13 seconds
+libXmu-1.1.2: Fri Aug 28 20:48:00 2015: 16 seconds
+libXmu-1.1.2: Fri Aug 28 23:48:32 2015: 16 seconds
+libXmu-1.1.2: Sun Mar 13 05:23:12 2016: 23 seconds
+libXpm-3.5.11: Fri Aug 28 17:42:39 2015: 12 seconds
+libXpm-3.5.11: Fri Aug 28 21:34:49 2015: 19 seconds
+libXpm-3.5.11: Sat Aug 29 00:34:32 2015: 21 seconds
+libXpm-3.5.11: Sun Mar 13 05:24:53 2016: 23 seconds
+libXrandr-1.4.2: Fri Aug 28 17:26:52 2015: 11 seconds
+libXrandr-1.4.2: Fri Aug 28 20:59:03 2015: 13 seconds
+libXrandr-1.4.2: Fri Aug 28 23:59:51 2015: 12 seconds
+libXrandr-1.5.0: Thu Mar  3 21:51:36 2016: 19 seconds
+libXrandr-1.5.0: Sun Mar 13 02:20:29 2016: 17 seconds
+libXrender-0.9.8: Fri Aug 28 17:25:47 2015: 11 seconds
+libXrender-0.9.8: Fri Aug 28 20:48:16 2015: 12 seconds
+libXrender-0.9.8: Fri Aug 28 23:48:48 2015: 13 seconds
+libXrender-0.9.9: Thu Mar  3 21:41:14 2016: 16 seconds
+libXrender-0.9.9: Mon Mar  7 00:27:50 2016: 25 seconds
+libXrender-0.9.9: Mon Mar  7 01:59:10 2016: 18 seconds
+libXrender-0.9.9: Mon Mar  7 12:57:24 2016: 25 seconds
+libXrender-0.9.9: Mon Mar  7 16:34:38 2016: 17 seconds
+libXrender-0.9.9: Mon Mar  7 18:06:29 2016: 23 seconds
+libXrender-0.9.9: Mon Mar  7 21:34:07 2016: 17 seconds
+libXrender-0.9.9: Sun Mar 13 02:17:13 2016: 17 seconds
+libXres-1.0.7: Fri Aug 28 21:48:09 2015: 12 seconds
+libXres-1.0.7: Sat Aug 29 00:49:34 2015: 13 seconds
+libXres-1.0.7: Sun Mar 13 02:22:59 2016: 16 seconds
+libXt-1.1.4: Fri Aug 28 17:41:25 2015: 16 seconds
+libXt-1.1.4: Fri Aug 28 20:47:42 2015: 18 seconds
+libXt-1.1.4: Fri Aug 28 23:48:13 2015: 19 seconds
+libXt-1.1.5: Thu Mar  3 21:41:30 2016: 22 seconds
+libXt-1.1.5: Sun Mar 13 05:15:15 2016: 25 seconds
+libXtst-1.2.2: Fri Aug 28 17:27:47 2015: 11 seconds
+libXtst-1.2.2: Fri Aug 28 21:33:23 2015: 11 seconds
+libXtst-1.2.2: Sat Aug 29 00:33:04 2015: 13 seconds
+libXtst-1.2.2: Sun Mar 13 02:24:06 2016: 16 seconds
+libXv-1.0.10: Fri Aug 28 17:27:03 2015: 10 seconds
+libXv-1.0.10: Fri Aug 28 21:30:07 2015: 11 seconds
+libXv-1.0.10: Sat Aug 29 00:29:21 2015: 13 seconds
+libXv-1.0.10: Mon Mar  7 00:29:51 2016: 24 seconds
+libXv-1.0.10: Mon Mar  7 01:59:46 2016: 17 seconds
+libXv-1.0.10: Mon Mar  7 12:59:27 2016: 24 seconds
+libXv-1.0.10: Mon Mar  7 16:35:12 2016: 17 seconds
+libXv-1.0.10: Mon Mar  7 18:07:18 2016: 24 seconds
+libXv-1.0.10: Mon Mar  7 21:34:41 2016: 16 seconds
+libXv-1.0.10: Sun Mar 13 02:21:36 2016: 16 seconds
+libXvMC-1.0.8: Fri Aug 28 17:28:30 2015: 11 seconds
+libXvMC-1.0.8: Fri Aug 28 21:37:42 2015: 12 seconds
+libXvMC-1.0.8: Sat Aug 29 00:37:30 2015: 14 seconds
+libXvMC-1.0.9: Thu Mar  3 21:42:25 2016: 15 seconds
+libXvMC-1.0.9: Mon Mar  7 00:30:15 2016: 25 seconds
+libXvMC-1.0.9: Mon Mar  7 02:00:37 2016: 18 seconds
+libXvMC-1.0.9: Mon Mar  7 12:59:51 2016: 25 seconds
+libXvMC-1.0.9: Mon Mar  7 16:36:01 2016: 17 seconds
+libXvMC-1.0.9: Mon Mar  7 18:08:29 2016: 25 seconds
+libXvMC-1.0.9: Mon Mar  7 21:35:30 2016: 18 seconds
+libXvMC-1.0.9: Sun Mar 13 02:23:49 2016: 17 seconds
+libXxf86dga-1.1.4: Fri Aug 28 22:15:23 2015: 21 seconds
+libXxf86dga-1.1.4: Sat Aug 29 01:19:42 2015: 38 seconds
+libXxf86dga-1.1.4: Sun Mar 13 02:23:15 2016: 17 seconds
+libXxf86vm-1.1.4: Fri Aug 28 17:28:20 2015: 10 seconds
+libXxf86vm-1.1.4: Fri Aug 28 21:28:11 2015: 16 seconds
+libXxf86vm-1.1.4: Sat Aug 29 00:27:44 2015: 16 seconds
+libXxf86vm-1.1.4: Mon Mar  7 00:29:03 2016: 23 seconds
+libXxf86vm-1.1.4: Mon Mar  7 02:00:20 2016: 17 seconds
+libXxf86vm-1.1.4: Mon Mar  7 12:58:38 2016: 24 seconds
+libXxf86vm-1.1.4: Mon Mar  7 16:35:45 2016: 16 seconds
+libXxf86vm-1.1.4: Mon Mar  7 18:08:06 2016: 23 seconds
+libXxf86vm-1.1.4: Mon Mar  7 21:35:14 2016: 16 seconds
+libXxf86vm-1.1.4: Sun Mar 13 02:21:52 2016: 17 seconds
+libdrm-2.4.59: Fri Aug 28 17:09:28 2015: 13 seconds
+libdrm-2.4.59: Fri Aug 28 21:31:10 2015: 15 seconds
+libdrm-2.4.59: Sat Aug 29 00:30:49 2015: 15 seconds
+libdrm-2.4.65: Thu Mar  3 20:52:45 2016: 21 seconds
+libdrm-2.4.65: Mon Mar  7 00:22:14 2016: 36 seconds
+libdrm-2.4.65: Mon Mar  7 01:54:43 2016: 21 seconds
+libdrm-2.4.65: Mon Mar  7 12:51:21 2016: 35 seconds
+libdrm-2.4.65: Mon Mar  7 16:30:19 2016: 22 seconds
+libdrm-2.4.65: Mon Mar  7 17:59:33 2016: 35 seconds
+libdrm-2.4.65: Mon Mar  7 21:29:41 2016: 22 seconds
+libdrm-2.4.65: Sun Mar 13 01:47:12 2016: 27 seconds
+libfontenc-1.1.2: Fri Aug 28 17:10:27 2015: 10 seconds
+libfontenc-1.1.2: Fri Aug 28 21:42:41 2015: 18 seconds
+libfontenc-1.1.2: Sat Aug 29 00:42:53 2015: 31 seconds
+libfontenc-1.1.3: Thu Mar  3 21:23:31 2016: 14 seconds
+libfontenc-1.1.3: Sun Mar 13 01:49:01 2016: 17 seconds
+libnotify-0.7.6-r1: Fri Aug 28 22:20:50 2015: 25 seconds
+libnotify-0.7.6-r1: Sat Aug 29 00:47:37 2015: 37 seconds
+libnotify-0.7.6-r1: Sun Aug 30 21:17:50 2015: 17 seconds
+libnotify-0.7.6-r1: Sun Aug 30 21:18:31 2015: 18 seconds
+libnotify-0.7.6-r1: Sun Aug 30 21:20:05 2015: 27 seconds
+libnotify-0.7.6-r1: Sun Aug 30 21:39:46 2015: 18 seconds
+libnotify-0.7.6-r1: Mon Aug 31 03:11:37 2015: 18 seconds
+libnotify-0.7.6-r1: Sun Sep  6 18:40:49 2015: 17 seconds
+libnotify-0.7.6-r3: Fri Mar  4 00:48:17 2016: 21 seconds
+libnotify-0.7.6-r3: Sun Mar 13 04:48:14 2016: 24 seconds
+libpciaccess-0.13.3: Fri Aug 28 20:34:46 2015: 20 seconds
+libpciaccess-0.13.3: Sat Aug 29 00:47:51 2015: 29 seconds
+libpciaccess-0.13.3: Sun Sep  6 05:40:31 2015: 13 seconds
+libpciaccess-0.13.4: Thu Mar  3 21:23:45 2016: 15 seconds
+libpciaccess-0.13.4: Sun Mar 13 02:14:53 2016: 17 seconds
+libva-1.3.1: Sat Aug 29 03:27:47 2015: 1 minute, 25 seconds
+libva-1.3.1: Sat Aug 29 04:39:23 2015: 44 seconds
+libva-1.6.2: Thu Mar  3 23:21:27 2016: 35 seconds
+libva-1.6.2: Sun Mar 13 09:07:24 2016: 37 seconds
+libva-vdpau-driver-0.7.4-r2: Sat Aug 29 03:29:12 2015: 48 seconds
+libva-vdpau-driver-0.7.4-r3: Thu Mar  3 23:22:02 2016: 19 seconds
+libva-vdpau-driver-0.7.4-r3: Sun Mar 13 02:15:10 2016: 22 seconds
+libvdpau-0.9: Fri Aug 28 17:28:09 2015: 11 seconds
+libvdpau-0.9: Fri Aug 28 21:42:19 2015: 12 seconds
+libvdpau-0.9: Sat Aug 29 00:42:17 2015: 14 seconds
+libvdpau-1.1.1: Thu Mar  3 21:42:10 2016: 15 seconds
+libvdpau-1.1.1: Mon Mar  7 00:29:26 2016: 25 seconds
+libvdpau-1.1.1: Mon Mar  7 02:00:03 2016: 17 seconds
+libvdpau-1.1.1: Mon Mar  7 12:59:02 2016: 25 seconds
+libvdpau-1.1.1: Mon Mar  7 16:35:29 2016: 16 seconds
+libvdpau-1.1.1: Mon Mar  7 18:07:42 2016: 24 seconds
+libvdpau-1.1.1: Mon Mar  7 21:34:57 2016: 17 seconds
+libvdpau-1.1.1: Sun Mar 13 02:22:09 2016: 17 seconds
+libwnck-2.31.0: Fri Aug 28 22:22:35 2015: 23 seconds
+libwnck-3.14.0: Fri Aug 28 22:52:22 2015: 39 seconds
+libwnck-3.14.0: Sat Aug 29 01:56:15 2015: 1 minute, 11 seconds
+libwnck-2.31.0: Sun Sep  6 18:34:35 2015: 25 seconds
+libwnck-3.14.0: Sun Sep  6 18:35:00 2015: 18 seconds
+libwnck-3.14.0: Sun Sep  6 21:18:34 2015: 18 seconds
+libwnck-2.31.0: Sun Sep  6 21:18:52 2015: 18 seconds
+libwnck-3.14.1: Fri Mar  4 00:37:14 2016: 22 seconds
+libwnck-2.31.0: Sun Mar 13 06:06:14 2016: 21 seconds
+libwnck-3.14.1: Sun Mar 13 10:06:58 2016: 22 seconds
+libwnck-2.31.0: Fri Aug 28 22:22:35 2015: 23 seconds
+libwnck-3.14.0: Fri Aug 28 22:52:22 2015: 39 seconds
+libwnck-3.14.0: Sat Aug 29 01:56:15 2015: 1 minute, 11 seconds
+libwnck-2.31.0: Sun Sep  6 18:34:35 2015: 25 seconds
+libwnck-3.14.0: Sun Sep  6 18:35:00 2015: 18 seconds
+libwnck-3.14.0: Sun Sep  6 21:18:34 2015: 18 seconds
+libwnck-2.31.0: Sun Sep  6 21:18:52 2015: 18 seconds
+libwnck-3.14.1: Fri Mar  4 00:37:14 2016: 22 seconds
+libwnck-2.31.0: Sun Mar 13 06:06:14 2016: 21 seconds
+libwnck-3.14.1: Sun Mar 13 10:06:58 2016: 22 seconds
+libxcb-1.11-r1: Fri Aug 28 17:23:53 2015: 36 seconds
+libxcb-1.11-r1: Fri Aug 28 20:47:01 2015: 41 seconds
+libxcb-1.11-r1: Fri Aug 28 23:47:32 2015: 41 seconds
+libxcb-1.11.1: Thu Mar  3 21:29:53 2016: 49 seconds
+libxcb-1.11.1: Mon Mar  7 00:23:27 2016: 1 minute, 28 seconds
+libxcb-1.11.1: Mon Mar  7 01:56:12 2016: 54 seconds
+libxcb-1.11.1: Mon Mar  7 12:52:36 2016: 1 minute, 47 seconds
+libxcb-1.11.1: Mon Mar  7 16:31:48 2016: 53 seconds
+libxcb-1.11.1: Mon Mar  7 18:01:47 2016: 1 minute, 24 seconds
+libxcb-1.11.1: Mon Mar  7 21:31:10 2016: 55 seconds
+libxcb-1.11.1: Sun Mar 13 04:13:10 2016: 56 seconds
+libxkbcommon-0.5.0: Fri Aug 28 17:27:24 2015: 23 seconds
+libxkbcommon-0.5.0: Fri Aug 28 21:39:32 2015: 25 seconds
+libxkbcommon-0.5.0: Sat Aug 29 00:39:24 2015: 26 seconds
+libxkbcommon-0.5.0: Sun Mar 13 04:19:02 2016: 34 seconds
+libxkbfile-1.0.8: Fri Aug 28 21:39:24 2015: 14 seconds
+libxkbfile-1.0.8: Sat Aug 29 00:39:16 2015: 16 seconds
+libxkbfile-1.0.9: Thu Mar  3 21:42:40 2016: 17 seconds
+libxkbfile-1.0.9: Sun Mar 13 02:17:46 2016: 19 seconds
+libxshmfence-1.2: Fri Aug 28 17:09:18 2015: 10 seconds
+libxshmfence-1.2: Fri Aug 28 21:32:25 2015: 12 seconds
+libxshmfence-1.2: Sat Aug 29 00:32:05 2015: 12 seconds
+libxshmfence-1.2: Mon Mar  7 00:22:50 2016: 23 seconds
+libxshmfence-1.2: Mon Mar  7 01:55:15 2016: 16 seconds
+libxshmfence-1.2: Mon Mar  7 12:51:56 2016: 24 seconds
+libxshmfence-1.2: Mon Mar  7 16:30:41 2016: 16 seconds
+libxshmfence-1.2: Mon Mar  7 18:00:08 2016: 22 seconds
+libxshmfence-1.2: Mon Mar  7 21:30:03 2016: 16 seconds
+libxshmfence-1.2: Sun Mar 13 01:48:23 2016: 18 seconds
+pango-1.36.8: Fri Aug 28 18:40:50 2015: 25 seconds
+pango-1.36.8: Fri Aug 28 21:53:20 2015: 28 seconds
+pango-1.36.8: Sat Aug 29 00:54:58 2015: 28 seconds
+pango-1.36.8: Sun Sep  6 18:19:38 2015: 29 seconds
+pango-1.38.1: Thu Mar  3 23:19:32 2016: 32 seconds
+pango-1.38.1: Sun Mar 13 07:04:30 2016: 34 seconds
+pixman-0.32.6: Fri Aug 28 17:08:22 2015: 25 seconds
+pixman-0.32.6: Fri Aug 28 21:32:37 2015: 26 seconds
+pixman-0.32.6: Sat Aug 29 00:32:17 2015: 28 seconds
+pixman-0.32.8: Thu Mar  3 20:54:50 2016: 30 seconds
+pixman-0.32.8: Sun Mar 13 01:34:20 2016: 32 seconds
+startup-notification-0.12-r1: Fri Aug 28 22:22:14 2015: 15 seconds
+startup-notification-0.12-r1: Sat Aug 29 01:23:42 2015: 16 seconds
+startup-notification-0.12-r1: Sun Mar 13 05:54:16 2016: 16 seconds
+xcb-util-0.4.0: Fri Aug 28 22:20:38 2015: 15 seconds
+xcb-util-0.4.0: Sat Aug 29 01:22:49 2015: 19 seconds
+xcb-util-0.4.0: Thu Mar  3 23:17:35 2016: 15 seconds
+xcb-util-0.4.0: Sun Mar 13 05:53:07 2016: 19 seconds
+xcb-util-cursor-0.1.1-r1: Fri Aug 28 22:21:49 2015: 15 seconds
+xcb-util-cursor-0.1.1-r1: Sat Aug 29 01:27:52 2015: 20 seconds
+xcb-util-cursor-0.1.2: Thu Mar  3 23:18:05 2016: 15 seconds
+xcb-util-cursor-0.1.2: Sun Mar 13 05:54:32 2016: 17 seconds
+xcb-util-image-0.4.0: Fri Aug 28 22:20:53 2015: 18 seconds
+xcb-util-image-0.4.0: Sat Aug 29 01:23:42 2015: 20 seconds
+xcb-util-image-0.4.0: Thu Mar  3 23:17:50 2016: 15 seconds
+xcb-util-image-0.4.0: Sun Mar 13 05:53:26 2016: 20 seconds
+xcb-util-keysyms-0.4.0: Fri Aug 28 21:46:49 2015: 27 seconds
+xcb-util-keysyms-0.4.0: Sat Aug 29 00:48:01 2015: 25 seconds
+xcb-util-keysyms-0.4.0: Thu Mar  3 21:40:20 2016: 14 seconds
+xcb-util-keysyms-0.4.0: Sun Mar 13 04:18:13 2016: 16 seconds
+xcb-util-renderutil-0.3.9-r1: Fri Aug 28 21:43:31 2015: 14 seconds
+xcb-util-renderutil-0.3.9-r1: Sat Aug 29 00:43:53 2015: 20 seconds
+xcb-util-renderutil-0.3.9-r1: Thu Mar  3 21:40:05 2016: 15 seconds
+xcb-util-renderutil-0.3.9-r1: Sun Mar 13 04:17:57 2016: 16 seconds
+xcb-util-wm-0.4.1-r1: Fri Aug 28 21:47:08 2015: 19 seconds
+xcb-util-wm-0.4.1-r1: Sat Aug 29 00:48:06 2015: 26 seconds
+xcb-util-wm-0.4.1-r1: Thu Mar  3 21:40:34 2016: 16 seconds
+xcb-util-wm-0.4.1-r1: Sun Mar 13 04:18:43 2016: 19 seconds
+xpyb-1.3.1-r3: Sat Aug 29 04:29:53 2015: 18 seconds
+xpyb-1.3.1-r3: Sun Mar 13 04:17:32 2016: 25 seconds
+xtrans-1.3.5: Fri Aug 28 17:06:00 2015: 7 seconds
+xtrans-1.3.5: Fri Aug 28 21:27:10 2015: 16 seconds
+xtrans-1.3.5: Sat Aug 29 00:26:37 2015: 19 seconds
+xtrans-1.3.5: Sun Mar 13 01:33:19 2016: 12 seconds
+colord-1.2.10: Fri Aug 28 18:43:41 2015: 1 minute, 3 seconds
+colord-1.2.10: Fri Aug 28 22:37:10 2015: 1 minute, 8 seconds
+colord-1.2.10: Sat Aug 29 01:39:53 2015: 1 minute, 9 seconds
+colord-1.2.10: Sun Sep  6 17:57:29 2015: 58 seconds
+colord-1.2.10: Sun Sep  6 18:04:49 2015: 58 seconds
+colord-1.2.10: Sun Sep  6 18:23:58 2015: 54 seconds
+colord-1.2.12: Thu Mar  3 23:28:34 2016: 1 minute, 0 seconds
+colord-1.2.12: Sun Mar 13 04:37:57 2016: 1 minute, 3 seconds
+dmenu-4.5-r3: Fri Aug 28 20:57:08 2015: 6 seconds
+dmenu-4.5-r3: Fri Aug 28 23:57:57 2015: 7 seconds
+dmenu-4.6: Sun Mar  6 21:16:54 2016: 8 seconds
+dmenu-4.6: Sun Mar 13 02:25:54 2016: 8 seconds
+dzen-0.9.5-r1: Fri Aug 28 20:59:24 2015: 6 seconds
+dzen-0.9.5-r1: Sat Aug 29 01:33:35 2015: 1 minute, 9 seconds
+dzen-0.9.5-r1: Sun Mar 13 02:26:02 2016: 8 seconds
+icon-naming-utils-0.8.90: Fri Aug 28 22:04:11 2015: 18 seconds
+icon-naming-utils-0.8.90: Sat Aug 29 01:03:39 2015: 19 seconds
+icon-naming-utils-0.8.90: Sun Mar 13 03:06:19 2016: 7 seconds
+makedepend-1.0.5: Fri Aug 28 22:15:32 2015: 23 seconds
+makedepend-1.0.5: Sat Aug 29 01:20:01 2015: 26 seconds
+makedepend-1.0.5: Sun Mar 13 01:49:54 2016: 13 seconds
+nitrogen-1.5.2: Fri Aug 28 22:31:20 2015: 1 minute, 9 seconds
+nitrogen-1.5.2: Sat Aug 29 01:33:45 2015: 1 minute, 46 seconds
+nitrogen-1.5.2: Sun Mar 13 07:34:48 2016: 32 seconds
+notification-daemon-3.14.1: Fri Aug 28 22:46:26 2015: 24 seconds
+notification-daemon-3.14.1: Sat Aug 29 01:56:02 2015: 19 seconds
+notification-daemon-3.14.1: Sun Mar 13 10:10:11 2016: 14 seconds
+shared-mime-info-1.4: Fri Aug 28 21:13:58 2015: 20 seconds
+shared-mime-info-1.4: Sat Aug 29 00:13:05 2015: 18 seconds
+shared-mime-info-1.4: Sun Mar 13 04:22:48 2016: 21 seconds
+util-macros-1.19.0: Fri Aug 28 17:09:50 2015: 6 seconds
+util-macros-1.19.0: Fri Aug 28 21:39:24 2015: 8 seconds
+util-macros-1.19.0: Sat Aug 29 00:39:16 2015: 8 seconds
+util-macros-1.19.0: Sun Mar 13 01:36:09 2016: 9 seconds
+xbitmaps-1.1.1: Fri Aug 28 21:42:01 2015: 15 seconds
+xbitmaps-1.1.1: Sat Aug 29 00:41:56 2015: 18 seconds
+xbitmaps-1.1.1: Sun Mar 13 01:36:55 2016: 11 seconds
+xdg-utils-1.1.0_rc2: Fri Aug 28 22:31:31 2015: 1 minute, 8 seconds
+xdg-utils-1.1.0_rc2: Sat Aug 29 01:33:48 2015: 1 minute, 9 seconds
+xdg-utils-1.1.1: Thu Mar  3 23:18:35 2016: 12 seconds
+xdg-utils-1.1.1: Sun Mar 13 05:39:03 2016: 17 seconds
+xkeyboard-config-2.14: Fri Aug 28 21:47:12 2015: 21 seconds
+xkeyboard-config-2.14: Sat Aug 29 00:48:16 2015: 27 seconds
+xkeyboard-config-2.16: Thu Mar  3 21:57:08 2016: 14 seconds
+xkeyboard-config-2.16: Sun Mar 13 04:00:49 2016: 14 seconds
+xsel-1.2.0: Fri Aug 28 20:48:00 2015: 10 seconds
+xsel-1.2.0: Fri Aug 28 23:48:32 2015: 11 seconds
+xsel-1.2.0: Sun Mar 13 05:26:17 2016: 15 seconds
+bigreqsproto-1.1.2: Fri Aug 28 22:15:36 2015: 25 seconds
+bigreqsproto-1.1.2: Sat Aug 29 01:20:15 2015: 19 seconds
+bigreqsproto-1.1.2: Sun Mar 13 01:41:15 2016: 14 seconds
+compositeproto-0.4.2-r1: Fri Aug 28 17:09:11 2015: 7 seconds
+compositeproto-0.4.2-r1: Fri Aug 28 21:30:19 2015: 8 seconds
+compositeproto-0.4.2-r1: Sat Aug 29 00:29:34 2015: 8 seconds
+compositeproto-0.4.2-r1: Sun Mar 13 01:33:55 2016: 11 seconds
+damageproto-1.2.1-r1: Fri Aug 28 17:07:00 2015: 7 seconds
+damageproto-1.2.1-r1: Fri Aug 28 21:28:27 2015: 8 seconds
+damageproto-1.2.1-r1: Sat Aug 29 00:29:56 2015: 9 seconds
+damageproto-1.2.1-r1: Mon Mar  7 00:20:06 2016: 14 seconds
+damageproto-1.2.1-r1: Mon Mar  7 01:52:40 2016: 11 seconds
+damageproto-1.2.1-r1: Mon Mar  7 12:50:18 2016: 14 seconds
+damageproto-1.2.1-r1: Mon Mar  7 16:28:50 2016: 12 seconds
+damageproto-1.2.1-r1: Mon Mar  7 17:57:24 2016: 14 seconds
+damageproto-1.2.1-r1: Mon Mar  7 21:28:13 2016: 11 seconds
+damageproto-1.2.1-r1: Sun Mar 13 01:33:31 2016: 11 seconds
+dri2proto-2.8-r1: Fri Aug 28 17:09:56 2015: 8 seconds
+dri2proto-2.8-r1: Fri Aug 28 21:42:01 2015: 18 seconds
+dri2proto-2.8-r1: Sat Aug 29 00:41:56 2015: 21 seconds
+dri2proto-2.8-r1: Mon Mar  7 00:19:15 2016: 20 seconds
+dri2proto-2.8-r1: Mon Mar  7 01:52:27 2016: 13 seconds
+dri2proto-2.8-r1: Mon Mar  7 12:48:21 2016: 19 seconds
+dri2proto-2.8-r1: Mon Mar  7 16:27:37 2016: 14 seconds
+dri2proto-2.8-r1: Mon Mar  7 17:55:48 2016: 19 seconds
+dri2proto-2.8-r1: Mon Mar  7 21:27:01 2016: 14 seconds
+dri2proto-2.8-r1: Sun Mar 13 01:36:18 2016: 13 seconds
+dri3proto-1.0: Fri Aug 28 17:10:04 2015: 8 seconds
+dri3proto-1.0: Fri Aug 28 21:47:21 2015: 19 seconds
+dri3proto-1.0: Sat Aug 29 00:48:25 2015: 25 seconds
+dri3proto-1.0: Mon Mar  7 00:20:20 2016: 17 seconds
+dri3proto-1.0: Mon Mar  7 01:53:26 2016: 12 seconds
+dri3proto-1.0: Mon Mar  7 12:49:12 2016: 18 seconds
+dri3proto-1.0: Mon Mar  7 16:29:02 2016: 12 seconds
+dri3proto-1.0: Mon Mar  7 17:57:38 2016: 18 seconds
+dri3proto-1.0: Mon Mar  7 21:28:24 2016: 12 seconds
+dri3proto-1.0: Sun Mar 13 01:38:58 2016: 13 seconds
+fixesproto-5.0-r1: Fri Aug 28 17:08:56 2015: 6 seconds
+fixesproto-5.0-r1: Fri Aug 28 21:33:03 2015: 8 seconds
+fixesproto-5.0-r1: Sat Aug 29 00:32:45 2015: 9 seconds
+fixesproto-5.0-r1: Mon Mar  7 00:23:13 2016: 14 seconds
+fixesproto-5.0-r1: Mon Mar  7 01:55:04 2016: 11 seconds
+fixesproto-5.0-r1: Mon Mar  7 12:52:20 2016: 16 seconds
+fixesproto-5.0-r1: Mon Mar  7 16:30:57 2016: 11 seconds
+fixesproto-5.0-r1: Mon Mar  7 18:00:30 2016: 14 seconds
+fixesproto-5.0-r1: Mon Mar  7 21:30:19 2016: 10 seconds
+fixesproto-5.0-r1: Sun Mar 13 01:48:11 2016: 12 seconds
+fontsproto-2.1.3: Fri Aug 28 20:34:44 2015: 16 seconds
+fontsproto-2.1.3: Sat Aug 29 00:43:53 2015: 16 seconds
+fontsproto-2.1.3: Sun Mar 13 01:38:07 2016: 12 seconds
+glproto-1.4.17: Fri Aug 28 17:12:56 2015: 8 seconds
+glproto-1.4.17: Fri Aug 28 21:42:31 2015: 10 seconds
+glproto-1.4.17: Sat Aug 29 00:42:31 2015: 10 seconds
+glproto-1.4.17-r1: Thu Mar  3 20:59:59 2016: 18 seconds
+glproto-1.4.17-r1: Mon Mar  7 00:20:55 2016: 17 seconds
+glproto-1.4.17-r1: Mon Mar  7 01:53:02 2016: 12 seconds
+glproto-1.4.17-r1: Mon Mar  7 12:49:47 2016: 17 seconds
+glproto-1.4.17-r1: Mon Mar  7 16:28:27 2016: 13 seconds
+glproto-1.4.17-r1: Mon Mar  7 17:56:53 2016: 17 seconds
+glproto-1.4.17-r1: Mon Mar  7 21:27:50 2016: 12 seconds
+glproto-1.4.17-r1: Sun Mar 13 01:37:06 2016: 12 seconds
+inputproto-2.3.1: Fri Aug 28 17:05:43 2015: 8 seconds
+inputproto-2.3.1: Fri Aug 28 20:50:31 2015: 12 seconds
+inputproto-2.3.1: Fri Aug 28 23:52:48 2015: 21 seconds
+inputproto-2.3.1: Mon Mar  7 00:17:06 2016: 18 seconds
+inputproto-2.3.1: Mon Mar  7 01:51:12 2016: 14 seconds
+inputproto-2.3.1: Mon Mar  7 12:46:17 2016: 17 seconds
+inputproto-2.3.1: Mon Mar  7 16:26:48 2016: 13 seconds
+inputproto-2.3.1: Mon Mar  7 17:54:40 2016: 17 seconds
+inputproto-2.3.1: Mon Mar  7 21:26:11 2016: 13 seconds
+inputproto-2.3.1: Sun Mar 13 01:30:10 2016: 13 seconds
+kbproto-1.0.6-r1: Fri Aug 28 17:05:51 2015: 9 seconds
+kbproto-1.0.6-r1: Fri Aug 28 20:54:54 2015: 20 seconds
+kbproto-1.0.6-r1: Fri Aug 28 23:55:39 2015: 21 seconds
+kbproto-1.0.7: Thu Mar  3 20:51:54 2016: 16 seconds
+kbproto-1.0.7: Mon Mar  7 00:16:46 2016: 20 seconds
+kbproto-1.0.7: Mon Mar  7 01:51:26 2016: 13 seconds
+kbproto-1.0.7: Mon Mar  7 12:45:58 2016: 19 seconds
+kbproto-1.0.7: Mon Mar  7 16:27:01 2016: 13 seconds
+kbproto-1.0.7: Mon Mar  7 17:54:57 2016: 19 seconds
+kbproto-1.0.7: Mon Mar  7 21:26:24 2016: 13 seconds
+kbproto-1.0.7: Sun Mar 13 01:30:34 2016: 13 seconds
+presentproto-1.0: Fri Aug 28 17:10:12 2015: 8 seconds
+presentproto-1.0: Fri Aug 28 21:47:40 2015: 11 seconds
+presentproto-1.0: Sat Aug 29 00:48:50 2015: 11 seconds
+presentproto-1.0: Mon Mar  7 00:20:37 2016: 18 seconds
+presentproto-1.0: Mon Mar  7 01:53:38 2016: 12 seconds
+presentproto-1.0: Mon Mar  7 12:49:30 2016: 17 seconds
+presentproto-1.0: Mon Mar  7 16:29:14 2016: 12 seconds
+presentproto-1.0: Mon Mar  7 17:57:56 2016: 17 seconds
+presentproto-1.0: Mon Mar  7 21:28:36 2016: 13 seconds
+presentproto-1.0: Sun Mar 13 01:39:11 2016: 13 seconds
+randrproto-1.4.0-r1: Fri Aug 28 17:09:03 2015: 8 seconds
+randrproto-1.4.0-r1: Fri Aug 28 21:30:39 2015: 11 seconds
+randrproto-1.4.0-r1: Sat Aug 29 00:30:18 2015: 10 seconds
+randrproto-1.5.0: Thu Mar  3 20:54:28 2016: 12 seconds
+randrproto-1.5.0: Sun Mar 13 01:33:42 2016: 13 seconds
+recordproto-1.14.2-r1: Fri Aug 28 17:08:47 2015: 9 seconds
+recordproto-1.14.2-r1: Fri Aug 28 21:33:11 2015: 12 seconds
+recordproto-1.14.2-r1: Sat Aug 29 00:32:54 2015: 10 seconds
+recordproto-1.14.2-r1: Sun Mar 13 01:38:30 2016: 14 seconds
+renderproto-0.11.1-r1: Fri Aug 28 17:06:19 2015: 7 seconds
+renderproto-0.11.1-r1: Fri Aug 28 21:25:38 2015: 9 seconds
+renderproto-0.11.1-r1: Sat Aug 29 00:25:03 2015: 9 seconds
+renderproto-0.11.1-r1: Mon Mar  7 00:19:52 2016: 14 seconds
+renderproto-0.11.1-r1: Mon Mar  7 01:52:15 2016: 12 seconds
+renderproto-0.11.1-r1: Mon Mar  7 12:48:57 2016: 15 seconds
+renderproto-0.11.1-r1: Mon Mar  7 16:28:15 2016: 12 seconds
+renderproto-0.11.1-r1: Mon Mar  7 17:56:39 2016: 14 seconds
+renderproto-0.11.1-r1: Mon Mar  7 21:27:39 2016: 11 seconds
+renderproto-0.11.1-r1: Sun Mar 13 01:32:57 2016: 11 seconds
+resourceproto-1.2.0: Fri Aug 28 21:47:51 2015: 10 seconds
+resourceproto-1.2.0: Sat Aug 29 00:49:01 2015: 26 seconds
+resourceproto-1.2.0: Sun Mar 13 01:38:19 2016: 11 seconds
+scrnsaverproto-1.2.2-r1: Fri Aug 28 21:47:51 2015: 15 seconds
+scrnsaverproto-1.2.2-r1: Sat Aug 29 00:49:01 2015: 29 seconds
+scrnsaverproto-1.2.2-r1: Sun Mar 13 01:38:44 2016: 14 seconds
+trapproto-3.4.3: Fri Aug 28 22:15:37 2015: 20 seconds
+trapproto-3.4.3: Sat Aug 29 01:20:29 2015: 23 seconds
+trapproto-3.4.3: Sun Mar 13 01:41:06 2016: 9 seconds
+videoproto-2.3.2: Fri Aug 28 17:06:33 2015: 7 seconds
+videoproto-2.3.2: Fri Aug 28 21:28:35 2015: 9 seconds
+videoproto-2.3.2: Sat Aug 29 00:28:00 2015: 10 seconds
+videoproto-2.3.2: Mon Mar  7 00:19:35 2016: 17 seconds
+videoproto-2.3.2: Mon Mar  7 01:52:03 2016: 12 seconds
+videoproto-2.3.2: Mon Mar  7 12:48:40 2016: 17 seconds
+videoproto-2.3.2: Mon Mar  7 16:28:02 2016: 13 seconds
+videoproto-2.3.2: Mon Mar  7 17:56:21 2016: 18 seconds
+videoproto-2.3.2: Mon Mar  7 21:27:26 2016: 13 seconds
+videoproto-2.3.2: Sun Mar 13 01:32:36 2016: 21 seconds
+xcb-proto-1.11: Fri Aug 28 17:23:45 2015: 8 seconds
+xcb-proto-1.11: Fri Aug 28 21:47:53 2015: 16 seconds
+xcb-proto-1.11: Sat Aug 29 00:49:04 2015: 30 seconds
+xcb-proto-1.11: Mon Mar  7 00:18:43 2016: 18 seconds
+xcb-proto-1.11: Mon Mar  7 01:55:58 2016: 14 seconds
+xcb-proto-1.11: Mon Mar  7 12:47:50 2016: 17 seconds
+xcb-proto-1.11: Mon Mar  7 16:31:35 2016: 13 seconds
+xcb-proto-1.11: Mon Mar  7 18:01:30 2016: 17 seconds
+xcb-proto-1.11: Mon Mar  7 21:30:57 2016: 13 seconds
+xcb-proto-1.11: Sun Mar 13 02:51:40 2016: 13 seconds
+xcmiscproto-1.2.2: Fri Aug 28 22:15:41 2015: 26 seconds
+xcmiscproto-1.2.2: Sat Aug 29 01:20:30 2015: 26 seconds
+xcmiscproto-1.2.2: Sun Mar 13 01:41:29 2016: 13 seconds
+xextproto-7.3.0: Fri Aug 28 17:05:15 2015: 8 seconds
+xextproto-7.3.0: Fri Aug 28 20:46:39 2015: 10 seconds
+xextproto-7.3.0: Fri Aug 28 23:45:57 2015: 1 minute, 21 seconds
+xextproto-7.3.0: Mon Mar  7 00:16:26 2016: 20 seconds
+xextproto-7.3.0: Mon Mar  7 01:50:59 2016: 13 seconds
+xextproto-7.3.0: Mon Mar  7 12:45:40 2016: 18 seconds
+xextproto-7.3.0: Mon Mar  7 16:26:35 2016: 13 seconds
+xextproto-7.3.0: Mon Mar  7 17:54:22 2016: 18 seconds
+xextproto-7.3.0: Mon Mar  7 21:25:58 2016: 13 seconds
+xextproto-7.3.0: Sun Mar 13 01:29:57 2016: 13 seconds
+xf86bigfontproto-1.2.0-r1: Fri Aug 28 17:08:04 2015: 6 seconds
+xf86bigfontproto-1.2.0-r1: Fri Aug 28 22:23:50 2015: 1 minute, 0 seconds
+xf86bigfontproto-1.2.0-r1: Sat Aug 29 01:25:27 2015: 1 minute, 2 seconds
+xf86bigfontproto-1.2.0-r1: Mon Mar  7 00:17:45 2016: 11 seconds
+xf86bigfontproto-1.2.0-r1: Mon Mar  7 01:51:53 2016: 10 seconds
+xf86bigfontproto-1.2.0-r1: Mon Mar  7 12:46:53 2016: 11 seconds
+xf86bigfontproto-1.2.0-r1: Mon Mar  7 16:27:28 2016: 9 seconds
+xf86bigfontproto-1.2.0-r1: Mon Mar  7 17:55:36 2016: 12 seconds
+xf86bigfontproto-1.2.0-r1: Mon Mar  7 21:26:51 2016: 10 seconds
+xf86bigfontproto-1.2.0-r1: Sun Mar 13 01:35:27 2016: 10 seconds
+xf86dgaproto-2.1-r2: Fri Aug 28 21:43:31 2015: 12 seconds
+xf86dgaproto-2.1-r2: Sat Aug 29 00:44:00 2015: 17 seconds
+xf86dgaproto-2.1-r2: Sun Mar 13 01:37:43 2016: 12 seconds
+xf86driproto-2.1.1-r1: Fri Aug 28 17:10:20 2015: 7 seconds
+xf86driproto-2.1.1-r1: Fri Aug 28 21:43:38 2015: 11 seconds
+xf86driproto-2.1.1-r1: Sat Aug 29 00:44:02 2015: 18 seconds
+xf86driproto-2.1.1-r1: Mon Mar  7 00:21:12 2016: 15 seconds
+xf86driproto-2.1.1-r1: Mon Mar  7 01:53:14 2016: 12 seconds
+xf86driproto-2.1.1-r1: Mon Mar  7 12:50:04 2016: 14 seconds
+xf86driproto-2.1.1-r1: Mon Mar  7 16:28:40 2016: 10 seconds
+xf86driproto-2.1.1-r1: Mon Mar  7 17:57:10 2016: 14 seconds
+xf86driproto-2.1.1-r1: Mon Mar  7 21:28:02 2016: 11 seconds
+xf86driproto-2.1.1-r1: Sun Mar 13 01:37:55 2016: 12 seconds
+xf86rushproto-1.1.2-r1: Fri Aug 28 22:16:04 2015: 11 seconds
+xf86rushproto-1.1.2-r1: Sat Aug 29 01:20:33 2015: 29 seconds
+xf86rushproto-1.1.2-r1: Sun Mar 13 01:40:38 2016: 10 seconds
+xf86vidmodeproto-2.3.1-r1: Fri Aug 28 17:07:17 2015: 7 seconds
+xf86vidmodeproto-2.3.1-r1: Fri Aug 28 21:27:51 2015: 8 seconds
+xf86vidmodeproto-2.3.1-r1: Sat Aug 29 00:27:23 2015: 9 seconds
+xf86vidmodeproto-2.3.1-r1: Mon Mar  7 00:19:01 2016: 14 seconds
+xf86vidmodeproto-2.3.1-r1: Mon Mar  7 01:52:51 2016: 11 seconds
+xf86vidmodeproto-2.3.1-r1: Mon Mar  7 12:48:07 2016: 14 seconds
+xf86vidmodeproto-2.3.1-r1: Mon Mar  7 16:27:51 2016: 11 seconds
+xf86vidmodeproto-2.3.1-r1: Mon Mar  7 17:56:07 2016: 14 seconds
+xf86vidmodeproto-2.3.1-r1: Mon Mar  7 21:27:15 2016: 11 seconds
+xf86vidmodeproto-2.3.1-r1: Sun Mar 13 01:33:08 2016: 11 seconds
+xineramaproto-1.2.1-r1: Fri Aug 28 17:06:26 2015: 7 seconds
+xineramaproto-1.2.1-r1: Fri Aug 28 20:59:16 2015: 8 seconds
+xineramaproto-1.2.1-r1: Sat Aug 29 00:23:59 2015: 9 seconds
+xineramaproto-1.2.1-r1: Sun Mar 13 01:30:23 2016: 11 seconds
+xproto-7.0.27: Fri Aug 28 17:05:07 2015: 8 seconds
+xproto-7.0.27: Fri Aug 28 20:44:44 2015: 23 seconds
+xproto-7.0.27: Fri Aug 28 23:44:22 2015: 10 seconds
+xproto-7.0.28: Thu Mar  3 20:49:29 2016: 12 seconds
+xproto-7.0.28: Mon Mar  7 00:16:07 2016: 19 seconds
+xproto-7.0.28: Mon Mar  7 01:50:24 2016: 13 seconds
+xproto-7.0.28: Mon Mar  7 12:45:21 2016: 19 seconds
+xproto-7.0.28: Mon Mar  7 16:26:21 2016: 14 seconds
+xproto-7.0.28: Mon Mar  7 17:54:04 2016: 18 seconds
+xproto-7.0.28: Mon Mar  7 21:25:44 2016: 14 seconds
+xproto-7.0.28: Sun Mar 13 01:29:44 2016: 13 seconds
+rxvt-unicode-9.21: Fri Aug 28 22:32:35 2015: 46 seconds
+rxvt-unicode-9.21: Sat Aug 29 01:35:20 2015: 51 seconds
+rxvt-unicode-9.21: Sat Aug 29 15:39:56 2015: 23 seconds
+rxvt-unicode-9.21: Sat Aug 29 16:00:35 2015: 28 seconds
+rxvt-unicode-9.21: Sun Sep  6 21:17:45 2015: 24 seconds
+rxvt-unicode-9.21: Sun Mar 13 02:34:31 2016: 30 seconds
+xterm-314: Fri Aug 28 22:16:06 2015: 27 seconds
+xterm-314: Sat Aug 29 01:20:39 2015: 44 seconds
+xterm-314: Sun Aug 30 04:20:21 2015: 21 seconds
+xterm-314: Sun Aug 30 04:54:31 2015: 47 seconds
+xterm-320: Thu Mar  3 21:59:56 2016: 24 seconds
+xterm-320: Sun Mar 13 05:45:23 2016: 34 seconds
+adwaita-icon-theme-3.14.1-r1: Fri Aug 28 18:41:40 2015: 1 minute, 19 seconds
+adwaita-icon-theme-3.14.1-r1: Fri Aug 28 21:54:16 2015: 2 minutes, 12 seconds
+adwaita-icon-theme-3.14.1-r1: Sat Aug 29 00:55:54 2015: 2 minutes, 24 seconds
+adwaita-icon-theme-3.18.0: Thu Mar  3 23:33:35 2016: 2 minutes, 55 seconds
+adwaita-icon-theme-3.18.0: Sun Mar 13 05:56:17 2016: 3 minutes, 18 seconds
+faenza-icon-theme-1.3: Fri Aug 28 22:32:44 2015: 2 minutes, 57 seconds
+faenza-icon-theme-1.3: Sat Aug 29 01:35:21 2015: 2 minutes, 57 seconds
+faenza-icon-theme-1.3: Sun Mar 13 04:49:51 2016: 5 minutes, 6 seconds
+gnome-icon-theme-3.12.0: Fri Aug 28 22:16:12 2015: 1 minute, 49 seconds
+gnome-icon-theme-3.12.0: Sat Aug 29 01:20:52 2015: 1 minute, 41 seconds
+gnome-icon-theme-3.12.0: Sun Mar 13 04:36:21 2016: 1 minute, 36 seconds
+gnome-icon-theme-symbolic-3.12.0: Fri Aug 28 22:16:18 2015: 23 seconds
+gnome-icon-theme-symbolic-3.12.0: Sat Aug 29 01:21:18 2015: 27 seconds
+gnome-icon-theme-symbolic-3.12.0: Sun Mar 13 06:09:10 2016: 23 seconds
+hicolor-icon-theme-0.15: Fri Aug 28 16:57:49 2015: 15 seconds
+hicolor-icon-theme-0.15: Fri Aug 28 20:44:26 2015: 10 seconds
+hicolor-icon-theme-0.15: Fri Aug 28 23:44:55 2015: 10 seconds
+hicolor-icon-theme-0.15: Sun Mar 13 03:37:52 2016: 12 seconds
+sound-theme-freedesktop-0.8: Fri Aug 28 22:16:35 2015: 17 seconds
+sound-theme-freedesktop-0.8: Sat Aug 29 01:21:24 2015: 27 seconds
+sound-theme-freedesktop-0.8: Sun Mar 13 04:33:52 2016: 11 seconds
+xcursor-themes-1.0.4: Fri Aug 28 22:16:50 2015: 17 seconds
+xcursor-themes-1.0.4: Sat Aug 29 01:21:33 2015: 25 seconds
+xcursor-themes-1.0.4: Sun Mar 13 02:26:10 2016: 13 seconds
+xmonad-0.11-r1: Sat Aug 29 04:16:24 2015: 31 seconds
+xmonad-0.11-r1: Thu Mar  3 22:01:22 2016: 42 seconds
+xmonad-0.11-r1: Sun Mar 13 11:19:00 2016: 43 seconds
+xmonad-contrib-0.11.2: Sat Aug 29 04:16:55 2015: 1 minute, 45 seconds
+xmonad-contrib-0.11.2: Thu Mar  3 22:54:09 2016: 1 minute, 16 seconds
+xmonad-contrib-0.11.2: Sun Mar 13 11:19:43 2016: 1 minute, 20 seconds
+exo-0.10.6: Fri Aug 28 22:44:50 2015: 35 seconds
+exo-0.10.6: Sat Aug 29 01:47:15 2015: 57 seconds
+exo-0.10.6: Sun Mar 13 10:08:00 2016: 31 seconds
+garcon-0.5.0-r1: Fri Aug 28 22:45:52 2015: 39 seconds
+garcon-0.5.0-r1: Sat Aug 29 01:48:30 2015: 32 seconds
+garcon-0.5.0-r1: Sun Mar 13 10:09:48 2016: 23 seconds
+libxfce4ui-4.12.1-r2: Fri Aug 28 22:43:42 2015: 49 seconds
+libxfce4ui-4.12.1-r2: Sat Aug 29 01:45:55 2015: 38 seconds
+libxfce4ui-4.12.1-r2: Sun Sep  6 21:18:09 2015: 25 seconds
+libxfce4ui-4.12.1-r2: Sun Mar 13 09:53:08 2016: 29 seconds
+libxfce4util-4.12.1: Fri Aug 28 21:19:35 2015: 18 seconds
+libxfce4util-4.12.1: Sat Aug 29 00:18:38 2015: 20 seconds
+libxfce4util-4.12.1: Sun Mar 13 04:30:26 2016: 19 seconds
+thunar-1.6.10: Fri Aug 28 22:54:20 2015: 1 minute, 49 seconds
+thunar-1.6.10: Sat Aug 29 01:58:21 2015: 2 minutes, 0 seconds
+thunar-1.6.10: Sun Aug 30 21:11:52 2015: 41 seconds
+thunar-1.6.10: Sun Aug 30 21:21:49 2015: 50 seconds
+thunar-1.6.10: Sun Sep  6 18:39:43 2015: 44 seconds
+thunar-1.6.10: Sun Mar 13 10:13:55 2016: 54 seconds
+thunar-1.6.10: Mon Mar 28 21:58:44 2016: 54 seconds
+xfce4-panel-4.12.0: Fri Aug 28 22:46:41 2015: 1 minute, 31 seconds
+xfce4-panel-4.12.0: Sat Aug 29 01:54:46 2015: 1 minute, 8 seconds
+xfce4-panel-4.12.0: Sun Mar 13 10:11:19 2016: 1 minute, 17 seconds
+xfconf-4.12.0-r1: Fri Aug 28 21:23:40 2015: 26 seconds
+xfconf-4.12.0-r1: Sat Aug 29 00:22:48 2015: 33 seconds
+xfconf-4.12.0-r1: Sun Mar 13 05:37:17 2016: 25 seconds

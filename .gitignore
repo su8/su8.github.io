@@ -1,0 +1,4 @@
+dev/node_modules/
+dev/temp/
+npm-debug.log
+dev/npm-debug.log

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="./xml/xml-stylesheet.css" ?>
+<rss version="2.0">
+  <channel>
+    <title>Linux Blog</title>
+    <link>https://wifiextender.github.io</link>
+    <description>Useful Linux Tips</description>
+    <item>
+      <title>Refresh the page</title>
+      <link>https://wifiextender.github.io</link>
+      <description>Refresh the page</description>
+    </item>
+  </channel>
+</rss>
