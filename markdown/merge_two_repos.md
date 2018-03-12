@@ -10,7 +10,9 @@ git clone https://github.com/user/repo2
 
 cd repo2
 git remote set-url origin https://github.com/user/repo1.git
+mv .git ..
 rm -rf ./*
+mv ../.git .
 
 git fetch --all
 git add -A
