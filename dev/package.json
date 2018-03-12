@@ -12,6 +12,7 @@
     "uglify-js": "latest",
     "html-minifier": "latest",
     "clean-css": "latest",
+    "clean-css-cli": "latest",
     "showdown": "latest",
     "watch": "latest",
     "http-server": "latest",

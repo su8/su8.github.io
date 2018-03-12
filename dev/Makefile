@@ -17,10 +17,10 @@ minShowdown:
 		'../node_modules/showdown/dist/showdown.js' > ./showdown.min.js
 
 compileES6:
-	$(BIN)/rollup --format iife -- ${ARG1} | \
+	$(BIN)/rollup --output.format iife -- ${ARG1} | \
 		$(BIN)/babel --presets es2015 --plugins array-includes | \
 		$(TEMP)/uglifyjs --compress \
-		'unused=false,loops=false' --mangle - > ${ARG2}
+		'unused=false,loops=false' --mangle > ${ARG2}
 
 build:
 	$(TEMP)/uglifyjs --compress 'unused=false,loops=false' --mangle -- \
