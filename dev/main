@@ -22,7 +22,6 @@
 # utilizing all of the CPU cores
 
 _minify_html() {
-    mkdir -p --mode=700 '/tmp/myblog'
     theme=$(cat ./temp/highlight.js-master/src/styles/agate.css \
       /tmp/cyborg.css | ./temp/cleancss -O0)
     hljsTheme=$(echo ${theme} | perl -Mstrict -Mwarnings -pe 's|\n| |g')
