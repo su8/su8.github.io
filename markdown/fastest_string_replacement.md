@@ -41,6 +41,9 @@ time ruby -pe "gsub(/sup machine/, 'hello world')" document2>>dummy5
 
 # php
 time php main.php >> dummy6
+
+# javascript
+time node main.js >> dummy7
 ```
 
 Javascript:
