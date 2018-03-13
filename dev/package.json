@@ -28,7 +28,7 @@
     "setup": "chmod +x main; ./main 'setup'",
     "build": "./main 'build'",
     "clean": "./main 'clean'",
-    "build:watch": "watch 'npm run build' src",
+    "build:watch": "node_modules/.bin/watch 'npm run build' src",
     "devel": "npm run build:watch & http-server .. -c5 -p 8000"
   }
 }
