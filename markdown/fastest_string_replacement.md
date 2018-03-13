@@ -10,6 +10,7 @@ Benchmarking how fast the string replacement on a huge file among several progra
 | 3  | sed     | 7m56.382s |
 | 4  | perl    | 2m6.496s  |
 | 5  | gawk    | 1m59.993s |
+| 6  | ruby    | 5m45.179s |
 
 
 And the used commands:
@@ -32,4 +33,7 @@ time perl -pe 's|sup machine|hello world|g' document2 >>dummy4
 # sed
 cp document2 document3
 time sed -i 's|sup machine|hello world|g' document3
+
+# ruby
+time ruby -pe "gsub(/sup machine/, 'hello world')" document2>>dummy5
 ```
