@@ -13,6 +13,7 @@ Benchmarking how fast the string replacement on a huge file among several progra
 | 6  | ruby       | 5m45.179s  |
 | 7  | javascript | 25m28.716s |
 | 8  | go         | 8m32.207s  |
+| 9  | php        | 7m0.795s   |
 
 And the used commands:
 
@@ -37,6 +38,9 @@ time sed -i 's|sup machine|hello world|g' document3
 
 # ruby
 time ruby -pe "gsub(/sup machine/, 'hello world')" document2>>dummy5
+
+# php
+time php main.php >> dummy6
 ```
 
 Javascript:
@@ -74,5 +78,11 @@ func main() {
     str := fileScanner.Text()
 		fmt.Println(strings.Replace(str,"sup machine","hello world",-1))
 	}
+}
+```
+
+```php
+foreach (new SplFileObject("document2") as $line) {
+    echo str_replace("sup machine", "hello world", $line);
 }
 ```
