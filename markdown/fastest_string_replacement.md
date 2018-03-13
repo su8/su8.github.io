@@ -81,6 +81,8 @@ func main() {
 }
 ```
 
+PHP:
+
 ```php
 foreach (new SplFileObject("document2") as $line) {
     echo str_replace("sup machine", "hello world", $line);
