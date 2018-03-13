@@ -108,7 +108,8 @@
 ["kernel_misc","A few kernel tips","July 28,2016",""],
 ["merge_refusal","Git: Merge unrelated histories","March 11,2018",""],
 ["benchmark_terminal","Benchmark the terminal","March 11,2018",""],
-["merge_two_repos","Merging the histories of repositories","March 11,2018",""]
+["merge_two_repos","Merging the histories of repositories","March 11,2018",""],
+["fastest_string_replacement","Fastest string replacement","March 13,2018",""]
 
     ];
 

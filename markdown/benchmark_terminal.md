@@ -1,7 +1,7 @@
 
 ---
 
-Simple way to benchmark how fast your terminal rendering:
+Simple way to benchmark how fast your terminal rendering is:
 
 ```bash
 # wait 3 seconds and press CTRL + C
