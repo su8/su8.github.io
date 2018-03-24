@@ -110,7 +110,8 @@
 ["benchmark_terminal","Benchmark the terminal","March 11,2018",""],
 ["merge_two_repos","Merging the histories of repositories","March 11,2018",""],
 ["fastest_string_replacement","Fastest string replacement","March 13,2018",""],
-["clone_all_github_repos","Clone all of your GitHub repos","March 21,2018",""]
+["clone_all_github_repos","Clone all of your GitHub repos","March 21,2018",""],
+["gentoo_misc","Gentoo misc","March 24,2018","Gentoo"]
 
     ];
 
