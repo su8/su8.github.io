@@ -20,7 +20,6 @@ var redirect = '<meta http-equiv="refresh" content="0; url=' + webPage + '/">';
 var rssContentType = 'application/rss+xml, application/rdf+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8; charset=utf-8';
 var filesToCache = [
     './index.html',
-    './js/config.js',
     './js/blog-engine.min.js',
     './js/post-engine.min.js',
     './img/icons/icon.ico',
