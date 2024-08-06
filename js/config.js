@@ -113,7 +113,8 @@
 ["clone_all_github_repos","Clone all of your GitHub repos","March 21,2018",""],
 ["gentoo_misc","Gentoo misc","March 24,2018","Gentoo"],
 ["nginx_serve","Simple web server","March 25,2018",""],
-["imback","I'm back after missing for 4 years","August 06,2024",""]
+["imback","I'm back after missing for 4 years","August 06,2024",""],
+["laptop","My Windows Laptop dual booting with Manjaro","August 06,2024",""]
 
     ];
 
