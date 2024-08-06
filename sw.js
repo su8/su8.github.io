@@ -14,7 +14,7 @@
 /* Port to es6 when most browsers support native es6
    Mobile debugging chrome://serviceworker-internals/ */
 
-var expectedCache = '7.0.0.38.3.5.7.12.13.0';
+var expectedCache = '7.0.0.38.3.5.7.12.13.00.7';
 var webPage = 'https://wifiextender.github.io';
 var redirect = '<meta http-equiv="refresh" content="0; url=' + webPage + '/">';
 var rssContentType = 'application/rss+xml, application/rdf+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8; charset=utf-8';
