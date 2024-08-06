@@ -3,7 +3,7 @@
 
 I'm back after 4 years dating back to 2018 and having only my phone and tablet I barely made any programs.
 
-On May 24, 2022 I created https://github.com/su8/hackzy which was written up until the 59th commit, afterwards the game is written from my brand new windows laptop.
+On May 24, 2022 I created https://github.com/su8/hackzy which was written by my tablet up until the 59th commit, afterwards the game is written from my brand new windows laptop.
 
 On Nov 1, 2022 I created https://github.com/su8/kurger which all I had to do is to port it from https://github.com/su8/pdf2img-c. The C version is using gtk3 and the kurger one is using Qt. Ported it to windows too.
 
