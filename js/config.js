@@ -1,7 +1,7 @@
 (function(w) {
-    'use strict';
+  'use strict';
 
-    var metaPool = [
+  var metaPool = [
 ["firewall1","Firewall - IPTables","January 21, 2013",""],
 ["install-and-configure-vpn-ssh-tunneling","How to install and configure VPN network and SSH tunneling","June 06, 2013",""],
 ["set-up-local-proxy-server-to-filter-all-traffic","Set up local proxy server which will filter all the traffic","June 25, 2013",""],
@@ -114,16 +114,17 @@
 ["gentoo_misc","Gentoo misc","March 24,2018","Gentoo"],
 ["nginx_serve","Simple web server","March 25,2018",""],
 ["imback","I'm back after missing for 4 years","August 06,2024",""],
-["laptop","My Windows Laptop dual booting with Manjaro","August 06,2024",""],
-["vscode","Setting up VSCode editor on Windows","August 06,2024",""]
+["laptop","My Windows Laptop dual booting with Manjaro","August 06,2024","Windows"],
+["vscode","Setting up VSCode editor on Windows","August 06,2024","Windows"],
+["switching_from_xmonad_to_hellxcb","Switching from xmonad to hellxcb","August 07,2024",""]
 
-    ];
+  ];
 
-    w.metaPool = Object.freeze(metaPool);
+  w.metaPool = Object.freeze(metaPool);
 
-    if ('serviceWorker' in navigator) {
-      if (!!navigator.serviceWorker.controller) {
-        navigator.serviceWorker.controller.postMessage(JSON.stringify(metaPool));
-      }
+  if ('serviceWorker' in navigator) {
+    if (!!navigator.serviceWorker.controller) {
+      navigator.serviceWorker.controller.postMessage(JSON.stringify(metaPool));
     }
+  }
 }(window));
