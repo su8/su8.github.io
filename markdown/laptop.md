@@ -1,7 +1,7 @@
 
 ---
 
-![](img/file/laptop.png)
+![](img/file/dual_boot/laptop.png)
 
 I dual boot Windows 11 from time to time with Manjaro. Because I can't make X11 to work in Windows. The MS Visual Studio Code Editor is too complicated and I haven't played around too much with the settings of this great code editor.
 

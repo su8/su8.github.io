@@ -1,7 +1,7 @@
 
 ---
 
-![](img/file/swtiching_from_xmonad_to_hellxcb.png)
+![](img/file/xmonad_to_hellxcb/swtiching_from_xmonad_to_hellxcb.png)
 
 Just found out that there are monsterwm and monsterwm-xcb and forked them, actually I forked many window managers and the one that catched my eye was FrankenWM and forked it and renamed my fork to frincklewm, and couple hours later I decided to give monsterwm-xcb a try and suited my needs pretty well and this will be my daily driver for now. 
 
