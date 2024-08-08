@@ -1,9 +1,9 @@
 
 ---
 
-If you want to create a `for` or `while` loop that will parse your input and the code must match it, you are probably using `if` statemnts.
+If you want to create a `for` or `while` loop that will parse your input and the code must match it, you are probably using `if` statements.
 
-But here we go, our scenario is to match input string and launch function to this match.
+But here we go, our scenario is to match the input string and launch function to this match.
 
 Here's what you probably going to do.
 
@@ -12,10 +12,10 @@ Here's what you probably going to do.
 #include <stdlib.h>
 #include <string.h>
 
-if (!strcmp()inputStr, "hack"){
+if (!strcmp(inputStr), "hack"){
   ...
 }
-else if (!strcmp(inputStr, "crush)) {
+else if (!strcmp(inputStr), "crush")) {
   ...
 }
 ```
@@ -25,6 +25,10 @@ A lot of **if** and **else if** ... we can do better than this.
 Declare them globally.
 
 ```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
 struct Opt
 {
     const char *cmd;
@@ -40,6 +44,7 @@ static const struct Opt opt[] = {
 
 /* And somewhere in your `main' or other function */
 int main(int argc, char *argv[]) {
+  unsigned int x = 0U;
   const char *buf = "Hello World";
   for (x = 0U; x < sizeof(opt) / sizeof(opt[0]); x++)
   {
@@ -52,7 +57,8 @@ int main(int argc, char *argv[]) {
 
   if (matchCmd == 0)
   {
-    puts();
+    puts("Nothing found your match.");
+    return EXIT_FAILURE;
   }
 
   /* and here's how to launch the desired function according to the match */
