@@ -118,8 +118,9 @@
 ["vscode","Setting up VSCode editor on Windows","August 06,2024","Windows"],
 ["switching_from_xmonad_to_hellxcb","Switching from xmonad to hellxcb","August 07,2024",""],
 ["blogstatus","The blog was unreachble for 5 years","August 08,2024",""],
-["useful_make_flags","Using \"make\" flags to compile them","August 08,2024",""],
-["using_arrays_in_c","Using struct array of functions","August 08,2024",""]
+["useful_make_flags","Using \"make\" flags to compile them","August 08,2024","C"],
+["using_arrays_in_c","Using struct array of functions","August 08,2024","C"],
+["using_many_args_to_function","Using many arguments to function","August 08,2024","C"]
 
   ];
 
