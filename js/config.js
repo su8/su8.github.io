@@ -121,7 +121,8 @@
 ["useful_make_flags","Using \"make\" flags to compile them","August 08,2024","Clang"],
 ["using_arrays_in_c","Using struct array of functions","August 08,2024","Clang"],
 ["using_many_args_to_function","Using many arguments to function","August 08,2024","Clang"],
-["token_concatenation","Token concatenation","August 09,2024","Clang"]
+["token_concatenation","Token concatenation","August 09,2024","Clang"],
+["fixing_bug_in_hellxcb","Fixing a bug in hellxcb","August 09,2024",""]
 
   ];
 
