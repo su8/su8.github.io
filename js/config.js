@@ -123,7 +123,8 @@
 ["using_many_args_to_function","Using many arguments to function","August 08,2024","Clang"],
 ["token_concatenation","Token concatenation","August 09,2024","Clang"],
 ["fixing_bug_in_hellxcb","Fixing a bug in hellxcb","August 09,2024",""],
-["screenfetch_c_contributions","Unmerged contributions to screenfetch-c","August 09,2024",""]
+["screenfetch_c_contributions","Unmerged contributions to screenfetch-c","August 09,2024",""],
+["hellxcb_cycle_mode","Cycling thru all hellxcb tiling modes","August 09,2024",""],
 
   ];
 
