@@ -1,7 +1,7 @@
 
 ---
 
-I have fixed flickering and freezing of floating programs such as Gimp as he tried to steal the focus with the Grid mode/layout su8/hellxcb@0cf2cc2
+I have fixed flickering and freezing of floating programs such as Gimp as he tried to steal the focus with the Grid mode/layout [su8/hellxcb@0cf2cc2](https://github.com/su8/hellxcb/commit/0cf2cc211d9380e344b5538f3cf9333d02838c36)
 
 ```c
 void grid(int hh, int cy) {
