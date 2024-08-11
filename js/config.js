@@ -125,7 +125,8 @@
 ["fixing_bug_in_hellxcb","Fixing a bug in hellxcb","August 09,2024",""],
 ["screenfetch_c_contributions","Unmerged contributions to screenfetch-c","August 09,2024",""],
 ["hellxcb_cycle_mode","Cycling thru all hellxcb tiling modes","August 09,2024",""],
-["hellxcb_grid_bug","Fixed one more bug in hellxcb","August 10,2024",""]
+["hellxcb_grid_bug","Fixed one more bug in hellxcb","August 10,2024",""],
+["hellxcb_move_resize_bug","Fixed anoter bug in hellxcb","August 11,2024",""]
 
   ];
 
