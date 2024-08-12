@@ -126,7 +126,8 @@
 ["screenfetch_c_contributions","Unmerged contributions to screenfetch-c","August 09,2024",""],
 ["hellxcb_cycle_mode","Cycling thru all hellxcb tiling modes","August 09,2024",""],
 ["hellxcb_grid_bug","Fixed one more bug in hellxcb","August 10,2024",""],
-["hellxcb_move_resize_bug","Fixed anoter bug in hellxcb","August 11,2024",""]
+["hellxcb_move_resize_bug","Fixed anoter bug in hellxcb","August 11,2024",""],
+["doomy","A statusline written in x11","August 12,2024",""]
 
   ];
 
