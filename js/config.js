@@ -128,7 +128,7 @@
 ["hellxcb_grid_bug","Fixed one more bug in hellxcb","August 10,2024","Hellxcb"],
 ["hellxcb_move_resize_bug","Fixed anoter bug in hellxcb","August 11,2024","Hellxcb"],
 ["doomy","A statusline written in x11","August 12,2024",""],
-["hellxcb_count_all_workspaces","hellxcb - count all windows in all tags","August 13,2024",""]
+["hellxcb_count_all_workspaces","hellxcb - count all windows in all tags","August 13,2024","Hellxcb"]
 
   ];
 
