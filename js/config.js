@@ -116,18 +116,19 @@
 ["imback","I'm back after missing for 6 years","August 06,2024",""],
 ["laptop","My Windows Laptop dual booting with Manjaro","August 06,2024","Windows"],
 ["vscode","Setting up VSCode editor on Windows","August 06,2024","Windows"],
-["switching_from_xmonad_to_hellxcb","Switching from xmonad to hellxcb","August 07,2024",""],
+["switching_from_xmonad_to_hellxcb","Switching from xmonad to hellxcb","August 07,2024","Hellxcb"],
 ["blogstatus","The blog was unreachble for 5 years","August 08,2024",""],
 ["useful_make_flags","Using \"make\" flags to compile them","August 08,2024","Clang"],
 ["using_arrays_in_c","Using struct array of functions","August 08,2024","Clang"],
 ["using_many_args_to_function","Using many arguments to function","August 08,2024","Clang"],
 ["token_concatenation","Token concatenation","August 09,2024","Clang"],
-["fixing_bug_in_hellxcb","Fixing a bug in hellxcb","August 09,2024",""],
+["fixing_bug_in_hellxcb","Fixing a bug in hellxcb","August 09,2024","Hellxcb"],
 ["screenfetch_c_contributions","Unmerged contributions to screenfetch-c","August 09,2024",""],
-["hellxcb_cycle_mode","Cycling thru all hellxcb tiling modes","August 09,2024",""],
-["hellxcb_grid_bug","Fixed one more bug in hellxcb","August 10,2024",""],
-["hellxcb_move_resize_bug","Fixed anoter bug in hellxcb","August 11,2024",""],
-["doomy","A statusline written in x11","August 12,2024",""]
+["hellxcb_cycle_mode","Cycling thru all hellxcb tiling modes","August 09,2024","Hellxcb"],
+["hellxcb_grid_bug","Fixed one more bug in hellxcb","August 10,2024","Hellxcb"],
+["hellxcb_move_resize_bug","Fixed anoter bug in hellxcb","August 11,2024","Hellxcb"],
+["doomy","A statusline written in x11","August 12,2024",""],
+["hellxcb_count_all_workspaces","hellxcb - count all windows in all tags","August 13,2024",""]
 
   ];
 
