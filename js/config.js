@@ -129,7 +129,8 @@
 ["hellxcb_move_resize_bug","Fixed anoter bug in hellxcb","August 11,2024","Hellxcb"],
 ["doomy","A statusline written in x11","August 12,2024",""],
 ["hellxcb_count_all_workspaces","hellxcb - count all windows in all tags","August 13,2024","Hellxcb"],
-["argp_array","Use one array with <argp.h>","August 14,2024","Clang"]
+["argp_array","Use one array with argp.h","August 14,2024","Clang"],
+["argp_config","argp.h use config file to read from","August 14,2024","Clang"]
 
   ];
 
