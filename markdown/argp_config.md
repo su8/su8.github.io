@@ -146,6 +146,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
+`YOUR_CONFIG.txt`
 
 ```bash
 --shell echo "three four "
