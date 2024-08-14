@@ -15,4 +15,4 @@ Here was what the bug looked like.
 
 ![](img/file/fixing_hellxcb_bug/3.png)
 
-I have fixed it in - https://github.com/su8/hellxcb/commit/5b91d54be7fbd8d195d462428eaaeb4cc8a2832f  , https://github.com/su8/hellxcb/commit/0c1b4f8def3c30e1cb25ae8b09a619cdfb65274a commits.
+I have fixed it in - [link1](https://github.com/su8/hellxcb/commit/5b91d54be7fbd8d195d462428eaaeb4cc8a2832f)  , [link2](https://github.com/su8/hellxcb/commit/0c1b4f8def3c30e1cb25ae8b09a619cdfb65274a) commits.
