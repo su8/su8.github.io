@@ -24,4 +24,6 @@ sudo systemctl disable plymouth.service
 sudo systemctl disable plymouth-quit.service
 ```
 
-![](img/file/archkernel.png)
+There it is, nuked the `Manjaro` repos and updated my system with the `Archlinux` packages. Then downloaded the new `kernel` and now I have true `Archlinux` experience.
+
+![](img/file/archiso/archkernel.png)
