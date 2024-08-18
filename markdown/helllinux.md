@@ -9,11 +9,15 @@ Here's the kernel itself - ![](img/file/helllinux/pic.png)
 
 ```bash
 git clone https://github.com/su8/hellLinux
-cd src
+cd hellLinux/src
 chmod +x *.sh
 
 #  grab some coffee and wait til it finishes
 ./build_minimal_linux_live.sh
+find . -type f -name 02_build.sh | xargs chmod +x
+find . -type f -name 02_install.sh | xargs chmod +x
+find . -type f -name 01_get.sh | xargs chmod +x
+chmod +x minimal_overlay/bundles/make/bundle.sh
 ./qemu-bios.sh
 
 # to install it in a file:
