@@ -5,7 +5,7 @@ I have forked minimal linux live and named my fork Hell Linux - https://github.c
 
 It comes with busybox 1.35.0, linux kernel 6.6.1, glibc 2.40.
 
-Here's the kernel itself - ![](img/file/helllinux/pic.png)
+Here's the kernel itself - ![](img/file/helllinux/hell.png)
 
 ```bash
 git clone https://github.com/su8/hellLinux
