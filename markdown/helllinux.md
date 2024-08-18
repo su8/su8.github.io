@@ -24,3 +24,15 @@ sudo ./generate_hdd.sh -s 100MB
 ./write_to_media.sh hdd.img
 qemu-system-x86_x64 -m 128M -hda hdd.img -boot d -vga std
 ```
+
+If you get **/dev/tty{2,3,4} No such file or directory** 
+
+![](img/file/helllinux/devtty.png)
+
+```bash
+# everytime you boot yor distro
+touch /dev/tty1
+touch /dev/tty2
+touch /dev/tty3
+touch /dev/tty4
+```
