@@ -16,3 +16,5 @@ sudo mkarchiso -v -w archlive -o . archlive/
 # if running the same above command again:
 sudo rm -rf archlive/x86_64/airootfs/lib/modules/6.10.5-arch-1/
 ```
+
+![](img/file/archkernel.png)
