@@ -17,7 +17,6 @@ chmod +x *.sh
 find . -type f -name 02_build.sh | xargs chmod +x
 find . -type f -name 02_install.sh | xargs chmod +x
 find . -type f -name 01_get.sh | xargs chmod +x
-chmod +x minimal_overlay/bundles/make/bundle.sh
 ./qemu-bios.sh
 
 # to install it in a file:
