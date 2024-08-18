@@ -15,6 +15,13 @@ sudo mkarchiso -v -w archlive -o . archlive/
 
 # if running the same above command again:
 sudo rm -rf archlive/x86_64/airootfs/lib/modules/6.10.5-arch-1/
+
+# These are for Manjaro only
+sudo systemctl disable plymouth-read-write.service
+sudo systemctl disable plymouth-quit-wait.service
+sudo systemctl disable plymouth-start.service
+sudo systemctl disable plymouth.service
+sudo systemctl disable plymouth-quit.service
 ```
 
 ![](img/file/archkernel.png)
