@@ -134,7 +134,8 @@
 ["va_args","VA_ARGS and ... and how to use them","August 15,2024","clang"],
 ["archiso","Archiso to create custom .iso","August 18,2024","archlinux"],
 ["helllinux","My custom made Hell Linux distro","August 18,2024",""],
-["debootstrap","The Debian debootstrap","August 19,2024",""]
+["debootstrap","The Debian debootstrap","August 19,2024",""],
+["netbsd","The ghost lag in NetBSD","August 19,2024","bsd,hellxcb"]
 
   ];
 
