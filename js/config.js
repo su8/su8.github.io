@@ -136,7 +136,8 @@
 ["helllinux","My custom made Hell Linux distro","August 18,2024",""],
 ["debootstrap","The Debian debootstrap","August 19,2024",""],
 ["netbsd","The ghost lag in NetBSD","August 19,2024","bsd"],
-["gentoo_install2","Back using Gentoo - install it","August 20,2024","gentoo"]
+["gentoo_install2","Back using Gentoo - install it","August 20,2024","gentoo"],
+["skilcrypt","The skilcrypt","August 22,2024",""],
 
   ];
 
