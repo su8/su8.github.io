@@ -145,7 +145,9 @@
 ["kblayout","Query Xorg for the keyboard layout","August 23,2024","clang"],
 ["numcaps","Query Xorg for num caps scroll lock","August 23,2024","clang"],
 ["mousepercent","Query Xorg for the mouse speed","August 23,2024","clang"],
-["retip","Get your public ip from C","August 23,2024","clang"]
+["retip","Get your public ip from C","August 23,2024","clang"],
+["shufi","Generate random permutations ","August 23,2024","clang"],
+["sortique","Sort inverse or reverse file","August 23,2024","clang"]
 
   ];
 
