@@ -138,6 +138,9 @@
 ["netbsd","The ghost lag in NetBSD","August 19,2024","bsd"],
 ["gentoo_install2","Back using Gentoo - install it","August 20,2024","gentoo"],
 ["skilcrypt","The skilcrypt","August 22,2024",""],
+["ping_website","Ping and measure the roundtrip time","August 23,2024","clang"],
+["reddit","Count the unread reddit notif.","August 23,2024","clang"],
+["gmail","Count the unread emails","August 23,2024","clang"],
 
   ];
 
