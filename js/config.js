@@ -141,7 +141,12 @@
 ["ping_website","Ping and measure the roundtrip time","August 23,2024","clang"],
 ["reddit","Count the unread reddit notif.","August 23,2024","clang"],
 ["gmail","Count the unread emails","August 23,2024","clang"],
-["github","Count the unread Github notif.","August 23,2024","clang"]
+["github","Count the unread Github notif.","August 23,2024","clang"],
+["numcaps","Query Xorg and get the state...","August 23,2024","clang"],
+["kblayout","Query Xorg for the keyboard layout","August 23,2024","clang"],
+["numcaps","Query Xorg for numcapsscrollock","August 23,2024","clang"],
+["mousepercent","Query Xorg for the mouse speed","August 23,2024","clang"],
+["retip","Get your public ip from C","August 23,2024","clang"]
 
   ];
 
