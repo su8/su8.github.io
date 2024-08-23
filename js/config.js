@@ -141,6 +141,7 @@
 ["ping_website","Ping and measure the roundtrip time","August 23,2024","clang"],
 ["reddit","Count the unread reddit notif.","August 23,2024","clang"],
 ["gmail","Count the unread emails","August 23,2024","clang"],
+["github","Count the unread Github notif.","August 23,2024","clang"]
 
   ];
 
