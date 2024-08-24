@@ -147,7 +147,20 @@
 ["mousepercent","Query Xorg for the mouse speed","August 23,2024","clang"],
 ["retip","Get your public ip from C","August 23,2024","clang"],
 ["shufi","Generate random permutations ","August 23,2024","clang"],
-["sortique","Sort inverse or reverse file","August 23,2024","clang"]
+["sortique","Sort inverse or reverse file","August 23,2024","clang"],
+["basename","Basename in C","August 24,2024","clang"],
+["cat","Cat in C","August 24,2024","clang"],
+["dirame","Dirname in C","August 24,2024","clang"],
+["false","False in C","August 24,2024","clang"],
+["getavgload","Get average load in C","August 24,2024","clang"],
+["head","Head in C","August 24,2024","clang"],
+["hostname","Hostname in C","August 24,2024","clang"],
+["tac","Tac in C","August 24,2024","clang"],
+["tail","Tail in C","August 24,2024","clang"],
+["true","True in C","August 24,2024","clang"],
+["uname","Uname in C","August 24,2024","clang"],
+["yes","Yes in C","August 24,2024","clang"],
+["uptime","Uptime in C","August 24,2024","clang"]
 
   ];
 
