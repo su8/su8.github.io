@@ -150,7 +150,7 @@
 ["sortique","Sort inverse or reverse file","August 23,2024","clang"],
 ["basename","Basename in C","August 24,2024","clang"],
 ["cat","Cat in C","August 24,2024","clang"],
-["dirame","Dirname in C","August 24,2024","clang"],
+["dirname","Dirname in C","August 24,2024","clang"],
 ["false","False in C","August 24,2024","clang"],
 ["getavgload","Get average load in C","August 24,2024","clang"],
 ["head","Head in C","August 24,2024","clang"],
