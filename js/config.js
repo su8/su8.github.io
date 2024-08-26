@@ -160,7 +160,8 @@
 ["true","True in C","August 24,2024","clang"],
 ["uname","Uname in C","August 24,2024","clang"],
 ["yes","Yes in C","August 24,2024","clang"],
-["uptime","Uptime in C","August 24,2024","clang"]
+["uptime","Uptime in C","August 24,2024","clang"],
+["linux33","Happy 33rd birthday Linux","August 26,2024",""]
 
   ];
 
