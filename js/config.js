@@ -161,7 +161,9 @@
 ["uname","Uname in C","August 24,2024","clang"],
 ["yes","Yes in C","August 24,2024","clang"],
 ["uptime","Uptime in C","August 24,2024","clang"],
-["linux33","Happy 33rd birthday Linux","August 26,2024",""]
+["linux33","Happy 33rd birthday Linux","August 26,2024",""],
+["urxvt_encrypt","Third urxvt extensions","August 27,2024",""],
+["urxvt_man2pdf","Second urxvt extensions revisited","August 27,2024",""]
 
   ];
 
