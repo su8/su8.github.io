@@ -164,7 +164,9 @@
 ["linux33","Happy 33rd birthday Linux","August 26,2024",""],
 ["urxvt_encrypt","Third urxvt extensions","August 27,2024",""],
 ["urxvt_man2pdf","Second urxvt extensions revisited","August 27,2024",""],
-["expanding_luks","Expanding encrypted container","August 27,2024",""]
+["expanding_luks","Expanding encrypted container","August 27,2024",""],
+["pylogin","Login module for your app","August 28,2024",""],
+["pacman_log_search","Pacman log searching","August 28,2024",""]
 
   ];
 

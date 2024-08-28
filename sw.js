@@ -14,7 +14,7 @@
 /* Port to es6 when most browsers support native es6
    Mobile debugging chrome://serviceworker-internals/ */
 
-   var expectedCache = '7.0.1.2';
+   var expectedCache = '7.0.1.2.1.2.3.4.5';
    var webPage = 'https://su8.github.io';
    var redirect = '<meta http-equiv="refresh" content="0; url=' + webPage + '/">';
    var rssContentType = 'application/rss+xml, application/rdf+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8; charset=utf-8';
