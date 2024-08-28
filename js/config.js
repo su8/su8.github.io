@@ -169,7 +169,8 @@
 ["pacman_log_search","Pacman log searching","August 28,2024",""],
 ["blk","Backup like king","August 28,2024",""],
 ["konvert","The konvert program","August 28,2024",""],
-["timeset-c","The timeset-c program","August 28,2024","clang"]
+["timeset-c","The timeset-c program","August 28,2024","clang"],
+["hellphyze","The hellphyze program","August 28,2024",""],
 
   ];
 
