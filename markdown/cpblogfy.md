@@ -62,7 +62,8 @@ int main (void) {
     snprintf(buf, sizeof(buf) - 1, "generated/%s", dir);
     if (stat(buf, &st) == -1) mkdir(buf, 0700);
 
-    snprintf(buf, sizeof(buf) - 1, "pandoc -s -f markdown -t html5 -o generated/%s/index.html -c style.css markdown/%s --metadata title='%s'", dir, entry->d_name, dir);
+    //snprintf(buf, sizeof(buf) - 1, "pandoc -s -f markdown -t html5 -o generated/%s/index.html -c style.css markdown/%s --metadata title='%s'", dir, entry->d_name, dir);
+    snprintf(buf, sizeof(buf) - 1, "md2html markdown/%s --output=generated/%s/index.html", entry->d_name, dir);
     system(buf);
     buf[0] = '\0';
     dir[0] = '\0';
@@ -75,7 +76,6 @@ int main (void) {
 err:
   return EXIT_FAILURE;
 }
-
 ```
 
 And here is the `pblogfy.pl` code:
