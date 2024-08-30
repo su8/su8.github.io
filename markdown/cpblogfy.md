@@ -203,9 +203,9 @@ int main(void) {
     char genEntryDir[4096] = {'\0'};
     char writeToIndex[4096] = {'\0'};
     snprintf(genEntryDir, sizeof(genEntryDir) - 1, "generated/%s", dir_entry.path().filename().string().c_str());
-    snprintf(writeToIndex, sizeof(writeToIndex) - 1, "%s/index.html", genEntryDir);
     std::string mdEntry = std::regex_replace(genEntryDir, std::regex(".md"), "");
     std::filesystem::create_directories(mdEntry);
+    snprintf(writeToIndex, sizeof(writeToIndex) - 1, "%s/index.html", mdEntry.c_str());
 
     std::string openMd = "markdown/" + dir_entry.path().filename().string(); 
     std::ifstream openUpEntry(openMd);
@@ -213,16 +213,8 @@ int main(void) {
     std::ofstream outdata;
     if(openUpEntry.is_open()) {
       strStream << openUpEntry.rdbuf();
-      char *ptr = writeToIndex;
-      char buf2[4096] = {'\0'};
-      char *bufPtr = buf2;
-      for (; *ptr; ptr++) {
-        if (*ptr == '.' && *(ptr + 1) == 'm') { ptr++; ptr++; continue; }
-        *bufPtr++ = *ptr;
-      }
-      *bufPtr = '\0';
-      puts(buf2);
-      outdata.open(buf2);
+	    puts(writeToIndex);
+      outdata.open(writeToIndex);
       if (!outdata) { puts("Could not open file for writing."); break; }
       outdata << mdToHtml(strStream.str()) << std::endl;
       outdata.close();
