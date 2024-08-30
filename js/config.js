@@ -171,7 +171,8 @@
 ["konvert","The konvert program","August 28,2024",""],
 ["timeset-c","The timeset-c program","August 28,2024","clang"],
 ["hellphyze","The hellphyze program","August 28,2024",""],
-["cpblogfy","cblogfy, pblogfy and bblogfy","August 29,2024",""]
+["cpblogfy","cblogfy, pblogfy and bblogfy","August 29,2024",""],
+["yepstat","yepstat","August 30,2024",""]
 
   ];
 
