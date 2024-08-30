@@ -184,68 +184,6 @@ And here is `cppblogfy`:
 
 std::string mdToHtml(const std::string &mdInput);
 
-int main(void) {
-  DIR *dp = NULL;
-  char buf[4096] = {""};
-  char dir[4096] = {""};
-  char *dirPtr = dir;
-  struct stat st = {0};
-  struct dirent *entry = NULL;     
-
-  if (NULL == (dp = opendir("markdown"))){
-    goto err;
-  }
-  snprintf(buf, sizeof(buf) - 1, "generated");
-  if (stat(buf, &st) == -1) mkdir(buf, 0700);
-
-  while ((entry = readdir(dp))) {
-    if (*(entry->d_name) == '.') continue;
-
-    dirPtr = dir;
-    for (char *entryPtr = entry->d_name; *entryPtr; entryPtr++) {
-      if (*entryPtr == '.' && *(entryPtr+1) == 'm') break;
-      *dirPtr++ = *entryPtr;
-    }
-    *dirPtr = '\0';
-
-    snprintf(buf, sizeof(buf) - 1, "generated/%s", dir);
-    if (stat(buf, &st) == -1) mkdir(buf, 0700);
-
-    snprintf(buf, sizeof(buf) - 1, "markdown/%s", entry->d_name);
-
-    FILE *stream = fopen(buf, "rb");
-    char *contents = "";
-    long int fileSize = 0L;
-    fseek(stream, 0L, SEEK_END);
-    fileSize = ftell(stream);
-    fseek(stream, 0L, SEEK_SET);
-    contents = static_cast<char *>(malloc(5 * (fileSize + 1)));
-    size_t size = fread(contents, 1, fileSize, stream);
-    contents[size] = '\0'; 
-    snprintf(buf, sizeof(buf) - 1, "generated/%s/index.html", dir);
-    FILE *fp = fopen(buf, "w");
-    if (!fp) {
-      fclose(stream);
-      free(contents);
-      goto err;
-    }
-    fprintf(fp, "%s", mdToHtml(static_cast<std::string>(contents)).c_str());
-    fclose(fp);
-    fclose(stream);
-    free(contents);
-
-    buf[0] = '\0';
-    dir[0] = '\0';
-  }
-  if ((closedir(dp)) == -1) {
-    goto err;
-  }
-  return EXIT_SUCCESS;
- 
-err:
-  return EXIT_FAILURE;
-}
-
 std::string mdToHtml(const std::string &mdInput) {
     std::shared_ptr<maddy::ParserConfig> config = std::make_shared<maddy::ParserConfig>();
     std::istringstream markdownStream(mdInput);
@@ -254,7 +192,7 @@ std::string mdToHtml(const std::string &mdInput) {
     return htmlOutput;
 }
 
-/*int main(void) {
+int main(void) {
   const std::filesystem::path generated{"generated"};
   const std::filesystem::path mdSrc{"markdown"};
   std::filesystem::create_directories(generated);
@@ -275,9 +213,17 @@ std::string mdToHtml(const std::string &mdInput) {
     std::ofstream outdata;
     if(openUpEntry.is_open()) {
       strStream << openUpEntry.rdbuf();
-      //puts(writeToIndex);
-      outdata.open(writeToIndex);
-      if (!outdata) { puts("nope."); break; }
+      char *ptr = writeToIndex;
+      char buf2[4096] = {'\0'};
+      char *bufPtr = buf2;
+      for (; *ptr; ptr++) {
+        if (*ptr == '.' && *(ptr + 1) == 'm') { ptr++; ptr++; continue; }
+        *bufPtr++ = *ptr;
+      }
+      *bufPtr = '\0';
+      puts(buf2);
+      outdata.open(buf2);
+      if (!outdata) { puts("Could not open file for writing."); break; }
       outdata << mdToHtml(strStream.str()) << std::endl;
       outdata.close();
       
@@ -287,9 +233,9 @@ std::string mdToHtml(const std::string &mdInput) {
     writeToIndex[0] = '\0';
   }
 
-  std::cout << "Done\n" << std::flush;
+  puts("Done");
   return EXIT_SUCCESS;
-}*/
+}
 ```
 
 And here is the last, but not least `bblogfy`:
