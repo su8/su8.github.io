@@ -173,7 +173,8 @@
 ["hellphyze","The hellphyze program","August 28,2024",""],
 ["cpblogfy","cblogfy, pblogfy, bblogfy and cppblogfy","August 29,2024","clang"],
 ["yepstat","yepstat","August 30,2024",""],
-["timeset","timeset-gui","August 30,2024",""]
+["timeset","timeset-gui","August 30,2024",""],
+["pshot","pshot","August 31,2024",""]
 
   ];
 
