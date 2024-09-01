@@ -174,7 +174,8 @@
 ["cpblogfy","cblogfy, pblogfy, bblogfy and cppblogfy","August 29,2024","clang"],
 ["yepstat","yepstat","August 30,2024",""],
 ["timeset","timeset-gui","August 30,2024",""],
-["pshot","pshot","August 31,2024",""]
+["pshot","pshot","August 31,2024",""],
+["hackzy","hackzy","September 01,2024","clang"]
 
   ];
 
