@@ -9,7 +9,7 @@ This was dropped and you don't have to create this `gh-pages` branch.
 
 The way now is to click on `YourRepos->Settings->Pages` and:
 
-![](img/file/deploywebiste/deploy.png)
+![](img/file/deploywebsite/deploy.png)
 
 Choose the GitHub Actions and choose which branch you want to be used:
 
