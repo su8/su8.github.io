@@ -176,7 +176,8 @@
 ["timeset","timeset-gui","August 30,2024",""],
 ["pshot","pshot","August 31,2024",""],
 ["hackzy","hackzy","September 01,2024","clang"],
-["deploywebsite","Deploy a static website in GitHub","September 13,2024",""]
+["deploywebsite","Deploy a static website in GitHub","September 13,2024",""],
+["gawk_extensions","Gawk extensions","October 01,2024","clang"],
 
   ];
 
