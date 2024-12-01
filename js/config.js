@@ -178,7 +178,8 @@
 ["hackzy","hackzy","September 01,2024","clang"],
 ["deploywebsite","Deploy a static website in GitHub","September 13,2024",""],
 ["gawk_extensions","Gawk extensions","October 01,2024","clang"],
-["expand_luks","Expand LUKS encrypted file","November 01,2024","encrypt,luks"]
+["expand_luks","Expand LUKS encrypted file","November 01,2024","encrypt,luks"],
+["gtkcalendar","Simple gtk calendar","December 01,2024",""]
 
   ];
 
