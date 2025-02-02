@@ -180,7 +180,8 @@
 ["gawk_extensions","Gawk extensions","October 01,2024","clang"],
 ["expand_luks","Expand LUKS encrypted file","November 01,2024","encrypt,luks"],
 ["gtkcalendar","Simple gtk calendar","December 01,2024",""],
-["chattr","Locking files with chattr","January 02,2025",""]
+["chattr","Locking files with chattr","January 02,2025",""],
+["zip_unzip","Zip and unzip with python","February 02,2025",""]
 
   ];
 
