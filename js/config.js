@@ -181,7 +181,8 @@
 ["expand_luks","Expand LUKS encrypted file","November 01,2024","encrypt,luks"],
 ["gtkcalendar","Simple gtk calendar","December 01,2024",""],
 ["chattr","Locking files with chattr","January 02,2025",""],
-["zip_unzip","Zip and unzip with python","February 02,2025",""]
+["zip_unzip","Zip and unzip with python","February 02,2025",""],
+["hellxcb_zero_windows","Fixed one more bug with hellxcb","March 01,2025","hellxcb"]
 
   ];
 
