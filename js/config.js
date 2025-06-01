@@ -184,7 +184,8 @@
 ["zip_unzip","Zip and unzip with python","February 02,2025",""],
 ["hellxcb_zero_windows","Fixed one more bug with hellxcb","March 01,2025","hellxcb"],
 ["hellxcb_border_colour","Changing the border colour of a window","April 01,2025","hellxcb"],
-["pinkybar_changes","Color for the option and title","May 01,2025",""]
+["pinkybar_changes","Color for the option and title","May 01,2025",""],
+["while_read","Reading args from a pipe","June 01,2025",""]
 
   ];
 
