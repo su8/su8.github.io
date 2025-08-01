@@ -186,7 +186,8 @@
 ["hellxcb_border_colour","Changing the border colour of a window","April 01,2025","hellxcb"],
 ["pinkybar_changes","Color for the option and title","May 01,2025",""],
 ["while_read","Reading args from a pipe","June 01,2025",""],
-["runtime_strings","Runtime formatted strings in C","July 01,2025","clang"]
+["runtime_strings","Runtime formatted strings in C","July 01,2025","clang"],
+["reference_wrapper","The reference wrapper","August 01,2025","c++"]
 
   ];
 
