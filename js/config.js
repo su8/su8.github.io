@@ -187,7 +187,8 @@
 ["pinkybar_changes","Color for the option and title","May 01,2025",""],
 ["while_read","Reading args from a pipe","June 01,2025",""],
 ["runtime_strings","Runtime formatted strings in C","July 01,2025","clang"],
-["reference_wrapper","The reference wrapper","August 01,2025","c++"]
+["reference_wrapper","The reference wrapper","August 01,2025","c++"],
+["download_diff","Download a git pull request","September 01,2025",""]
 
   ];
 
