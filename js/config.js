@@ -190,7 +190,7 @@
 ["reference_wrapper","The reference wrapper","August 01,2025","c++"],
 ["download_diff","Download a git pull request","September 01,2025",""],
 ["2tattoos","I got 2 new tattoos","September 25,2025",""],
-["grepc","grepc","November 01,2025","c,c++"]
+["grepc","grepc","November 01,2025","c++"]
 
   ];
 
