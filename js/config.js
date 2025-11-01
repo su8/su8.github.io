@@ -191,7 +191,8 @@
 ["download_diff","Download a git pull request","September 01,2025",""],
 ["2tattoos","I got 2 new tattoos","September 25,2025",""],
 ["grepc","grepc","November 01,2025","c++"],
-["split_string","3 ways to split string in c/c++","November 01,2025","clang,c++"]
+["split_string","3 ways to split string in c/c++","November 01,2025","clang,c++"],
+["split_string2","The way to catch wrong str splitting","November 01,2025","clang,c++"]
 
   ];
 
