@@ -21,7 +21,7 @@ std::vector<std::string> variants(const std::string &word) {
 
   // Capitalize the first letter of the word
   std::string capitalized = word;
-  if (!capitalized.empty()) { capitalized[0] = static_cast<char>(toupper(capitalized[0])); }
+  if (!capitalized.empty()) { capitalized[0] = static_cast<char>(std::toupper(capitalized[0])); }
   result.push_back(capitalized);
 
   // Convert the word to uppercase
