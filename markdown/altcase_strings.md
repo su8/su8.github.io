@@ -25,7 +25,7 @@ std::vector<std::string> variants(const std::string &word) {
 
   // Convert the word to uppercase
   std::string upper = word;
-  std::transform(upper.begin(), upper.end(), upper.begin(), ::toupper);
+  std::transform(upper.begin(), upper.end(), upper.begin(), [](unsigned char ch) { return std::toupper(ch); } );
   result.push_back(upper);
   return result;
 }
