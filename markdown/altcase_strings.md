@@ -37,12 +37,9 @@ int main(void) {
   for (const auto &x : usernames) {
     for (const auto &z : roles) {
       for (const auto &sep : separators) {
-        // Generate variants
-        std::vector<std::string> userVariant = variants(x);
-        std::vector<std::string> roleVariant = variants(z);
         // Iterate over all combinations
-        for (const auto &user : userVariant) {
-          for (const auto &role : roleVariant) { std::cout << user << sep << role << std::endl; }
+        for (const auto &user : variants(x)) {
+          for (const auto &role : variants(z)) { std::cout << user << sep << role << std::endl; }
         }
       }
     }
