@@ -36,13 +36,13 @@ int main(void) {
   std::vector<std::string> separators = {"", "_"};
   for (const auto &x : usernames) {
     for (const auto &z : roles) {
-      for (const auto& sep : separators) {
+      for (const auto &sep : separators) {
         // Generate variants
         std::vector<std::string> userVariant = variants(x);
         std::vector<std::string> roleVariant = variants(z);
         // Iterate over all combinations
-        for (const auto& user : userVariant) {
-          for (const auto& role : roleVariant) { std::cout << user << sep << role << std::endl; }
+        for (const auto &user : userVariant) {
+          for (const auto &role : roleVariant) { std::cout << user << sep << role << std::endl; }
         }
       }
     }
@@ -58,16 +58,20 @@ I created a python version:
 ```python
 import itertools
 
-def variants(word):
-  return [word, word.capitalize(), word.upper()]
-    
-user = ['frost']
-roles = ['user', 'admin']
-seperators = ['', '_']
+class Generate(object):
+  def variants(self, word):
+    return [word, word.capitalize(), word.upper()];
 
-for userName, r, sep in itertools.product(user, roles, seperators):
-  for userz, rolez, in itertools.product(variants(userName), variants(r)):
-    print(f"{userz}{sep}{rolez}\n")
+  def __init__(self):
+    self.user = ['frost'];
+    self.roles = ['user', 'root'];
+    self.seperators = ['', '_'];
+    for userName, r, sep in itertools.product(self.user, self.roles, self.seperators):
+      for userz, rv, in itertools.product(self.variants(userName), self.variants(r)):
+        print(f"{userz}{sep}{rv}\n");
+
+if __name__ == '__main__':
+  Generate();
 ```
 
 And here's the output:
