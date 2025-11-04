@@ -11,6 +11,7 @@ Want to create different alternate casing regarding some strings ? Here's how to
 #include <string>
 #include <random>
 #include <algorithm>
+#include <iterator>
 
 std::vector<std::string> variants(const std::string &word);
 
