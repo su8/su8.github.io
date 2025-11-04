@@ -51,6 +51,25 @@ int main(void) {
 }
 ```
 
+post edit:
+
+I created a python version:
+
+```python
+import itertools
+
+def variants(word):
+  return [word, word.capitalize(), word.upper()]
+    
+user = ['frost']
+roles = ['user', 'admin']
+seperators = ['', '_']
+
+for userName, r, sep in itertools.product(user, roles, seperators):
+  for userz, rolez, in itertools.product(variants(userName), variants(r)):
+    print(f"{userz}{sep}{rolez}\n")
+```
+
 And here's the output:
 
 ```bash
