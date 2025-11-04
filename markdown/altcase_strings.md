@@ -67,8 +67,8 @@ class Generate(object):
     self.roles = ['user', 'root'];
     self.seperators = ['', '_'];
     for userName, r, sep in itertools.product(self.user, self.roles, self.seperators):
-      for userz, rv, in itertools.product(self.variants(userName), self.variants(r)):
-        print(f"{userz}{sep}{rv}\n");
+      for userz, rolez, in itertools.product(self.variants(userName), self.variants(r)):
+        print(f"{userz}{sep}{rolez}\n");
 
 if __name__ == '__main__':
   Generate();
