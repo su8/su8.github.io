@@ -22,7 +22,7 @@
 ["whats_new","What's new","January 24, 2014",""],
 ["change-file-format-to-all-files","Change the file format to all files in a directory","January 30, 2014",""],
 ["archlinux-installation","Tutorial: Archlinux installation","February 13, 2014","archlinux"],
-["extend_your_wireless_coverage","One house, one router, two floors, weak wireless","March 30, 2014","archlinux"],
+["extend_your_wireless_coverage","One house, one router, two floors, weak wireless","March 30, 2014",""],
 ["blogfy-reborn","Blogfy - reborn","April 06, 2014",""],
 ["bad_archey","GRUB - dual booting issue","April 11, 2014","archlinux"],
 ["set_grub_theme_and_distro_name","GRUB hacking","April 11, 2014",""],
@@ -192,7 +192,8 @@
 ["2tattoos","I got 2 new tattoos","September 25,2025",""],
 ["grepc","grepc","November 01,2025","c++"],
 ["split_string","3 ways to split string in c/c++","November 01,2025","clang,c++"],
-["split_string2","The way to catch wrong str splitting","November 01,2025","clang,c++"]
+["split_string2","The way to catch wrong str splitting","November 01,2025","clang,c++"],
+["altcase_strings","Creating different alt case strs","November 01,2025","c++"]
 
   ];
 
