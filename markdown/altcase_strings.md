@@ -1,7 +1,43 @@
 
 ---
 
-Want to create different alternate casing regarding some strings ? Here's how to do it:
+Generate alternate case from runtime strings. Perfect for generating permutations of credentials for testing or security auditing. Generates all possible combinations of a username and many roles with different casing styles and separators. It's useful for creating variations of strings, such as for password cracking tools like rainbow tables to be used by `john the ripper`.
+
+## The new C++ version, written on the next day:
+
+```cpp
+/*
+Copyright 11/05/2025 https://github.com/su8/nitruks
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+MA 02110-1301, USA.
+*/
+#include <cstdlib>
+#include <iostream>
+#include <string>
+#include <algorithm>
+
+int main(int argc, char *argv[]) {
+  for (int x = 1; x < argc; x++) {
+    std::string s = argv[x];
+    while (std::next_permutation(s.begin(), s.end())) { std::cout << s << std::endl; }
+  }
+  return EXIT_SUCCESS;
+}
+```
+
+## The old C++ version:
 
 ```cpp
 /*
@@ -65,9 +101,31 @@ std::vector<std::string> variants(const std::string &word) {
 }
 ```
 
+## The new python version
+
+## Python version of nitruks
+
+```python
+import sys;
+import itertools;
+
+class Generate(object):
+    def __init__(self):
+        self.roles = [x for x in sys.argv[1:]];
+        str2 = set();
+        for x in self.roles:
+            for z in itertools.permutations(x, len(x)):
+                str2.add(z);
+        print("{0}".format(''.join(list(itertools.chain(*str2)))));
+if __name__ == '__main__':
+    Generate();
+
+# And use it like this: python main.py hello world
+```
+
 post edit:
 
-I created a python version:
+## I created a python version (OLD ONE):
 
 ```python
 import sys;
@@ -134,44 +192,41 @@ fn main() {
 }
 ```
 
+`Makefile`:
 
-And here's the output:
+```makefile
+#   11/05/2025 https://github.com/su8/nitruks
+#   This program is free software; you can redistribute it and/or modify
+#   it under the terms of the GNU General Public License as published by
+#   the Free Software Foundation; either version 2 of the License, or
+#   (at your option) any later version.
 
-```bash
-frostuser
-frostUser
-frostUSER
-Frostuser
-FrostUser
-FrostUSER
-FROSTuser
-FROSTUser
-FROSTUSER
-frost_user
-frost_User
-frost_USER
-Frost_user
-Frost_User
-Frost_USER
-FROST_user
-FROST_User
-FROST_USER
-frostroot
-frostRoot
-frostROOT
-Frostroot
-FrostRoot
-FrostROOT
-FROSTroot
-FROSTRoot
-FROSTROOT
-frost_root
-frost_Root
-frost_ROOT
-Frost_root
-Frost_Root
-Frost_ROOT
-FROST_root
-FROST_Root
-FROST_ROOT
+#   This program is distributed in the hope that it will be useful,
+#   but WITHOUT ANY WARRANTY; without even the implied warranty of
+#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#   GNU General Public License for more details.
+
+#   You should have received a copy of the GNU General Public License
+#   along with this program; if not, write to the Free Software
+#   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+#   MA 02110-1301, USA.
+
+CFLAGS+=-g2 -Wall -Wextra -O2 -std=c++17 -D_DEFAULT_SOURCE -pipe -pedantic -Wundef -Wshadow -W -Wwrite-strings -Wcast-align -Wstrict-overflow=5 -Wconversion -Wpointer-arith -Wformat=2 -Wsign-compare -Wendif-labels -Wredundant-decls -Winit-self
+LDFLAGS+=
+PACKAGE=nitruks
+PROG=main.cpp
+
+all:
+	$(CXX) -o $(PACKAGE) $(PROG) $(CFLAGS) $(LDFLAGS)
+
+install: 
+	install -D -s -m 755 $(PACKAGE) /usr/bin/$(PACKAGE)
+
+clean:
+	rm -f $(PACKAGE)
+
+uninstall:
+	rm -f /usr/bin/$(PACKAGE)
+
+.PHONY: all install clean uninstall
 ```
