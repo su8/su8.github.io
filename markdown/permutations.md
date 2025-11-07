@@ -32,7 +32,27 @@ std::vector<std::string> createPermutations(const std::string &str) {
 }
 ```
 
-Running the program (`nitruks hello`) give us:
+The code above represents the same way of generating permutations:
+
+File `nitruks.cpp`
+
+```cpp
+#include <cstdlib>
+#include <iostream>
+#include <string>
+#include <algorithm>
+
+int main(int argc, char *argv[]) {
+  for (int x = 1; x < argc; x++) {
+    std::string s = argv[x];
+    std::sort(s.begin(), s.end());
+    do { std::cout << s << std::endl; } while (std::next_permutation(s.begin(), s.end()));
+  }
+  return EXIT_SUCCESS;
+}
+```
+
+Running both programs (`nitruks hello`) give us:
 
 ```bash
 hello
