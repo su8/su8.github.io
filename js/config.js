@@ -193,7 +193,8 @@
 ["grepc","grepc","November 01,2025","c++"],
 ["split_string","3 ways to split string in c/c++","November 01,2025","clang,c++"],
 ["split_string2","The way to catch wrong str splitting","November 01,2025","clang,c++"],
-["altcase_strings","Creating different alt case strs","November 04,2025","c++"]
+["altcase_strings","Creating different alt case strs","November 04,2025","c++"],
+["permutations","Recreating next_permutation in c++","November 07,2025","c++"]
 
   ];
 

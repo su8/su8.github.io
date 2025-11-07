@@ -14,7 +14,8 @@ Generate alternate case from runtime strings. Perfect for generating permutation
 int main(int argc, char *argv[]) {
   for (int x = 1; x < argc; x++) {
     std::string s = argv[x];
-    while (std::next_permutation(s.begin(), s.end())) { std::cout << s << std::endl; }
+    std::sort(s.begin(), s.end());
+    do { std::cout << s << std::endl; } while (std::next_permutation(s.begin(), s.end()));
   }
   return EXIT_SUCCESS;
 }
@@ -89,7 +90,7 @@ if __name__ == '__main__':
 
 post edit:
 
-### I created a python version (OLD ONE):
+### The old python version:
 
 ```python
 import sys;
