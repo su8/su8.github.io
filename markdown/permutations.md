@@ -7,10 +7,10 @@ Creating permutations of given strings in a row:
 #include <cstdlib>
 #include <iostream>
 #include <string>
-#include <vector>
+#include <set>
 #include <algorithm>
 
-std::vector<std::string> createPermutations(const std::string &str);
+std::set<std::string> createPermutations(const std::string &str);
 
 int main(int argc, char *argv[]) {
   for (int x = 1; x < argc; x++) {
@@ -18,15 +18,12 @@ int main(int argc, char *argv[]) {
   return EXIT_SUCCESS;
 }
 
-std::vector<std::string> createPermutations(const std::string &str) {
-  std::vector<std::string> result;
-  if (str.empty()) {
-    result.emplace_back("");
-    return result;
-  } 
+std::set<std::string> createPermutations(const std::string &str) {
+  std::set<std::string> result;
+  if (str.empty()) { result.insert(""); return result; } 
   for (unsigned int x = 0; x < str.length(); x++) {
     std::string wholeStr = str.substr(0, x) + str.substr(x + 1);
-    for (const auto &str2 : createPermutations(wholeStr)) { result.emplace_back(str[x] + str2); }
+    for (const auto &str2 : createPermutations(wholeStr)) { result.insert(str[x] + str2); }
   }
   return result;
 }
