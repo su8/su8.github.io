@@ -8,7 +8,6 @@ Creating permutations of given strings in a row:
 #include <iostream>
 #include <string>
 #include <vector>
-#include <set>
 #include <algorithm>
 
 std::vector<std::string> createPermutations(const std::string &str);
