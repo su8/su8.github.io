@@ -12,6 +12,8 @@ static mut mtx: Mutex<()>;
 static mut curDirNum: HashMap<String, u64> = HashMap::new();
 ```
 
+And here is how to declare 'em:
+
 ```rust
 // In the headers
 
