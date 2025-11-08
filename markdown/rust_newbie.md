@@ -9,4 +9,4 @@ My first real programming language was python dating back to July 2013. Then in 
 
 Learned a lot C++ and I like it, without C I wouldn't be able to learn C++ that fast.
 
-What's your opinion, go further with rust and stick with python/c/c++ for now ?
+What's your opinion, go further with rust or stick with python/c/c++ for now ?
