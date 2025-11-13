@@ -196,7 +196,8 @@
 ["altcase_strings","Creating different alt case strs","November 04,2025","c++"],
 ["permutations","Recreating next_permutation in c++","November 07,2025","c++"],
 ["rust_errors","Rust: mutex and hashmap globals","November 08,2025",""],
-["rust_newbie","Should I learn more Rust ?","November 08,2025",""]
+["rust_newbie","Should I learn more Rust ?","November 08,2025",""],
+["github_mention","Github mentions on deleted repo","November 13,2025",""]
 
   ];
 
