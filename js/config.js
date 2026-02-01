@@ -199,7 +199,8 @@
 ["rust_newbie","Should I learn more Rust ?","November 08,2025",""],
 ["github_mention","Github mentions on deleted repo","November 13,2025",""],
 ["gtk3libvlc","Gtk3 and liblvc video players","December 01,2025",""],
-["ssd","Configuring ssd in fstab","January 01,2026",""]
+["ssd","Configuring ssd in fstab","January 01,2026",""],
+["fail2ban","Configuring fail2ban","February 01,2026",""]
 
   ];
 
