@@ -32,10 +32,10 @@ bantime = 24h
 And enable and start the both services:
 
 ```
-sudo systemd enable ssh
-sudo systemd start ssh
-sudo systemd enable fail2ban
-sudo systemd start fail2ban
+sudo systemctl enable ssh
+sudo systemctl start ssh
+sudo systemctl enable fail2ban
+sudo systemctl start fail2ban
 ```
 
 Connect to your ssh device and input the wrong password, then the correct one and see what happens in the `log` file:
