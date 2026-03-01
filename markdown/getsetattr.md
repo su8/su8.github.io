@@ -1,7 +1,7 @@
 
 ---
 
-| The `setattr()` function in Python allows you to dynamically set or update an attribute of an object at runtime using the attribute's name as a string. This is especially useful when attribute names are determined programmatically. `getattr()` dynamically retrieves an attribute (or method) from an object by name.
+> The `setattr()` function in Python allows you to dynamically set or update an attribute of an object at runtime using the attribute's name as a string. This is especially useful when attribute names are determined programmatically. `getattr()` dynamically retrieves an attribute (or method) from an object by name.
 
 ```python
 attrs_list = ['encoding', 'section', 'langs', 'damn_you_bro',
