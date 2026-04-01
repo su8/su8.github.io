@@ -201,8 +201,8 @@
 ["gtk3libvlc","Gtk3 and liblvc video players","December 01,2025",""],
 ["ssd","Configuring ssd in fstab","January 01,2026",""],
 ["fail2ban","Configuring fail2ban","February 01,2026",""],
-["getsetattr","getattr and setattr in python","March 01,2026",""]
-
+["getsetattr","getattr and setattr in python","March 01,2026",""],
+["keybindings","Using keybindings in a config","April 01,2026",""]
   ];
 
   w.metaPool = Object.freeze(metaPool);
