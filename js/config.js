@@ -205,7 +205,7 @@
 ["keybindings","Using keybindings in a config","April 01,2026","c++"],
 ["dotfiles","Managing your dotfiles","May 01,2026",""],
 ["archlinux_functions","Archlinux shell funcs","June 01,2026","archlinux"],
-["vscodesvsvim","VSCode vs Vim","July 01,2026",""]
+["vscodevsvim","VSCode vs Vim","July 01,2026",""]
   ];
 
   w.metaPool = Object.freeze(metaPool);
