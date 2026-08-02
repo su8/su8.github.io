@@ -206,7 +206,7 @@
 ["dotfiles","Managing your dotfiles","May 01,2026",""],
 ["archlinux_functions","Archlinux shell funcs","June 01,2026","archlinux"],
 ["vscodevsvim","VSCode vs Vim","July 01,2026",""],
-["shellfuncs","Shell funcs for your pinguing","August 02,2026",""]
+["shellfuncs","Shell funcs for your pinguin","August 02,2026",""]
   ];
 
   w.metaPool = Object.freeze(metaPool);
