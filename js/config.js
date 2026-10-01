@@ -208,7 +208,7 @@
 ["vscodevsvim","VSCode vs Vim","July 01,2026",""],
 ["shellfuncs","Shell funcs for your pinguin","August 02,2026",""],
 ["some_shell_funcs2","Shell funcs for your pinguin 2","September 01,2026",""],
-["shellfuncs3","Shell funcs for your pinguin 3","October 01,2026",""]
+["shellfuncs3","Shell funcs for your pinguin 3","October 01,2026","encrypt"]
   ];
 
   w.metaPool = Object.freeze(metaPool);
