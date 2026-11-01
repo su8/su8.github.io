@@ -1,7 +1,7 @@
 
 ---
 
-Many bugfixes in hellxcb, rounded corners, smart GAPS, submenus closing when hovering one, floating layout and dropdown termanl were added:
+Many bugfixes in hellxcb, rounded corners, smart GAPS, submenus closing when hovering one, floating layout and dropdown terminal were added:
 
 https://github.com/su8/hellxcb/pull/9/changes
 
